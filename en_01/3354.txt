@@ -1,0 +1,1 @@
+Because of the way SDL is designed

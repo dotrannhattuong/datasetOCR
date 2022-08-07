@@ -1,0 +1,1 @@
+clicking on a group name allows the name to be modified

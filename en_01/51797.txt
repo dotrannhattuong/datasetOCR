@@ -1,0 +1,1 @@
+diplomat is a solitaire card game which is played using two decks of playing cards shuffled together

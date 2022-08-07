@@ -1,0 +1,1 @@
+Borland supplied the 1-2-3 menus as an alternative because keystroke compatibility was needed in order to run macros in 1-2-3 worksheets

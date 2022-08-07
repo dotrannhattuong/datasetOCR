@@ -1,0 +1,1 @@
+each chapter is allocated a number of delegates according to the size of its membership

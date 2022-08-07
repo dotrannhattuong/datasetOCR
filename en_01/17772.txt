@@ -1,0 +1,1 @@
+But Deinterlacing Of High Resolution Video In Real Time With Good Results Can Be Done Only With The Help Of Video Hardware Acceleration

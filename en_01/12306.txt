@@ -1,0 +1,1 @@
+both of these are vector spaces over q and the tensor product is to be taken over q as well

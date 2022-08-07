@@ -1,0 +1,1 @@
+Divergent problems are ones which do not converge on a single solution

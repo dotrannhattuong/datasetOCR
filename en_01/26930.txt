@@ -1,0 +1,1 @@
+by using the ehlo greeting to invoke extended smtp (esmtp)

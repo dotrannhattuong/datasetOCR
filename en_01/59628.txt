@@ -1,0 +1,1 @@
+each grid board serves 32 lines

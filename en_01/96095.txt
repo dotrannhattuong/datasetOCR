@@ -1,0 +1,1 @@
+hasp remains within jes2 subsystem as the prefix of most module names and the prefix of all messages sent by jes to the operator

@@ -1,0 +1,1 @@
+because it operates on the entire message

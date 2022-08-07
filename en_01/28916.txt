@@ -1,0 +1,1 @@
+Capacitor C1 prevents rise of the collector voltage of T2 again during the negative half cycles

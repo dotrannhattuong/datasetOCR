@@ -1,0 +1,1 @@
+Flooding also causes a high amount of signalling traffic in the network and hence such networks typically have very poor search efficiency

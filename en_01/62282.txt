@@ -1,0 +1,1 @@
+effectively storing every substring that has appeared in the past N bytes as dictionary entries

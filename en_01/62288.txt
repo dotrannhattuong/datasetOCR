@@ -1,0 +1,1 @@
+Effective numerical algorithms for approximating roots of polynomials exist

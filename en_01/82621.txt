@@ -1,0 +1,1 @@
+freecast is a free software application which allows peer-to-peer streaming

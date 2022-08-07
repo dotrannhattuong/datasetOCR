@@ -1,0 +1,1 @@
+For instance large deviations can exist between the calculated hydrogen ion concentration of a strong acid in solution and the hydrogen activity derived from a pH meter or a pH indicator

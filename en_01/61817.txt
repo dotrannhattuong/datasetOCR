@@ -1,0 +1,1 @@
+Editing errors can occur when a character in a scene references a scene or incident that has not occurred yet

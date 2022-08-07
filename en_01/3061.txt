@@ -1,0 +1,1 @@
+Because of its definition in terms of the fixed point index

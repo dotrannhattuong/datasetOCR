@@ -1,0 +1,1 @@
+ESBs provide the ability to set several security attributes for each service and provide administrative tools to configure security settings on the distributed ESB infrastructure across the network

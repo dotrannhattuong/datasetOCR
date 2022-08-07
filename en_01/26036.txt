@@ -1,0 +1,1 @@
+by re-computing the meta-analysis once for each of k studies

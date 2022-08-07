@@ -1,0 +1,1 @@
+For each pair of points successfully combined (by railing or shipping a resource-point to a factory)

@@ -1,0 +1,1 @@
+expanding these to a visually oriented thin-client paradigm accessible from any web browser

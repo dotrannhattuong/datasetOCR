@@ -1,0 +1,1 @@
+Corner Detectors Are Not Usually Very Robust And Often Require Expert Supervision Or Large Redundancies Introduced To Prevent The Effect Of Individual Errors From Dominating The Recognition Task

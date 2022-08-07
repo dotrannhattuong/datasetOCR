@@ -1,0 +1,1 @@
+But Mocklisp Has No Lists Or Other Structured Datatypes

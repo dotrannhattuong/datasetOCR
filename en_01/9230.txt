@@ -1,0 +1,1 @@
+Black cells may not form a diagonal split across the grid nor a closed loop

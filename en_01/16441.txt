@@ -1,0 +1,1 @@
+business rules seems to be becoming a subset of BPM

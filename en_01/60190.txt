@@ -1,0 +1,1 @@
+Each Slot Was Allocated 4 Address (The Later Mc6809 Version Upped This To 16 Address

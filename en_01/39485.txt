@@ -1,0 +1,1 @@
+Connectionless networks such as the Internet and SMDS networks have no CAC role

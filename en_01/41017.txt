@@ -1,0 +1,1 @@
+copies of the downloaded bea nipa tables used to construct the example

@@ -1,0 +1,1 @@
+Concurrent measurements of orthogonal components of the electric and magnetic fields allow for the calculation of the impedance tensor [1]

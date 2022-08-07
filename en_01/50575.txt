@@ -1,0 +1,1 @@
+Developers also have the option of self-signing their programs

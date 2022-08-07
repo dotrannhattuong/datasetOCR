@@ -1,0 +1,1 @@
+ECD produces significantly different types of fragment ions than other fragmentation methods such as collision-induced dissociation and infrared multiphoton dissociation

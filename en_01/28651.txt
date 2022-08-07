@@ -1,0 +1,1 @@
+Candidates are tested for all components each test session

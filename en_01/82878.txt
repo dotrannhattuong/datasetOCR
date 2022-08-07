@@ -1,0 +1,1 @@
+Frequency of a sound is measured in hertz

@@ -1,0 +1,1 @@
+Exalead allows the user to specify the required proximity

@@ -1,0 +1,1 @@
+both are based on a virtual machine model that hides the details of the computer hardware on which their programs run

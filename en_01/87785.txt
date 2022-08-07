@@ -1,0 +1,1 @@
+Generally A Cutoff Radius Is Used So That Atom Pairs Whose Distances Is Greater Than The Cutoff Have A Van Der Waals Interaction Energy Of Zero

@@ -1,0 +1,1 @@
+Consecutive holidays are a string of holidays taken together without working days in between

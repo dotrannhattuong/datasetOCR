@@ -1,0 +1,1 @@
+Dataparksearch Is A Crawler And Search Engine Released Under The Gnu General Public License

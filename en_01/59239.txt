@@ -1,0 +1,1 @@
+Dynamic striping across all devices to maximize throughput means that as additional devices are added to the zpool

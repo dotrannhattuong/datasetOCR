@@ -1,0 +1,1 @@
+doubled letters serve to distinguish centers within a class

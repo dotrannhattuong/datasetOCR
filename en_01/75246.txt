@@ -1,0 +1,1 @@
+foam actually responds elastically provided that the stress is below a threshold value

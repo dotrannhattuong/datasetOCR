@@ -1,0 +1,1 @@
+Functional Coverage And Logic Coverage Tools Have All Been Developed To Help Gauge The Completeness Of Simulation Testing

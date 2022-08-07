@@ -1,0 +1,1 @@
+gives the same result for positive or negative arguments

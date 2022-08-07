@@ -1,0 +1,1 @@
+but before NPTL was merged into glibc it constituted a separate library with its own linker flag

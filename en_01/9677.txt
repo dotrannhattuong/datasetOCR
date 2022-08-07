@@ -1,0 +1,1 @@
+Block allocation and deallocation occur as the surface propagates to accommodate to the deformations

@@ -1,0 +1,1 @@
+Convolution In The Time Domain Is Equivalent To Multiplication In The Frequency Domain

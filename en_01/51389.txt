@@ -1,0 +1,1 @@
+differentiating the euler equation for the internal energy and combining with the fundamental equation for internal energy

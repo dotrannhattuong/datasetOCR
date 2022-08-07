@@ -1,0 +1,1 @@
+consists of a series of statistics that evaluate the existence of local clusters in the spatial arrangement of a given variable

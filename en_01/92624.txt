@@ -1,0 +1,1 @@
+Grid computing or distributed computing aims to optimize the whole system

@@ -1,0 +1,1 @@
+every compactly generated Hausdorff space is a quotient of some locally compact Hausdorff space

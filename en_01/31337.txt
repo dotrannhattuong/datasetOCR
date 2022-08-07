@@ -1,0 +1,1 @@
+Central to both the reduction semantics and the labelled transition semantics is the notion of structural congruence

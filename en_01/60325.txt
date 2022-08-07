@@ -1,0 +1,1 @@
+each transition from a low to high or high to low represents a logical zero

@@ -1,0 +1,1 @@
+euler had already given the formulas for determining the coefficients in the series

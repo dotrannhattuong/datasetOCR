@@ -1,0 +1,1 @@
+CNS 11643 is a superset of ASCII designed to conform to ISO 2022

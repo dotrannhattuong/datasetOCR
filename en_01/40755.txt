@@ -1,0 +1,1 @@
+Convergence In Distribution Is Often Denoted By Adding The Letter Mathcal D Over An Arrow Indicating Convergence:

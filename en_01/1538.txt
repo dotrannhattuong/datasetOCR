@@ -1,0 +1,1 @@
+Based on the address fields of the SS7 messages

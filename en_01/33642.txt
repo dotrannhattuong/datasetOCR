@@ -1,0 +1,1 @@
+Chip-based RFID tags contain silicon chips and antennas

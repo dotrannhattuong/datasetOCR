@@ -1,0 +1,1 @@
+GNU Classpath supported both older and current CORBA features (same as Sun's implementation)

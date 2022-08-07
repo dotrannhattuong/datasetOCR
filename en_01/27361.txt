@@ -1,0 +1,1 @@
+Calculation of pavement layer strengths can be performed from the resulting deflection data

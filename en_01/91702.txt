@@ -1,0 +1,1 @@
+Grails features dynamic methods on several classes through mixins

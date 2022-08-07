@@ -1,0 +1,1 @@
+"Bayesian filtering relies on Bayesian probability to determine whether an incoming mail is spam or is not spam (""ham"")"

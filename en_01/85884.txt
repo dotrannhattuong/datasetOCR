@@ -1,0 +1,1 @@
+functions and commands in the command line consume and create objects on a stack

@@ -1,0 +1,1 @@
+common examples used to show degrees of penetrance are often highly penetrant

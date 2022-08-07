@@ -1,0 +1,1 @@
+earlier revision replica 1 came with an available serial i/o card which allowed programs written on or for the replica 1 to be stored on the hard drive of any common pc

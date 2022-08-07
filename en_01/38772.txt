@@ -1,0 +1,1 @@
+com') provides pseudo-pipelines with a syntax superficially similar to that of unix pipelines

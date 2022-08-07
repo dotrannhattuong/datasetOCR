@@ -1,0 +1,1 @@
+Elektra lets you do that because each information atom stored in it (key) has a unique name (key name) and access properties

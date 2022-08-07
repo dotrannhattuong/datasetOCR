@@ -1,0 +1,1 @@
+For The Higher Frequencies The Computed Number Of Windings Is Too Small (Surely Cannot Be Less Than One)

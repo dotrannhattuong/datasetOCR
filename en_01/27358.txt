@@ -1,0 +1,1 @@
+calculating pressure to 1 psi precision requires elevation data that's accurate to roughly 2 feet

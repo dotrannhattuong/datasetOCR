@@ -1,0 +1,1 @@
+CASL applications can either be run as interpreted applications on the target device (using a small helper binary) or compiled directly to native code (CASLpro)

@@ -1,0 +1,1 @@
+for larger customizations there's a simple javascript plugin api

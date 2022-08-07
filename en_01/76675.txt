@@ -1,0 +1,1 @@
+For accurate range determination a pulse must be transmitted and reflected before the next pulse is transmitted

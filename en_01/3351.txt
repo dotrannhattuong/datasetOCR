@@ -1,0 +1,1 @@
+Because of the verifiable type-safety of managed code

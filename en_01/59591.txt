@@ -1,0 +1,1 @@
+Each flight must meet a required minimum flight time of 90 seconds for Level 1 and 180 seconds for level 2

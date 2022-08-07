@@ -1,0 +1,1 @@
+Distributions optimized for size tend to use more compact alternatives like busybox and uclibc

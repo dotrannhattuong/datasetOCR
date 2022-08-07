@@ -1,0 +1,1 @@
+Dynamical systems whose equations of motion are obtainable by means of an action principle on a suitably chosen Lagrangian are known as Lagrangian dynamical systems

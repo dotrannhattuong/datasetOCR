@@ -1,0 +1,1 @@
+Each Dimir agent works in almost complete isolation

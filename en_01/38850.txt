@@ -1,0 +1,1 @@
+Computers with different microarchitectures can share a common instruction set

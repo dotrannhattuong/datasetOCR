@@ -1,0 +1,1 @@
+"Each hole in the card corresponds to a ""Bolus"" hook"

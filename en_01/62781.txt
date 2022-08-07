@@ -1,0 +1,1 @@
+Either type of route may be composed of several motorway/freeway/expressway type roads (i

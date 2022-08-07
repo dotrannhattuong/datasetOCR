@@ -1,0 +1,1 @@
+early models of power macintosh and the macintosh quadra supported 10base-t via the apple attachment unit interface while still supporting localtalk-based networking

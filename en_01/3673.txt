@@ -1,0 +1,1 @@
+because the usage of physical memory only increases as data is stored in it

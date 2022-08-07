@@ -1,0 +1,1 @@
+could be upgraded to 2 mib chip ram by fitting the 8372b agnus chip and adding extra memory

@@ -1,0 +1,1 @@
+Enemies typically move toward the hero or along a set path

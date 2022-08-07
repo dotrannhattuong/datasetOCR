@@ -1,0 +1,1 @@
+counties: identical to the admimistrative counties established by the local government (ireland) act 1898 and modified by later legislation

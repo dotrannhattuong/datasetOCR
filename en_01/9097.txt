@@ -1,0 +1,1 @@
+Bit 7 from the original character byte is read by the ULA and controls inverse-video on a per-character basis

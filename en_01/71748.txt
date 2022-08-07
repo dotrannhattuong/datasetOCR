@@ -1,0 +1,1 @@
+Features selected are included in this specification (a MoSCoW Method is often used for the features so they can be prioritized more easily)

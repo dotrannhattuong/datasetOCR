@@ -1,0 +1,1 @@
+function definitions are determined by syntactical context while type definitions use the reserved word typedef

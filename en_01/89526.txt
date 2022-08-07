@@ -1,0 +1,1 @@
+given a ring r and an r-module m

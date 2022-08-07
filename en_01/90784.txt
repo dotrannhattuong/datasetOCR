@@ -1,0 +1,1 @@
+"Gone was the chamber-in-block design of the ""W"" (which caused the power curve to drastically sag above 6500 RPM)"

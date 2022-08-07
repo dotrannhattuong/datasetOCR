@@ -1,0 +1,1 @@
+Design approaches that avoid this quandary separate the role of business rules and workflow as follows: business rules produce knowledge

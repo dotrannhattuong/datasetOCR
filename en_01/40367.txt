@@ -1,0 +1,1 @@
+Content Fingerprints Are Independent Of File Types And Encoding - A Fingerprint Generated From A Jpeg Image

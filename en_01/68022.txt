@@ -1,0 +1,1 @@
+Events can be causally related only if they are within each other's light cones

@@ -1,0 +1,1 @@
+Given that a word may be transliterated in accordance with meaning as well as sound

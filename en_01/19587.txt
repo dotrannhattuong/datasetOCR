@@ -1,0 +1,1 @@
+but intended as an internal product for testing scp's new 8086 cpu card for the s-100 bus

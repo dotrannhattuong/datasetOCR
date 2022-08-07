@@ -1,0 +1,1 @@
+each transaction is categorized into an interchange category depending on the kind of card that was used for the transaction and the circumstances of the transaction

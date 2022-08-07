@@ -1,0 +1,1 @@
+from the cobordism ring of smooth oriented compact manifolds to another ring

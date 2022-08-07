@@ -1,0 +1,1 @@
+For example a file or collection of files may be encrypted and sent over the Internet while the encryption key is printed and hand delivered or mailed

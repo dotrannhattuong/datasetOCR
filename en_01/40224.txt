@@ -1,0 +1,1 @@
+Contact resistance causes power dissipation via Joule heating in low frequency and analog circuits (for example

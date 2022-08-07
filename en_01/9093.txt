@@ -1,0 +1,1 @@
+Bistatic range refers to the basic measurement of range made by a radar or sonar system with separated transmitter and receiver

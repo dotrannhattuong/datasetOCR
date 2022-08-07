@@ -1,0 +1,1 @@
+GIS API's are designed to manage GIS data for its delivery to a web browser client from a GIS server

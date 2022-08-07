@@ -1,0 +1,1 @@
+each 4 bit group would drive 16 wires

@@ -1,0 +1,1 @@
+Design Compiler uses language templates to determine what hardware is to be implied

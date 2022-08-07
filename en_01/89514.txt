@@ -1,0 +1,1 @@
+given a glyph for 1 consisting of a single line without hooks or serifs

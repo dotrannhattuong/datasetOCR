@@ -1,0 +1,1 @@
+CDS relies on two components: multiple sessions

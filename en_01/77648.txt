@@ -1,0 +1,1 @@
+For example an f2 layout on 3 drives would look like:

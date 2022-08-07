@@ -1,0 +1,1 @@
+Each module added 238 registers of extended memory

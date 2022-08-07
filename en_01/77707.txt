@@ -1,0 +1,1 @@
+For example in the RDF VCard vocabulary one will write

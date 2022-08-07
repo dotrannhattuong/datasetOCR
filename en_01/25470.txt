@@ -1,0 +1,1 @@
+By dividing the displacement by the known time delay the two dimensional velocity field (in the plane of the grid) can be determined

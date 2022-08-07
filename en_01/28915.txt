@@ -1,0 +1,1 @@
+Capacitance slows the kinetics (the rise and fall times) of currents

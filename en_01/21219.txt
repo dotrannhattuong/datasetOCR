@@ -1,0 +1,1 @@
+But Once A Decoder Is Available It Can Be Applied To Every Object Of That Same Type

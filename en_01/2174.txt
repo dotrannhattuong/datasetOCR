@@ -1,0 +1,1 @@
+bbc installations used the m3 standard until 1999 in which the m and s needles indicated 3 db higher

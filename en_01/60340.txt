@@ -1,0 +1,1 @@
+Each unit first makes sure that the other is not using a revoked key and if one has a more up-to-date key revocation list it transmits it to the other

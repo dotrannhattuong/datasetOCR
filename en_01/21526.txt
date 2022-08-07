@@ -1,0 +1,1 @@
+but rather a list of commands that could be used to program routers so that network operators could blackhole all TCP/IP traffic for machines used to send spam or host spam supporting services

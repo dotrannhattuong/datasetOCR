@@ -1,0 +1,1 @@
+deleting alternating vertices of the hexeract

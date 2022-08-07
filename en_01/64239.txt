@@ -1,0 +1,1 @@
+enabling the graphics hardware increased performance in rendering 3D imagery

@@ -1,0 +1,1 @@
+Because of Inferno design it can be run as an application on top of another operating system

@@ -1,0 +1,1 @@
+cars failing to complete 70% of winner's distance marked as not classified (nc)

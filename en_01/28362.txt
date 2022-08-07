@@ -1,0 +1,1 @@
+can activate a MINITOR (and also block it) unknowingly if the atmospheric conditions let the signal propagate that far

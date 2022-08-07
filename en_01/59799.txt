@@ -1,0 +1,1 @@
+Each movement in each test receives a numeric score and the resulting final score is then converted into a percentage

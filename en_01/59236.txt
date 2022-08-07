@@ -1,0 +1,1 @@
+Dynamic Single Frequency Networks (DSFN) is a transmitter macrodiversity technique for for example OFDM based cellular networks

@@ -1,0 +1,1 @@
+Each subscriber was given a seven digit number where the first three digits corresponded to the local exchange name

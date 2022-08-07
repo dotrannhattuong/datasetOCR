@@ -1,0 +1,1 @@
+Even numbered routes are west/east roads increasing by multiples of four from south to north with the exceptions of CR 86 and CR 312

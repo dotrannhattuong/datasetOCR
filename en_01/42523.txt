@@ -1,0 +1,1 @@
+create cmydevice class that inherits from iidevicepnphardware and cunknown class

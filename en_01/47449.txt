@@ -1,0 +1,1 @@
+define the end state and ensure that all strategy is directed toward achieving it

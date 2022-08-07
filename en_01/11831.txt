@@ -1,0 +1,1 @@
+both classes of cover must and should be protected

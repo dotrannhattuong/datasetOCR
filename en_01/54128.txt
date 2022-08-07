@@ -1,0 +1,1 @@
+Dragging the faders by use of the right mouse button activates Post Send mode and causes all routings of the current input or playback channel to be changed in a relative way

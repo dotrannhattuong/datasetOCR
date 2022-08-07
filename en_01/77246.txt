@@ -1,0 +1,1 @@
+forcing the use of the emm386 program caused problems with programs that were incompatible with the expanded memory emulator

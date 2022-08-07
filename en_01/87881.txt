@@ -1,0 +1,1 @@
+Generally used for preventing signal loss through long chains of effects units (pedals) and getting overdrive tones out of a tube amp

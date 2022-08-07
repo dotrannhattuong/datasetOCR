@@ -1,0 +1,1 @@
+Each ship has a Class (see above) and a level within that class

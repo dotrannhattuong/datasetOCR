@@ -1,0 +1,1 @@
+"considering a specific axis (say the z-axis) the north pole represents spin ""up"" and the south pole"

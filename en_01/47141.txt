@@ -1,0 +1,1 @@
+Decoration with both the CIB and CAB is possible under certain circumstances

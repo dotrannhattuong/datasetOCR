@@ -1,0 +1,1 @@
+Careful use and monitoring of buffering is crucial in most high frequency computing applications

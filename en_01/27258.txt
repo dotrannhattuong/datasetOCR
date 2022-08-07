@@ -1,0 +1,1 @@
+cages now refer to pedals that can accommodate toe clips and not necessarily the clips themselves

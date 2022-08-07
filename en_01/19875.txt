@@ -1,0 +1,1 @@
+but it can be easily tweaked (see optimization section) to use integer math:

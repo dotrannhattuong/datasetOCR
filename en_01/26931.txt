@@ -1,0 +1,1 @@
+By using the original orientation of the system in the inertial reference frame as the initial condition and integrating the angular velocity

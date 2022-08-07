@@ -1,0 +1,1 @@
+ensures that all vehicles passing through the toll booth have paid a toll

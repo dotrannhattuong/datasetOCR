@@ -1,0 +1,1 @@
+Exponentiation in this purely algebraic sense satisfies the following laws (whenever both sides are defined):

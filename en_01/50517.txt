@@ -1,0 +1,1 @@
+Developable surfaces are surfaces that can be flattened to a plane without stretching

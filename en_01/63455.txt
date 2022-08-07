@@ -1,0 +1,1 @@
+Eliza Worked By Simple Parsing And Substitution Of Key Words Into Canned Phrases

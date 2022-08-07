@@ -1,0 +1,1 @@
+gma network management is now considering the switch of timeslot against startalk

@@ -1,0 +1,1 @@
+Existential quantification involves testing for the existence of at least one set of matching WMEs in working memory

@@ -1,0 +1,1 @@
+Colored Troops when its previous commander was disabled from wounds

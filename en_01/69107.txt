@@ -1,0 +1,1 @@
+example-based machine translation systems are trained from bilingual parallel corpora

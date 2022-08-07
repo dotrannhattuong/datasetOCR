@@ -1,0 +1,1 @@
+began writing a chess program for a computer that did not yet exist

@@ -1,0 +1,1 @@
+excessive use of effects may degrade the slide show performance

@@ -1,0 +1,1 @@
+Early versions of the speech recognition provided full access to the menus

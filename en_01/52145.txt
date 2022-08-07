@@ -1,0 +1,1 @@
+"Discovered by Salvatore Sanfilippo (also known by his handle ""Antirez"") in 1998 [1]"

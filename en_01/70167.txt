@@ -1,0 +1,1 @@
+Extensions and themes (below) available on the Mozilla Update site may be upgraded through the client

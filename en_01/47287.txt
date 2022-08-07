@@ -1,0 +1,1 @@
+defaults to auto flash and will fire if the camera shutter speed falls below a certain speed

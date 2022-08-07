@@ -1,0 +1,1 @@
+Extended versions of this algorithm are implemented in Mathematica and the Maple computer algebra system

@@ -1,0 +1,1 @@
+botball is a lego-based competition between fully autonomous robots

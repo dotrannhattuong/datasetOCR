@@ -1,0 +1,1 @@
+Each group has a series of test suites that they use in order to test a specific aspect of a device's functions

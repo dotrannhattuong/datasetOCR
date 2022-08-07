@@ -1,0 +1,1 @@
+dte devices usually transmit on pin connector number 2 and receive on pin connector number 3

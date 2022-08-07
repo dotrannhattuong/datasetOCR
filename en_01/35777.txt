@@ -1,0 +1,1 @@
+clients also directly exchange information about servers and files

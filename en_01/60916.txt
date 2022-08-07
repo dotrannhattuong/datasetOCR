@@ -1,0 +1,1 @@
+early work in this area (joint estimation of image projection and exposure value) was undertaken by mann and candoccia

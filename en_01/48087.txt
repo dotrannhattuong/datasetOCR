@@ -1,0 +1,1 @@
+Denemo helps prepare notation for publishing with Lilypond

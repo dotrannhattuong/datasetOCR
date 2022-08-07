@@ -1,0 +1,1 @@
+duplication of the grounds assures that the system is still safe if either of the grounds are damaged

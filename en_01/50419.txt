@@ -1,0 +1,1 @@
+Determinism is given initial states one can predict the end state

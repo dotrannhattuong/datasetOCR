@@ -1,0 +1,1 @@
+Consider this snippet of C code as an example of the ambiguity encountered when determining SLOC:

@@ -1,0 +1,1 @@
+Entrez also provides a similar interface for searching each particular database and for refining search results

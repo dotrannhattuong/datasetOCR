@@ -1,0 +1,1 @@
+defined by the IETF in RFC 1896 and associated with the text/enriched MIME type

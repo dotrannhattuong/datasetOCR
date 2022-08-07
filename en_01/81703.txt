@@ -1,0 +1,1 @@
+Four of the filters have bandpasses in the near-ultraviolet and so can be used with the HRC only

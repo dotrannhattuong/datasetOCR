@@ -1,0 +1,1 @@
+Due To Performance It Can Be Impossible To Use An Allocator In A Real Time System And A Memory Pool Must Be Deployed Instead

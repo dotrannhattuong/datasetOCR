@@ -1,0 +1,1 @@
+Common Techniques For Doing So Are To Have Different Sections Of A Program Use Different Namespaces

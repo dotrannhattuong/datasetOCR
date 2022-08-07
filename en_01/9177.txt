@@ -1,0 +1,1 @@
+Bl2 Ordinarily Runs In A Ramdisk (Which Is Loaded Either Through Loadlin Or With A Boot Floppy) But May Be Installed To The Root Of A Linux Hard Disk Partition

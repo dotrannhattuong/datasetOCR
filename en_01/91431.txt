@@ -1,0 +1,1 @@
+GPIO devices provide a set of IO ports which can be configured for either input or output

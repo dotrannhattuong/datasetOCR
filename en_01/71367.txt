@@ -1,0 +1,1 @@
+fast hack'em could verify the resulting disk copies to ensure that they were valid

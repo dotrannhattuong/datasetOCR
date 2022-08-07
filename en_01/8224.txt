@@ -1,0 +1,1 @@
+Biasing is done by large resistors

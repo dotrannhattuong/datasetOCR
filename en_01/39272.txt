@@ -1,0 +1,1 @@
+Confluence also describes a location where integer latitude and integer longitude lines cross

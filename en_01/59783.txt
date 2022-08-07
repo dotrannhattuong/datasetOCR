@@ -1,0 +1,1 @@
+Each model can be verified with Spin under different types of assumptions about the environment

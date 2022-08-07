@@ -1,0 +1,1 @@
+double buffering (sometimes called ping-pong buffering) is a technique used to reduce or remove visible artifacts from the drawing process

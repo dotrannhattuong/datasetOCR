@@ -1,0 +1,1 @@
+DocBook 5 is defined in a namespace (http://docbook

@@ -1,0 +1,1 @@
+but can move any distance past the piece it jumps over as long as its path is unobstructed

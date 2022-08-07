@@ -1,0 +1,1 @@
+"Each user has a certain number of ""credits"" they can use to identify song profiles"

@@ -1,0 +1,1 @@
+calibrated airspeed is further corrected for compressibility errors and becomes equivalent airspeed (EAS)

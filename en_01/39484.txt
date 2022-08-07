@@ -1,0 +1,1 @@
+Connection is a condition over tableau that forbids expanding a branch using clauses that are unrelated to the literals that are already in the branch

@@ -1,0 +1,1 @@
+for example knowing the best cases of individual tasks can be used to improve accuracy of an overall worst-case analysis

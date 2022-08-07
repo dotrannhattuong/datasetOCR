@@ -1,0 +1,1 @@
+Data dealing with one subject is called univariate

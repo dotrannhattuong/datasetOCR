@@ -1,0 +1,1 @@
+for a transmissive nd filter the amount of optical power transmitted throught the filter is given by:

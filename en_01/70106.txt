@@ -1,0 +1,1 @@
+Expressions in a given agent's native language should be understood by some other agent that uses a different implementation language and domain assumptions

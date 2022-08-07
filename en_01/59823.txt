@@ -1,0 +1,1 @@
+Each Number Denotes The Sum Of All Cells Visible In Any Orthoganal Direction Before Line Of The Loop Is Reached

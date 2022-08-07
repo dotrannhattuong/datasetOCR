@@ -1,0 +1,1 @@
+Constraint Propagation (Enforcing A Form Of Local Consistency) Might Produce An Empty Domain Or An Unsatisfiable Constraint

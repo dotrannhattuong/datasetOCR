@@ -1,0 +1,1 @@
+FLIR allows obsevation and tracking in low light / no light situations

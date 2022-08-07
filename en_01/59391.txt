@@ -1,0 +1,1 @@
+Each Cell Stores Its Own Set Of Instructions For Carrying Out Each Of These Activities

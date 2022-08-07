@@ -1,0 +1,1 @@
+Gradients And Other Shadings Can Appear Blocky (Although Dithering Can Be Used In Some Cases To Reduce This Effect)

@@ -1,0 +1,1 @@
+estimates for the number of defective parts per million produced also depends on knowing something about the shape of the distribution from which the samples are drawn

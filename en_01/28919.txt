@@ -1,0 +1,1 @@
+capacitor voltage drops faster than battery voltage during discharge

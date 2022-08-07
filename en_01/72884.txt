@@ -1,0 +1,1 @@
+Figure 1 illustrates the complete FAST hardware and software stack

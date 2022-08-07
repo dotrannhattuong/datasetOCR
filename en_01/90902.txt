@@ -1,0 +1,1 @@
+goods can be allocated either by pricing (ability to pay) or by queueing (first-come first-serve)

@@ -1,0 +1,1 @@
+either P1 or P2 is destroyed

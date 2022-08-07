@@ -1,0 +1,1 @@
+Current testing and measurement of IP networks is more commonly done with ping and traceroute computer network tools which use the ICMP protocol instead of DISCARD

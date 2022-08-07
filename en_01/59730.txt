@@ -1,0 +1,1 @@
+Each Led Has 256 Brightness Steps

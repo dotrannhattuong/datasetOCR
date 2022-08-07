@@ -1,0 +1,1 @@
+closed cities consisting of two tiles score two points (one per tile) and one extra point for every shield that reside in the city

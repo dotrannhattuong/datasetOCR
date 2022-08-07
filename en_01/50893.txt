@@ -1,0 +1,1 @@
+Dialing to a mobile network requires the access code together with the '0'

@@ -1,0 +1,1 @@
+Both OWL-S and WSDL need to be used together to allow a full specification of grounding

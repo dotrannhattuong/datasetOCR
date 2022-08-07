@@ -1,0 +1,1 @@
+CHAOS was developed to utilise idle desktop computer resources to perform pro-active brute-force cryptanalysis against given password hashes

@@ -1,0 +1,1 @@
+Clients Can Repeat Operations Like Read And Write After A Timeout Without Fear Of Corruption Or Incorrect Results

@@ -1,0 +1,1 @@
+each division promotes to the division(s) that lie directly above it and relegates to the division(s) that lie directly below it:

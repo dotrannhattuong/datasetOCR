@@ -1,0 +1,1 @@
+ci uses a variational wave function that is a linear combination of configuration state functions (csfs) built from spin orbitals (denoted by the superscript so)

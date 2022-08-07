@@ -1,0 +1,1 @@
+dda is somewhat similar to the finite element method for solving stress-displacement problems

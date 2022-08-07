@@ -1,0 +1,1 @@
+equivariant trivializations therefore preserve the g-torsor structure of the fibers

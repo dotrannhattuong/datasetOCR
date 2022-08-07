@@ -1,0 +1,1 @@
+Bluetooth provides a way to connect and exchange information between devices such as mobile phones

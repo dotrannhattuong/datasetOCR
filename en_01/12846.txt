@@ -1,0 +1,1 @@
+Both views and their mutual correspondence are discussed in the article on lattices

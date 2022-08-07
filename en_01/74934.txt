@@ -1,0 +1,1 @@
+floppy disk and magnetic tape storage may experience bit rot as bits lose magnetic orientation

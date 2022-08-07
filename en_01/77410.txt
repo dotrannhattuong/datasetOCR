@@ -1,0 +1,1 @@
+For each automaton four documents are created

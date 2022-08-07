@@ -1,0 +1,1 @@
+FreeSWITCH is built from the ground up and designed to take advantage of as many existing software libraries as possible

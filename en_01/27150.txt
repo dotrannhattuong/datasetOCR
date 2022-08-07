@@ -1,0 +1,1 @@
+caching is an effective manner of improving performance in situations where the principle of locality of reference applies

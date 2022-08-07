@@ -1,0 +1,1 @@
+Each pixel of an image consists of three values for the brightness of the red

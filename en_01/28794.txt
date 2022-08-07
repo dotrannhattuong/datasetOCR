@@ -1,0 +1,1 @@
+canonical quantization yields a quantum-mechanical version of this theorem

@@ -1,0 +1,1 @@
+Condition 1 in Angluin's paper is not always easy to verify

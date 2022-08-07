@@ -1,0 +1,1 @@
+Compact cameras that use the main sensor to create a live preview on the LCD or electronic viewfinder need to use the slower contrast method of autofocus

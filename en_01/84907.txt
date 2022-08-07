@@ -1,0 +1,1 @@
+from the DNA-RNA transcription step to post-translational modification of a protein

@@ -1,0 +1,1 @@
+But Chips Are Generally Assembled Into 168-Pin Dimms That Read Or Write 64 (Non-Ecc) Or 72 (Ecc) Bits At A Time

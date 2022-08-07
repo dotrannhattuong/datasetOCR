@@ -1,0 +1,1 @@
+Computers of that era rarely had clocks set sufficiently accurately to provide meaningful sub-second timestamps in any case

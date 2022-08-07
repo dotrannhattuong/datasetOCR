@@ -1,0 +1,1 @@
+GBDE also has a disk space overhead of about 3% to store the per-sector keys

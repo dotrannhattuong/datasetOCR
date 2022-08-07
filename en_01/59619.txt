@@ -1,0 +1,1 @@
+each generic interval can be made from one of two possible different secific intervals

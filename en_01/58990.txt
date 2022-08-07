@@ -1,0 +1,1 @@
+During xine development some effort was dedicated to making a clear separation of the player engine (xine-lib) and frontend (xine-ui)

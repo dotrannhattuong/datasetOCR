@@ -1,0 +1,1 @@
+Currently EQEmu is not up to date with the current live client

@@ -1,0 +1,1 @@
+CMOS circuits dissipate power by charging and discharging the various load capacitances (mostly gate and wire capacitance

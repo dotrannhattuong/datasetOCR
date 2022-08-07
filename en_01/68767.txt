@@ -1,0 +1,1 @@
+every sequence is identified by the letter a followed by six digits

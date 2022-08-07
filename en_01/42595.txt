@@ -1,0 +1,1 @@
+Creates a transcript of everything that is typed in or outputted to the command window

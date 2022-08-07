@@ -1,0 +1,1 @@
+Early BASIC only supported single letter and digit names

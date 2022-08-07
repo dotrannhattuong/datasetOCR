@@ -1,0 +1,1 @@
+because the voltage-current equations of the two devices can be transformed into one another by exchanging the voltage and current terms

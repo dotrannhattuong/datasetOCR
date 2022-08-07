@@ -1,0 +1,1 @@
+Google's PageRank is a variant of the Eigenvector centrality measure

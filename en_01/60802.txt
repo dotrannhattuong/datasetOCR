@@ -1,0 +1,1 @@
+Early Linux distributions also supported a format known as UMSDOS

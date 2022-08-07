@@ -1,0 +1,1 @@
+Battery Life Can Be Reasonably Predicted By The Use Of A Telemetry Programming Device So That The Unit Can Be Replaced Prior To Battery Failure

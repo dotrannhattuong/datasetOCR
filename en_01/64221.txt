@@ -1,0 +1,1 @@
+enabling command queueing on the WD740GD resulted in a performance decrease in single-user scenarios

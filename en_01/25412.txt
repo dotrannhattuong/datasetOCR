@@ -1,0 +1,1 @@
+By converting the PostScript or other page description language input into a series of graphics commands

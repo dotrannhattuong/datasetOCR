@@ -1,0 +1,1 @@
+being divisible by the sum of its digits

@@ -1,0 +1,1 @@
+Every connection is logged to a central database

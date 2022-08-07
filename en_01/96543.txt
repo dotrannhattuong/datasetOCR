@@ -1,0 +1,1 @@
+having a large number of possible choices makes the problem of searching for a closed tableau harder

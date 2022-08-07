@@ -1,0 +1,1 @@
+because the outcome z of this operation is the 3 x 1 zero vector

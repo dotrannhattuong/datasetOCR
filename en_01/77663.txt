@@ -1,0 +1,1 @@
+For example both expenses and assets are debit in nature but to an untrained user it would be quite simple to enter a capital purchase as an expense

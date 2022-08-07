@@ -1,0 +1,1 @@
+Different ISO/IEC standards are defined to deal with each individual writing systems to implement them in computers (or in electronic form)

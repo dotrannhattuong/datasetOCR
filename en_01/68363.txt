@@ -1,0 +1,1 @@
+even when the return and forward channels use the same medium

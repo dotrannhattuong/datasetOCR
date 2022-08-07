@@ -1,0 +1,1 @@
+Directed completeness alone is quite a basic property that occurs often in other order theoretic investigations

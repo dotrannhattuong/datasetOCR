@@ -1,0 +1,1 @@
+"because scsi rev drives identify themselves as ""rrd"" drives to the host os"

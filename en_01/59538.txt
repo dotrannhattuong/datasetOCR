@@ -1,0 +1,1 @@
+each drum read and wrote 50 bits at a time in parallel so transferring data could be done quickly

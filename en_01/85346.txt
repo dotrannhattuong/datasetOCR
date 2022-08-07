@@ -1,0 +1,1 @@
+from this the assertion of the theorem follows from basic facts about transitive group actions of compact groups

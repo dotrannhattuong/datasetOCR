@@ -1,0 +1,1 @@
+green map panels give kangas a higher bounce in the direction indicated on the pad

@@ -1,0 +1,1 @@
+By taking multiple projection images around the rotation axis of the sample

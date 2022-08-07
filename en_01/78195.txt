@@ -1,0 +1,1 @@
+for just-in-time compilers the performance of the optimizer is a key in improving execution speed

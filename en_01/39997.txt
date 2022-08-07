@@ -1,0 +1,1 @@
+constraint propagation can also be used as an unsatisfiability checker

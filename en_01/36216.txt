@@ -1,0 +1,1 @@
+CMake is an operating system and compiler independent build process that produces native build files appropriate to the OS and compiler that it is run with

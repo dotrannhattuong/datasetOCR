@@ -1,0 +1,1 @@
+Fya and Fyb differ by in a single amino acid at position 43: aspartic acid in Fya and glycine in Fyb

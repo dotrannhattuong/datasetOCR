@@ -1,0 +1,1 @@
+For example if it is desired to stop a car in the shortest possible time after a traffic light turns red

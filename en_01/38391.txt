@@ -1,0 +1,1 @@
+Compatibility With Usb Devices Is Dependent On The Software Supporting Said Usb Device

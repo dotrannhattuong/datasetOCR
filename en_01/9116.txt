@@ -1,0 +1,1 @@
+BitLocker will encrypt the computer's boot volume and provide integrity authentication for a trusted boot pathway (i

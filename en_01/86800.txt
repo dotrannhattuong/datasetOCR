@@ -1,0 +1,1 @@
+Games such as this store all code server side and only send the user's browser HTML markup language for interpretation

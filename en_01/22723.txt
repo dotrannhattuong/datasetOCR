@@ -1,0 +1,1 @@
+But the latency over a dial-up Internet connection is much larger than on a LAN

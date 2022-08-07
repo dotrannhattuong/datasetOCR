@@ -1,0 +1,1 @@
+denshin 8 go supports the pop3 and smtp protocols

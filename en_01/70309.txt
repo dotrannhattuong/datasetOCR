@@ -1,0 +1,1 @@
+Extrusion simulation tools help to understand the extrusion process and to optimize development of tools and products

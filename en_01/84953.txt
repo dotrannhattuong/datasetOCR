@@ -1,0 +1,1 @@
+"from the greek word meaning ""to divide"""

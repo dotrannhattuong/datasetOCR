@@ -1,0 +1,1 @@
+by separating the mkde from the other functions it allowed programmers to use several methods of accessing the database simultaneously

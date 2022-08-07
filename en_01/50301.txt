@@ -1,0 +1,1 @@
+detailed reports provide a way to identify unmanaged configuration on hosts

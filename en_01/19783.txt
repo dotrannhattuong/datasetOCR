@@ -1,0 +1,1 @@
+But Is Not Pushed And Popped With The Rest Of The State Variables When The Opcodes Push Or Pop Are Encountered

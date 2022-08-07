@@ -1,0 +1,1 @@
+Benford's law does not apply when the spread of numbers being considered is less than an order of magnitude

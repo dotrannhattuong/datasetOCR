@@ -1,0 +1,1 @@
+Each Fk(M) is a principle Gk bundle over M

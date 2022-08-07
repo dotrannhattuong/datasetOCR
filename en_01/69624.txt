@@ -1,0 +1,1 @@
+executable and write flags that may be set in any combination

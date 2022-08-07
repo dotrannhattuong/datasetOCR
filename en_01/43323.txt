@@ -1,0 +1,1 @@
+cross-platform multimedia scripting language which would enable developers to create entirely new kinds of applications that would harness the power of the platform

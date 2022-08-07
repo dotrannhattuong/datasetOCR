@@ -1,0 +1,1 @@
+Each Monster Carries A Single Attribute (Six Kinds) And Type (Twenty Kinds) That Dictates How Certain Effects Apply To It

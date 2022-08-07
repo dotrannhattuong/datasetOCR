@@ -1,0 +1,1 @@
+Chomsky made a distinction between grammars which achieved descriptive adequacy and those which went further and achieved explanatory adequacy

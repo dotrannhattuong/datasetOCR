@@ -1,0 +1,1 @@
+from this framework it is possible to build an alternative gui for any operating system

@@ -1,0 +1,1 @@
+Guitar Pro Outputs Sound By Means Of A Midi Library And/Or

@@ -1,0 +1,1 @@
+composite and s-video are used in pal and ntsc regions

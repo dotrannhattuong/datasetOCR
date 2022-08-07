@@ -1,0 +1,1 @@
+effectively a stack-based forth-type scheme intended to allow the interpreter to call rom routines more rapidly

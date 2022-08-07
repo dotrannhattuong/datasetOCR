@@ -1,0 +1,1 @@
+being able to identify which pixels in an image make up the contour of an object is a non-trivial problem

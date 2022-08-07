@@ -1,0 +1,1 @@
+Current standardization efforts for these methods include IETF RFC 2945

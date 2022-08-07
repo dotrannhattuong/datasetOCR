@@ -1,0 +1,1 @@
+Debian GNU/kFreeBSD can be tried using the Ging LiveCD

@@ -1,0 +1,1 @@
+good deinterlacing yields quite good results if the deinterlacing option is turned on

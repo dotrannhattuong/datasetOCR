@@ -1,0 +1,1 @@
+f was designed to be a clean subset of fortran 95 that attempted to remove the redundant

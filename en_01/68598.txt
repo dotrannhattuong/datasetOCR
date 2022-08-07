@@ -1,0 +1,1 @@
+every ghost has a maximum weight they can carry

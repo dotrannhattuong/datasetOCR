@@ -1,0 +1,1 @@
+Discarded and dropped weapons and ammo can be collected by the player

@@ -1,0 +1,1 @@
+GOTO-style branching is now widely considered by programmers to be poor programming style

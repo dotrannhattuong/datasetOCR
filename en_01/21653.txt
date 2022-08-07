@@ -1,0 +1,1 @@
+But render layers can render more than just individual objects

@@ -1,0 +1,1 @@
+Compiling This Program In C99 Compliance Mode Will Result In Warning Or Error Messages

@@ -1,0 +1,1 @@
+classical stokesian dynamics requires o(n3) operation where n is the number of particles in the system (usually a periodic box)

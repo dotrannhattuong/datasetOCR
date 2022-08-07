@@ -1,0 +1,1 @@
+BASIC was similar to FORTRAN used by engineers on the [ [HP 1000] minicomputer

@@ -1,0 +1,1 @@
+for each connection there is a data base explorer window

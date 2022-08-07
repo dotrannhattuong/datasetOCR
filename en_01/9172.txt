@@ -1,0 +1,1 @@
+bjts are better to drive the other gates because they can output more current than mosfets

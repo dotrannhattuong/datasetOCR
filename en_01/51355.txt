@@ -1,0 +1,1 @@
+different aircraft may be flying at different heights even though their altimeters show the same altitude

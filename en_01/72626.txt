@@ -1,0 +1,1 @@
+fibonacci describes similar methods for denominators that are two or three less than a number with many factors

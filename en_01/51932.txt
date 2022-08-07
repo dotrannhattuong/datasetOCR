@@ -1,0 +1,1 @@
+direct multiplication (discarding any excess bits beyond that precision) will provide the correct result

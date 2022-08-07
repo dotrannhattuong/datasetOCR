@@ -1,0 +1,1 @@
+gsc was a general 32-bit i/o bus

@@ -1,0 +1,1 @@
+Communication between the kernel and the front end (or any other client

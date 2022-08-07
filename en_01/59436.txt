@@ -1,0 +1,1 @@
+each color channel is represented by a 32-bit

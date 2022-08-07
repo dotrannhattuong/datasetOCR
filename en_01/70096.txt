@@ -1,0 +1,1 @@
+Expression Data Can Be Used To Infer Gene Regulation: One Might Compare Microarray Data From A Wide Variety Of States Of An Organism To Form Hypotheses About The Genes Involved In Each State

@@ -1,0 +1,1 @@
+Computers do not know that a space character between two sequences of characters means that there are two separate words in the document

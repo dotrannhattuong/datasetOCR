@@ -1,0 +1,1 @@
+Change Finder gives the Macintosh Finder the one ability that it lacks in comparison to Microsoft Windows Explorer - an easy way to view hidden files without having to use the terminal

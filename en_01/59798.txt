@@ -1,0 +1,1 @@
+Each move involves joining two free ends with a curve (again not crossing any existing line) and then putting a short stroke across the line

@@ -1,0 +1,1 @@
+but reserves exclusive use of an i/o pin and can therefore be disabled to recover the pin for other uses (once disabled it can only be re-enabled using high voltage programming)

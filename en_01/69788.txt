@@ -1,0 +1,1 @@
+expanding an NES ROM may be difficult or even impossible due to the mapper used by the game

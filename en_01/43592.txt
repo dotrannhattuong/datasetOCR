@@ -1,0 +1,1 @@
+CTC released the Datapoint 2200 using about 100 discrete TTL components (SSI/MSI chips) instead of a microprocessor

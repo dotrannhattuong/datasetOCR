@@ -1,0 +1,1 @@
+Both systems use the same Hitachi SH-4 CPU

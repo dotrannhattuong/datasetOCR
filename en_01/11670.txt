@@ -1,0 +1,1 @@
+both ansi and oem code pages are extended ascii code pages

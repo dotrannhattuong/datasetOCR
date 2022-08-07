@@ -1,0 +1,1 @@
+Canny studied the problem of designing an optimal pre-smoothing filter for edge detection

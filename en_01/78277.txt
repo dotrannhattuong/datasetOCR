@@ -1,0 +1,1 @@
+formal sums of points with non-negative integer coefficients

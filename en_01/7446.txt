@@ -1,0 +1,1 @@
+Beta is a parameter indicating the relative importance of kinetic to electromagnetic phenomena

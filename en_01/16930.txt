@@ -1,0 +1,1 @@
+but an architecture for a typical spoken dialog system is shown in the figure below

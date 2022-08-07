@@ -1,0 +1,1 @@
+Fujitsu's current mainframe platform is called Nova but this emulates the Trimetra architecture on generic Unisys ES7000 Intel-based server hardware

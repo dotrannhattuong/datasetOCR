@@ -1,0 +1,1 @@
+Currently it is the longest line in the network with 24 stations and 25

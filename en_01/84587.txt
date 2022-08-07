@@ -1,0 +1,1 @@
+From normal mode one can enter insert mode any number of ways

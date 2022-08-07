@@ -1,0 +1,1 @@
+creating a fenster (or window) when the underlying block is only exposed in a relatively small area

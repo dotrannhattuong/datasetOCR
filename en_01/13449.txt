@@ -1,0 +1,1 @@
+Braking effort is proportional to the product of the magnetic strength of the field windings

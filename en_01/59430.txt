@@ -1,0 +1,1 @@
+Each closet is connected to the main distribution frame via dual gigabit ethernet trunk lines

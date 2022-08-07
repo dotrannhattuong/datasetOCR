@@ -1,0 +1,1 @@
+Compasses used for wilderness land navigation should never be used in close proximity to ferrous metal objects or electromagnetic fields (batteries

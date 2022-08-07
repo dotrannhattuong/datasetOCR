@@ -1,0 +1,1 @@
+Different printers use somewhat different methods of selenium toning

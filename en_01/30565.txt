@@ -1,0 +1,1 @@
+CatOS runs on the Switch Processor (SP) portion of the MSFC and IOS runs on the Route Processor (RP)

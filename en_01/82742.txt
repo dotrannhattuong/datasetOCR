@@ -1,0 +1,1 @@
+Free space power loss is proportional to the square of the distance between the transmitter and receiver and also proportional to the square of the frequency of the radio signal

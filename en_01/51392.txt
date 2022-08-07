@@ -1,0 +1,1 @@
+Different kind of autosamplers are available to support different kind of analisys

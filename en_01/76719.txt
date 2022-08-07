@@ -1,0 +1,1 @@
+For a discussion of hexagonal and other grids (including diamond-shaped)

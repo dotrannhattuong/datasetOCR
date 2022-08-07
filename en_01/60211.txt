@@ -1,0 +1,1 @@
+Each state handles traffic matters in its own way

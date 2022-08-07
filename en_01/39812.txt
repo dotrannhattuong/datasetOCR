@@ -1,0 +1,1 @@
+"Consistency suggests distinguishing a ""scale"" (such as C or G diatonic) from ""scale type"" (the diatonic scale-type"")"

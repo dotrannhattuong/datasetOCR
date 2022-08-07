@@ -1,0 +1,1 @@
+each monster has its own unique abilities

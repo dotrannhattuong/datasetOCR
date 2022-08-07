@@ -1,0 +1,1 @@
+dhts must deal with more traditional distributed systems issues such as load balance

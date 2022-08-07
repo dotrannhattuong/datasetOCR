@@ -1,0 +1,1 @@
+Bugzilla is usually installed on Linux and runs using the Apache HTTP Server

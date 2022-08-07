@@ -1,0 +1,1 @@
+Concatenated STS(OC) frames carry only one column of path overhead because they cannot be divided into finer granularity signals

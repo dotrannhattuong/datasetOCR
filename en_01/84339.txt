@@ -1,0 +1,1 @@
+from here they could exit the train for switching or to protect the rear of the train when stopped

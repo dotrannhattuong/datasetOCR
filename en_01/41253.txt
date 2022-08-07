@@ -1,0 +1,1 @@
+cornerstone had no facilities for creating stand-alone specially-purposed applications

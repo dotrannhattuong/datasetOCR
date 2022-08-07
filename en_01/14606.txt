@@ -1,0 +1,1 @@
+broadening to an octave is typically achieved using supercontinuum generation by strong self-phase modulation in nonlinear photonic crystal fiber

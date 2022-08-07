@@ -1,0 +1,1 @@
+chevalley's theorem usually refers to his result on solubility of equations over a finite field (also called the chevalley-warning theorem)

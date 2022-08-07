@@ -1,0 +1,1 @@
+But the only nontrivial chains in the partial order are pairs of elements corresponding to the edges in the graph

@@ -1,0 +1,1 @@
+boats can handle only up to 16 barges due the size of lock chambers

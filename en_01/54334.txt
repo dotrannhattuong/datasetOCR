@@ -1,0 +1,1 @@
+dreamweaver supports syntax highlighting for the following languages out of the box:

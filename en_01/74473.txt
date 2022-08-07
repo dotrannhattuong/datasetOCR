@@ -1,0 +1,1 @@
+Fixed HF-1 bases in the main island was also being replaced with fixed HF-2 launchers

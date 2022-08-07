@@ -1,0 +1,1 @@
+Encoding is done in client side

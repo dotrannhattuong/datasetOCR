@@ -1,0 +1,1 @@
+Buffer zones often result in large uninhabited regions (similar to nature reserves

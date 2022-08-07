@@ -1,0 +1,1 @@
+Basis function centers can be either randomly sampled among the input instances or found by clustering the samples and choosing the cluster means as the centers

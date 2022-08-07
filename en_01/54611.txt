@@ -1,0 +1,1 @@
+Dropping point is used in combination with other test-based properties to determine the suitability of greases for specific applications

@@ -1,0 +1,1 @@
+Direct Rambus DRAM or DRDRAM (sometimes just called Rambus DRAM or RDRAM) is a type of synchronous dynamic RAM

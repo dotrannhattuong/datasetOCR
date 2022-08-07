@@ -1,0 +1,1 @@
+dictionaries sometimes list section headers both under the number of strokes used to write their canonical form and under the number of strokes used to write their variant forms

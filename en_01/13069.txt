@@ -1,0 +1,1 @@
+bouton's analysis carries over easily to the general multiple-heap version of this game

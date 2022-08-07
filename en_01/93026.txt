@@ -1,0 +1,1 @@
+grow vertically instead of horizontally

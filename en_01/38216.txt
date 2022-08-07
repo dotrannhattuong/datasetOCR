@@ -1,0 +1,1 @@
+Compact Operators Acting On A Hilbert Space H Is The Closure Of Finite Rank Operators In The Uniform Operator Topology

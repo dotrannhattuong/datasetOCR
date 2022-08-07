@@ -1,0 +1,1 @@
+each transmitting node monitors the bus state and compares the received bit with the transmitted bit

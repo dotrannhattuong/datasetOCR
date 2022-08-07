@@ -1,0 +1,1 @@
+Clone manufacturers such as Cyrix and IBM took advantage of the lack of an 'Intel586' to create CPUs of their own with a name that included the number '586'

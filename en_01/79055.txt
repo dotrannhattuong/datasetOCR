@@ -1,0 +1,1 @@
+for non-smooth final conditions (which happen for most financial instruments)

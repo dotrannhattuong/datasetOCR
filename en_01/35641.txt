@@ -1,0 +1,1 @@
+ClearType assumes this arrangement of pixels when rendering text

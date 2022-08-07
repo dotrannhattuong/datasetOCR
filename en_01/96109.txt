@@ -1,0 +1,1 @@
+Has relatively high internal impedance and limited short-circuit current

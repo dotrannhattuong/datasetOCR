@@ -1,0 +1,1 @@
+EMAS was written entirely in the Edinburgh IMP programming language

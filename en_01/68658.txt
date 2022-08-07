@@ -1,0 +1,1 @@
+every normal trace-class operator on a separable Hilbert space can be realized as a l1 sequence

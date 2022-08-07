@@ -1,0 +1,1 @@
+Calcein also self-quenches at concentrations above 100mM

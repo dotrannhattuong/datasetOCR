@@ -1,0 +1,1 @@
+Depth pass testing is also known as z-pass testing

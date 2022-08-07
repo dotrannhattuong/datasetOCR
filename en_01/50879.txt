@@ -1,0 +1,1 @@
+diagramatic representation of how raf-1 (raf) might shift between active and inactive conformations and control activation of mek

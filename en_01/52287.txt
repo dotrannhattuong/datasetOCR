@@ -1,0 +1,1 @@
+disjoint union is seen as a particular case of the coproduct operation

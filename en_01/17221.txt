@@ -1,0 +1,1 @@
+but at the expense of using up two IRQ and DMA channels instead of just one

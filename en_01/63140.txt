@@ -1,0 +1,1 @@
+Electron transport chains produce energy in the form of a transmembrane electrochemical potential gradient

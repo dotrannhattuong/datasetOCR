@@ -1,0 +1,1 @@
+Energy can also be harvested to power small autonomous sensors such as those developed using MEMS technology

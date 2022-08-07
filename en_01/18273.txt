@@ -1,0 +1,1 @@
+but for M to be symplectic one must check that the 2-form is closed

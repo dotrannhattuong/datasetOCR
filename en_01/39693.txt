@@ -1,0 +1,1 @@
+Consider a real source impedance of R1 and real load impedance of R2

@@ -1,0 +1,1 @@
+Because deleting N's original parent made all paths passing through N have one less black node

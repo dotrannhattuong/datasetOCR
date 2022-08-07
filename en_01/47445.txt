@@ -1,0 +1,1 @@
+defines a function taking as arguments those elements of the circumstances of evaluation relevant to determining extension

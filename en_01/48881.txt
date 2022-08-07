@@ -1,0 +1,1 @@
+Design By Contract Is A Discipline For Building Software Such That The Collaborations Between Objects Are Correct

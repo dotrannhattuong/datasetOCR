@@ -1,0 +1,1 @@
+each character has an on-screen sleep meter that slowly decline (and can be replenished with cups of coffee)

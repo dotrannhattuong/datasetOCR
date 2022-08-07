@@ -1,0 +1,1 @@
+Certified test labs use environmental chambers to simulate ambient profiles that a package may encounter in the distribution cycle

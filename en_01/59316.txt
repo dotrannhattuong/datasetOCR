@@ -1,0 +1,1 @@
+each application may use a different font rasterization library

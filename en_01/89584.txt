@@ -1,0 +1,1 @@
+Given That The Input Signal Is Sinusoidal

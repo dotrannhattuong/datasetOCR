@@ -1,0 +1,1 @@
+cg or c for graphics is a high-level shading language created by nvidia for programming vertex and pixel shaders

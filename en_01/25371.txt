@@ -1,0 +1,1 @@
+by checking the first two bytes of a file

@@ -1,0 +1,1 @@
+by converting the numbers (base 8) into strings of seven letters to test

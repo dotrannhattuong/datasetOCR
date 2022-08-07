@@ -1,0 +1,1 @@
+Dynamic rope is very well-suited to handle whippers

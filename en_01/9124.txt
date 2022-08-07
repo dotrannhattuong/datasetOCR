@@ -1,0 +1,1 @@
+bit slip can be prevented by using a self-clocking signal (such as a signal modulated using OQPSK) or using a line coding such as Manchester encoding

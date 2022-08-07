@@ -1,0 +1,1 @@
+Each Gbean Can Maintain State

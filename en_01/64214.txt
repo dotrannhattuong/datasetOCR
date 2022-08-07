@@ -1,0 +1,1 @@
+Enables A Developer To Compose Two Or More Functions So That Each Runs In Parallel On Its Own Separate Computer

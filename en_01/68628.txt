@@ -1,0 +1,1 @@
+"Every load cell is subject to ""ringing"" when subjected to abrupt load changes"

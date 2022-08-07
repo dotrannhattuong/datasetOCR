@@ -1,0 +1,1 @@
+each chinese character is represented by a 3-byte code in which each byte is 7-bit

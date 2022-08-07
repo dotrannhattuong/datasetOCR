@@ -1,0 +1,1 @@
+From now on the coefficients in R will always be tacitly understood in the notation

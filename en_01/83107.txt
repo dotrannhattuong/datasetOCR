@@ -1,0 +1,1 @@
+Friis' formula is used to calculate the overall noise figure of a receiver

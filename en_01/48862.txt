@@ -1,0 +1,1 @@
+design and implement ERLAWS - a complex system of sensors and preventative mechanisms to warn of an impending lahar

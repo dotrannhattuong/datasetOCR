@@ -1,0 +1,1 @@
+Even drivers executing in user mode can crash a system if the device being controlled is erroneously programmed

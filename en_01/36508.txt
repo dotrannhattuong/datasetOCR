@@ -1,0 +1,1 @@
+Code documents are often organized into a reference guide style

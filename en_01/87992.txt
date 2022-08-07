@@ -1,0 +1,1 @@
+generates spice models for analog

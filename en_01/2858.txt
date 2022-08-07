@@ -1,0 +1,1 @@
+because it must potentially store many previous exponents from the chain simultaneously

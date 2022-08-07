@@ -1,0 +1,1 @@
+For Rayleigh fading with a vertical receive antenna with equal sensitivity in all directions

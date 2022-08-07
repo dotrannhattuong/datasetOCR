@@ -1,0 +1,1 @@
+both residue fields are given by an ultraproduct over the fields fp

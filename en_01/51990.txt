@@ -1,0 +1,1 @@
+DirectPlay is a network communication library intended for computer game development

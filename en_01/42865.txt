@@ -1,0 +1,1 @@
+Cricket Software already had a vector-only package called CricketDraw

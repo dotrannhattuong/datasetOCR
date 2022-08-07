@@ -1,0 +1,1 @@
+enumerated types make program source more self-documenting than the use of explicit magic numbers

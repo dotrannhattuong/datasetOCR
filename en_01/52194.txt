@@ -1,0 +1,1 @@
+Discrete-point testing is an analytical approach to language testing in which each test question is meant to measure one distinct content point

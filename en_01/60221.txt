@@ -1,0 +1,1 @@
+each step is thus a description of what the agent thinks (or implicitly asserts)

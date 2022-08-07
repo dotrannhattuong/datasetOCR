@@ -1,0 +1,1 @@
+even though typewriters cannot print them and they are not (yet) assigned corresponding unicode values

@@ -1,0 +1,1 @@
+"com-owned teoma search technology uses subject-specific link popularity to compute ""authoritativeness"" of a search result"

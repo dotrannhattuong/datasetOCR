@@ -1,0 +1,1 @@
+Hash lists also protect against nodes that try to sabotage by sending fake blocks

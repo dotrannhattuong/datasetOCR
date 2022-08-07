@@ -1,0 +1,1 @@
+Due To The S-Video Implementation Using The Pins Allocated For Rgb

@@ -1,0 +1,1 @@
+because it is much simpler to draw lines and rectangles directly with graphical APIs

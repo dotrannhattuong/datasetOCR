@@ -1,0 +1,1 @@
+Bandwidth-saturating floods rely on the attacker having higher bandwidth available than the victim

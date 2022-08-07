@@ -1,0 +1,1 @@
+Each 3 bit group would drive 8 wires up the main decode array

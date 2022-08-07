@@ -1,0 +1,1 @@
+Can also be used like a PCB transition header especially on stripboard

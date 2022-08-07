@@ -1,0 +1,1 @@
+Characters can use a basic attack - how much damage the character's attack deals depends on the character's attack statistic

@@ -1,0 +1,1 @@
+differential gps was used by many civilian gps receivers to greatly improve accuracy

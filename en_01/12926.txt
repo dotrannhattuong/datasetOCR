@@ -1,0 +1,1 @@
+Both WPA and WPA2 support EAP authentication methods using RADIUS servers and preshared key (PSK) based security

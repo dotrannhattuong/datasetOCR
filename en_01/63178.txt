@@ -1,0 +1,1 @@
+Element refinements make the meaning of an element narrower or more specific

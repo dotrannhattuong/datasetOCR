@@ -1,0 +1,1 @@
+"Graph isomorphism remains GI-complete even when restricted to a number of ""hard"" special cases"

@@ -1,0 +1,1 @@
+finally the design is laid out in the fpga at which point propagation delays can be added and the simulation run again with these values back-annotated onto the netlist

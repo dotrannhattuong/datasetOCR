@@ -1,0 +1,1 @@
+Because The Effect Of This Algorithm Is To Produce A Minimal Spanning Tree From A Graph With Equally-Weighted Edges

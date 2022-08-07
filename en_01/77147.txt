@@ -1,0 +1,1 @@
+force-get configuration files have a simple format

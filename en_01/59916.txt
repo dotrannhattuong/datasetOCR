@@ -1,0 +1,1 @@
+each of these services operates every 10 minutes:

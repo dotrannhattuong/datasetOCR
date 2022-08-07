@@ -1,0 +1,1 @@
+By applying powerful parity check coding to the bits in each symbol

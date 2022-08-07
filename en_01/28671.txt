@@ -1,0 +1,1 @@
+Candidates with the smallest tally of first preference votes are eliminated (and their votes transferred as in instant runoff voting) until a candidate has more than half the vote

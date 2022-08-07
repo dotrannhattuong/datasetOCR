@@ -1,0 +1,1 @@
+General guidelines on choosing a good hostnames are outlined in RFC 1178

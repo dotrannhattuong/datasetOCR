@@ -1,0 +1,1 @@
+CYGM gives more accurate luminance information than the Bayer filter

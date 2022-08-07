@@ -1,0 +1,1 @@
+Exact specification of linear and angular velocities of parts in space are also possible

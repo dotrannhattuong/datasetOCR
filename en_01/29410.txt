@@ -1,0 +1,1 @@
+Care Must Be Taken To Use Only One Crystal Oscillator Source When Designing Circuits To Avoid Subtle Failure Modes Of Metastability In Electronics

@@ -1,0 +1,1 @@
+Each PE was connected to its four nearest neighbors - north

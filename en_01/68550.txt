@@ -1,0 +1,1 @@
+every conjugacy class consists of only one element

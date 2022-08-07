@@ -1,0 +1,1 @@
+"csla defines a standard way of allowing a business object to maintain information about its ""persistence state"""

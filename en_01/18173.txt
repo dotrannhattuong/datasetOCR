@@ -1,0 +1,1 @@
+but failed to maintain the open at bus (later called the isa bus)

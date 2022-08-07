@@ -1,0 +1,1 @@
+does not include the Console but has a Windows front-end to script Ghost operations

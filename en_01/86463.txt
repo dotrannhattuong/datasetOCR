@@ -1,0 +1,1 @@
+Gaim is free software available under the GNU General Public License

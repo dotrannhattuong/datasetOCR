@@ -1,0 +1,1 @@
+Elementary row operations are simple transformations which can be applied to a matrix without changing the linear system of equations that it represents

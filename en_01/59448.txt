@@ -1,0 +1,1 @@
+each concept has a parent concept specified using inclusion relation which generalizes class inheritance

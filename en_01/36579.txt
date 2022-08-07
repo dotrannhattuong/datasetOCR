@@ -1,0 +1,1 @@
+COFFEE is dynamically typed and so variables are defined with a simple var keyword without any reference to their type

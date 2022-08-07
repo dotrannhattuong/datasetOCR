@@ -1,0 +1,1 @@
+but the lines are still recorded in even/odd order (reversed from the actual video standard for the pal format)

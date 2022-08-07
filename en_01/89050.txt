@@ -1,0 +1,1 @@
+ghosts occur due to the implementation of the irc protocol

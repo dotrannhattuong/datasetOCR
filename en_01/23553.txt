@@ -1,0 +1,1 @@
+but this is incompatible with the tdc and allows only one stop pulse

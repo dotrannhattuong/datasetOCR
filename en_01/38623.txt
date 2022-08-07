@@ -1,0 +1,1 @@
+complex strings are harder to compress

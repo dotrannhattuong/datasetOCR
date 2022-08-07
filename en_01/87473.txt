@@ -1,0 +1,1 @@
+gccs is an automated system designed to support situational awareness

@@ -1,0 +1,1 @@
+Coleman-Liau relies on characters instead of syllables per word

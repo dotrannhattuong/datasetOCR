@@ -1,0 +1,1 @@
+early installations used mainly localtalk and more recently ethernet but any physical medium could be used which could be directly or indirectly connected to an appleshare server system

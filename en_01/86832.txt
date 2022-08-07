@@ -1,0 +1,1 @@
+Gamma test tests the strength of association of the cross tabulations when both variables are measured at the ordinal level

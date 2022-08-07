@@ -1,0 +1,1 @@
+Companding allowed acceptable audio performance with only seven bits per PCM sample in this original T1/D1 system

@@ -1,0 +1,1 @@
+EarthDesk can centre on the current position of the Moon or Sun

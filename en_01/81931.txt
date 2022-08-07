@@ -1,0 +1,1 @@
+FP - The FP bar shows the current and maximum fatigue points

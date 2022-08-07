@@ -1,0 +1,1 @@
+bitCount() method that counts bits

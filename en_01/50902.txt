@@ -1,0 +1,1 @@
+Dial-up requires time to establish a telephone connection (approximately several seconds

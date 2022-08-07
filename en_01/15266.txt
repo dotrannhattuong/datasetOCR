@@ -1,0 +1,1 @@
+BTAM requires the application program to handle almost every detail of the protocol

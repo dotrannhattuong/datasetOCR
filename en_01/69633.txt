@@ -1,0 +1,1 @@
+execute sequence actions for a normal installation are stored in the installexecutesequence table

@@ -1,0 +1,1 @@
+each part of a galois connection uniquely determines the other mapping

@@ -1,0 +1,1 @@
+controls specific components related to its function and communicates with the other modules as necessary

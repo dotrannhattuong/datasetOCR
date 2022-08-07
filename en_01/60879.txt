@@ -1,0 +1,1 @@
+early stopping is effectively limiting the used weights in the network and thus imposes a regularization

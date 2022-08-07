@@ -1,0 +1,1 @@
+Flapping Flight Is Still Poorly Understood And Almost Never Seriously Used In Engineering Because Of The Strong Coupling Of Lift

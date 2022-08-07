@@ -1,0 +1,1 @@
+dslinux can store files in sram memory found in gba flash carts and compactflash and sd cards

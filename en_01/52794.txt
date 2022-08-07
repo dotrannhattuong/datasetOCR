@@ -1,0 +1,1 @@
+dns protection mechansims help ensure that a specific dns server cannot be hacked and thereby become a facilitator of pharming attacks

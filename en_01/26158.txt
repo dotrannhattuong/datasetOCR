@@ -1,0 +1,1 @@
+By swapping the values a [i] and a [j] the heap property for position i is established

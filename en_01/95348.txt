@@ -1,0 +1,1 @@
+harmonic currents can be reduced by a filter placed at the input of the device

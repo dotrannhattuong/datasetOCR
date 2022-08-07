@@ -1,0 +1,1 @@
+Because the crystal is an off-chip component

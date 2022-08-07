@@ -1,0 +1,1 @@
+Bivariate mapping shows the distribution of two sets of data to explore possibilities of correlations

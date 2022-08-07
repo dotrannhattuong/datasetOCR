@@ -1,0 +1,1 @@
+Each Of The Resulting Objects Would Be Created From The Same Documentcreator Implementation And Would Share A Common Theme

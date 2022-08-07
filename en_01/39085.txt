@@ -1,0 +1,1 @@
+Concurrency acquires a central role in true parallel application

@@ -1,0 +1,1 @@
+Different operating systems impose different restrictions regarding length and allowed characters on filenames

@@ -1,0 +1,1 @@
+Each Thread Executes The Parallelized Section Of Code Independently

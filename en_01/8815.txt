@@ -1,0 +1,1 @@
+biomedical text mining (also known as bionlp) refers to text mining applied to texts and literature of the biomedical and molecular biology domain

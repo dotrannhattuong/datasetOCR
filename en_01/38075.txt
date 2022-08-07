@@ -1,0 +1,1 @@
+Common software weaknesses exploited include buffer overflow

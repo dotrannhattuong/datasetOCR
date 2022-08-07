@@ -1,0 +1,1 @@
+collections come in two basic forms: sequences and mappings

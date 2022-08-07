@@ -1,0 +1,1 @@
+graphical displays have not eradicated the text terminal as it is convenient for computer programmers and appropriate for command-line interfaces and text user interfaces

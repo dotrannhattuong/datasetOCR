@@ -1,0 +1,1 @@
+Below Are Two Samples Of Non-Void Functions

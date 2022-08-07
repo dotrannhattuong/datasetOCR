@@ -1,0 +1,1 @@
+Each has faces which are congruent regular convex polygons or star polygons and has the same number of faces meeting at each vertex (compare to Platonic solids)

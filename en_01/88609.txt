@@ -1,0 +1,1 @@
+Geosynchronous Transfer Orbit - An elliptic orbit where the perigee is at the altitude of a Low Earth Orbit (LEO) and the apogee at the altitude of a geosynchronous orbit

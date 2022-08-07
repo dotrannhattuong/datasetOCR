@@ -1,0 +1,1 @@
+conf is the path of the file that needs to be created or updated with the details that wvdialconf detects

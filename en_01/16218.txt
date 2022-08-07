@@ -1,0 +1,1 @@
+Burroughs Extended ALGOL and Elliott ALGOL formed the basis (in a simplified form) of a language used at NetComm (Australia) limited for their Apple II programming language SDL

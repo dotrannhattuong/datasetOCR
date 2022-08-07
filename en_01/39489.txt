@@ -1,0 +1,1 @@
+Connectivity To The Rest Of The Network Should Be Given Behind Gateways Much As One Would Do With Network Address Translation With Any Other Private Ip Block

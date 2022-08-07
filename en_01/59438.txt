@@ -1,0 +1,1 @@
+"each column stored 120 bits (although the term ""bit"" was not in popular use at the time)"

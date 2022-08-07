@@ -1,0 +1,1 @@
+calibrated airspeed and equivalent airspeed are equal (or equivalent)

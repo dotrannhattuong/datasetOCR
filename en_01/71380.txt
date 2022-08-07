@@ -1,0 +1,1 @@
+Fast virtual machines are much easier to implement if an instruction set meets the Popek and Goldberg virtualization requirements

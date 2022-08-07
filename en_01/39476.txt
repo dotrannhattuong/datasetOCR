@@ -1,0 +1,1 @@
+Connecting the two SSUs in parallel this way provided the doubling of network capacity required in a CLOS network

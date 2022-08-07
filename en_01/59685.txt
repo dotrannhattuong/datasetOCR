@@ -1,0 +1,1 @@
+each index segment may be either ascending or descending

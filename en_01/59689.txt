@@ -1,0 +1,1 @@
+each individual linear combination will only involve finitely many vectors

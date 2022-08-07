@@ -1,0 +1,1 @@
+Garbage Collection Addresses A Common Programming Mistake Of Allocating Memory And Not Releasing It

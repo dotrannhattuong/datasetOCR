@@ -1,0 +1,1 @@
+Client Altering Preventing Function and other functions have been added

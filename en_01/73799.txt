@@ -1,0 +1,1 @@
+First devices used AT Attachment but newest ones support Serial ATA

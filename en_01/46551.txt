@@ -1,0 +1,1 @@
+DCD is a signal sent from the modem to the computer

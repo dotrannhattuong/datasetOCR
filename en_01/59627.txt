@@ -1,0 +1,1 @@
+each greedy expansion reduces the numerator of the remaining fraction to be expanded

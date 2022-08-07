@@ -1,0 +1,1 @@
+By default the machine ran at 4 MHz

@@ -1,0 +1,1 @@
+Cpu2006 Is A Set Of Benchmarks Designed To Test The Cpu Performance Of A Modern Server Computer System

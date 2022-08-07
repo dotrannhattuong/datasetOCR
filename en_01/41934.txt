@@ -1,0 +1,1 @@
+coupon payments are made at semi-annual date intervals determined backwards from the maturity date of the security

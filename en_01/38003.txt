@@ -1,0 +1,1 @@
+Commonly Available Ldap C Apis Do Not Strictly Adhere To This Specification

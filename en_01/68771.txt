@@ -1,0 +1,1 @@
+Every single refactoring to a database leaves the system in working state not causing maintenance lags

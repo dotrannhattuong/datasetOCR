@@ -1,0 +1,1 @@
+garner's first attempts at simulating conversation involved collections of internet chat viewed as a sequence of stimuli and responses

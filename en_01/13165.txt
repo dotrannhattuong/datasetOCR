@@ -1,0 +1,1 @@
+box drawing characters work only with fixed-width (monospaced) fonts

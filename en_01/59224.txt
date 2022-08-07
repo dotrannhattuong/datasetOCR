@@ -1,0 +1,1 @@
+dynamic analysis uses test data sets to execute software in order to observe its behaviour and produce test coverage reports

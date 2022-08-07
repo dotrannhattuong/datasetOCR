@@ -1,0 +1,1 @@
+Eiffel's view of computation is completely object-oriented in the sense that every operation is relative to an object

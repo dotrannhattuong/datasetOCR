@@ -1,0 +1,1 @@
+"For a given mode shape of a multiple degree of freedom system you can find an ""equivalent"" mass"

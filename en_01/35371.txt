@@ -1,0 +1,1 @@
+class-a fires are fairly simple to fight and contain - by simply removing the heat or oxygen (or in some cases fuel)

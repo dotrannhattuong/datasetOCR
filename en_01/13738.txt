@@ -1,0 +1,1 @@
+Breakout-style (also known as a fanout-style) fiberoptic cable is basically several simplex fibers packaged individually inside one jacket

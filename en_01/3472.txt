@@ -1,0 +1,1 @@
+Because SQL:2003 defines all NULL markers as being unequal to one another

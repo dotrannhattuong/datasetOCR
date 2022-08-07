@@ -1,0 +1,1 @@
+from columns and reviews for daily and weekly newspapers

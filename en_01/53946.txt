@@ -1,0 +1,1 @@
+downburst damage will radiate from a central point as the descending column spreads out when impacting the surface

@@ -1,0 +1,1 @@
+FROM 10 AM TO 3 PM

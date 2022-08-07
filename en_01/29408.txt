@@ -1,0 +1,1 @@
+care must be taken that the canvas is straight before being printed to ensure that the edges of the design are straight

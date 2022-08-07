@@ -1,0 +1,1 @@
+Cards once discarded must not be looked at

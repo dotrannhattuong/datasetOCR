@@ -1,0 +1,1 @@
+Comments can be made either to comment an entire line

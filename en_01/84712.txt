@@ -1,0 +1,1 @@
+From SO(6) onwards they are almost-simple in the sense that the factor groups of their centres are simple groups

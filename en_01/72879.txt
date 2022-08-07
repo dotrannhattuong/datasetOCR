@@ -1,0 +1,1 @@
+figurate numbers representing hexagons (including six) are called hexagonal numbers

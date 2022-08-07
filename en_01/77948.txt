@@ -1,0 +1,1 @@
+For high performance applications EMC Celerra Multi-Path File System (MPFS/MPFSi ) can be used

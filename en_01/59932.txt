@@ -1,0 +1,1 @@
+Each of the simple steps are usually called pipeline stages

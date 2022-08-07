@@ -1,0 +1,1 @@
+But Holding Down The 'Esc' Key During A Cold Or Warm Boot Disabled The Acceleration So It Could Run At A Standard 1 Mhz Operationnecessary For Older Software That Depended On Timing

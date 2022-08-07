@@ -1,0 +1,1 @@
+By changing the DNS and access of the Sony PSP to a local machine

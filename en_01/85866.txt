@@ -1,0 +1,1 @@
+Function 02h of interrupt 13h may only read sectors of the first 16

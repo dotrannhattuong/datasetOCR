@@ -1,0 +1,1 @@
+Bound variables are assigned values within the expression (they are for internal use) while free variables can take on values from outside the expression

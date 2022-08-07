@@ -1,0 +1,1 @@
+"Example: ""touch"" a pet with mouse cursor and the pet will give a direct response to the ""touching"""

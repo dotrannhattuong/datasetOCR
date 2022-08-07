@@ -1,0 +1,1 @@
+DPMI and native OS/2 32bit

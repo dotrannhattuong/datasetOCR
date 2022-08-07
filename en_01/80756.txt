@@ -1,0 +1,1 @@
+For this purpose Shogun offers a multiple kernel learning functionality

@@ -1,0 +1,1 @@
+depending on model was able to recognize sixteen to twenty-four different commands

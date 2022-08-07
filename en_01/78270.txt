@@ -1,0 +1,1 @@
+Formally: A labeled multidigraph G is a multigraph with labeled nodes and arcs

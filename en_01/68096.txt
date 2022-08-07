@@ -1,0 +1,1 @@
+eventually deciding to write his own raytracer

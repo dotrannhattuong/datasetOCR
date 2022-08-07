@@ -1,0 +1,1 @@
+hardiness: usda zones 6-10

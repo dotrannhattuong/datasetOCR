@@ -1,0 +1,1 @@
+hats obtain their source text either by importing it from a file produced by another program or by allowing the author to create the text within the tool using a text editor

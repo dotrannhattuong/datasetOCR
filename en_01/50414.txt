@@ -1,0 +1,1 @@
+Determinine a forecast period by choosing a number of years after which an exit is planned

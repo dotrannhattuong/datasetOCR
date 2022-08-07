@@ -1,0 +1,1 @@
+deleting a record that contains a value referred to by a foreign key in another table would break referential integrity

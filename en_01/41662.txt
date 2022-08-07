@@ -1,0 +1,1 @@
+could 'find' and connect to a Bonjour enabled computer without any user configuration

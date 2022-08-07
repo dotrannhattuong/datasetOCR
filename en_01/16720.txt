@@ -1,0 +1,1 @@
+but allows administrators to lock pages to prevent editing

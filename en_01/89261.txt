@@ -1,0 +1,1 @@
+gilgamesh fails two tests and does not become immortal

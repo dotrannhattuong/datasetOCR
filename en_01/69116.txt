@@ -1,0 +1,1 @@
+Example of hatching (eg background) and cross-hatching in many darker areas (hard to see in this reproduction)

@@ -1,0 +1,1 @@
+but if one solution is known d'Alembert reduction can be used to reduce the dimension of the differential equation by one

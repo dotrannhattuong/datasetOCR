@@ -1,0 +1,1 @@
+Bastion hosts are related to dual-homed hosts and screened hosts

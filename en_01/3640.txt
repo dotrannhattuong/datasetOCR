@@ -1,0 +1,1 @@
+Because the setup and configuration of software-only systems was time consuming

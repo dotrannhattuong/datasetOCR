@@ -1,0 +1,1 @@
+By using HNP for reversing Host/Peripheral roles

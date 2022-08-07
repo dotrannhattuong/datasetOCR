@@ -1,0 +1,1 @@
+Combining these equations leads to an expression for the probability amplitude in terms of separate electronic

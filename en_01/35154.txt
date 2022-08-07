@@ -1,0 +1,1 @@
+CLaMS operates on arbitrarily resolved horizontal grids

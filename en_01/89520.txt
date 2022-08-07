@@ -1,0 +1,1 @@
+Given An Intermediate Logic It Is Possible To Construct Its Lindenbaum Algebra Which Would Be A Heyting Algebra

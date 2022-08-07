@@ -1,0 +1,1 @@
+except that the total amount a player can bet in any single hand is capped at 30 times the big blind

@@ -1,0 +1,1 @@
+both endpoints periodically send hello packets to each other

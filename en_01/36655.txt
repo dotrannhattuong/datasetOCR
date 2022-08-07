@@ -1,0 +1,1 @@
+Coil Split Turns On When Potentiometer Is Pulled Out And Reverts Back Off When It Is Pushed In

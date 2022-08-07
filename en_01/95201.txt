@@ -1,0 +1,1 @@
+Hard interrupts are triggered by external hardware events

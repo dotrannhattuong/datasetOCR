@@ -1,0 +1,1 @@
+giving the direction of the largest possible increase from light to dark and the rate of change in that direction

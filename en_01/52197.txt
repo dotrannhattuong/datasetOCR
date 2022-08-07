@@ -1,0 +1,1 @@
+discretized and replaced by a lattice with lattice spacing equal to a

@@ -1,0 +1,1 @@
+By swapping the original E398 (R372-based) firmware with the ROKR E1 (R373-based) firmware

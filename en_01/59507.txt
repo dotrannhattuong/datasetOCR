@@ -1,0 +1,1 @@
+each device is tested before packaging using automated test equipment (ate)

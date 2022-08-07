@@ -1,0 +1,1 @@
+"Example ('Hi' would be ""hiddagi"""

@@ -1,0 +1,1 @@
+every function can be viewed as the composition of a surjective function with an injective function

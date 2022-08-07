@@ -1,0 +1,1 @@
+cauchy's mean value theorem can be used to prove l'hopital's rule

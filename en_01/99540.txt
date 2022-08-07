@@ -1,0 +1,1 @@
+health: the health powerup boosts your health up to 150 points

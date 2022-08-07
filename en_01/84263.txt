@@ -1,0 +1,1 @@
+From evolutionary computation point of view this is not surprising: without selection operation the content would undergo an aimless genetic drift and would unlikely to be useful to anyone

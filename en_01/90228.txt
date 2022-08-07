@@ -1,0 +1,1 @@
+GnuPG can be compiled for numerous operating systems

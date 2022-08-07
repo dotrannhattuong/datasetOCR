@@ -1,0 +1,1 @@
+Dancing Trees Only Balance Their Nodes When Flushing Data To A Disk (Either Because Of Memory Constraints Or Because A Transaction Has Completed)

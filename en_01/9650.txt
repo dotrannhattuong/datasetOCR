@@ -1,0 +1,1 @@
+Bliss set out the canonical formulation and solution of the problem of Bolza with side conditions and variable end-points

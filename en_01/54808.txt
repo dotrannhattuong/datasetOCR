@@ -1,0 +1,1 @@
+dsbl can be used by server administrators to tag or block e-mail messages that come from insecure servers

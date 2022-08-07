@@ -1,0 +1,1 @@
+because having a greater amount of data about customers increases the likelihood that a more accurate model can be built

@@ -1,0 +1,1 @@
+GroupBar is an experimental enhancement of the traditional Microsoft Windows taskbar

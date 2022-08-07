@@ -1,0 +1,1 @@
+Glulx uses the Glk API for input and output

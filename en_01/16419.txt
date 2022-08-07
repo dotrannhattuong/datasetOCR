@@ -1,0 +1,1 @@
+"businesses with previously static IP addresses are increasingly being flagged as ""dynamic"" by SORBS"

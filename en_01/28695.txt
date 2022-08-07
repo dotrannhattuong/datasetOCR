@@ -1,0 +1,1 @@
+CandyBar also uses the iContainer format
