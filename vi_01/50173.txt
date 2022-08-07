@@ -1,0 +1,1 @@
+Cau truc mang: thi HSDPA no yeu cau chuc nang packet-handling(xu ly goi) phai duoc truyen den mang ke canh

@@ -1,0 +1,1 @@
+cho phép làm tròn số bắt đầu từ ba số sau dấu phẩy ở tiến euro và tiền muốn chuyển đổi

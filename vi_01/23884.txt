@@ -1,0 +1,1 @@
+các nhà mạng chỉ cần nâng cấp các msc (trung tâm chuyển mạch di động) thay vì phải triển khai ims

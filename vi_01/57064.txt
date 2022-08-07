@@ -1,0 +1,1 @@
+chế độ contact là chế độ mà khoảng cách giữa đầu mũi dò và bề mặt mẫu được giữ không đổi trong quá trình quét

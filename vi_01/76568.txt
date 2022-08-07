@@ -1,0 +1,1 @@
+cho phép sử dụng nhân Linux hoặc các hệ điều hành thời gian thực (RTOS)

@@ -1,0 +1,1 @@
+"có khoảng từ 16-bits/48 kHz đến 24bits/96 kHz với dạng đơn loa (monaural) đến trình diễn âm thanh 7.1 ""Âm thanh vòm"" (Surround Sound)"

@@ -1,0 +1,1 @@
+cache sẽ tạo một entry mới và sao chép dữ liệu từ bộ nhớ chính

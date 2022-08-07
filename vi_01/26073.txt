@@ -1,0 +1,1 @@
+Các Phần Mềm Desktop Được Phân Phối Windows Store Sẽ Được Đóng Gói Sử Dụng Hệ Thống App-V Để Cho Phép Sandbox

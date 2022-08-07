@@ -1,0 +1,1 @@
+Các electron mới bị tách ra chuyển động nhanh trong điện trường và tiếp tục làm ion hóa các phân tử khác

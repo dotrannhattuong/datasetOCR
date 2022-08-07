@@ -1,0 +1,1 @@
+cho phep cac doan video nhung duoc dung hinh va dieu khien trong WebKit

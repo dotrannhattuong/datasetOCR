@@ -1,0 +1,1 @@
+các chế độ 8 bpp cao hơn yêu cầu 1 MB VRAM)

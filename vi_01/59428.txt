@@ -1,0 +1,1 @@
+chỉ có các tín hiệu điện mã hoá nội dung bức thư điện tử được truyền đi đến máy nhận

@@ -1,0 +1,1 @@
+cơ cấu mã bưu chính bao gồm tối thiểu tập hợp 6 ký tự số

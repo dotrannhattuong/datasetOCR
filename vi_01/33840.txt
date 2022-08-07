@@ -1,0 +1,1 @@
+Các trình duyệt web mới cũng sử dụng WebKit là Shiira và Chrome

@@ -1,0 +1,1 @@
+Chứa các bảng mã ký tự Unicode vì vậy nó có thể hỗ trợ bất kỳ kịch bản viết (hoặc nhiều kịch bản cùng một lúc)

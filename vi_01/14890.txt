@@ -1,0 +1,1 @@
+Các hệ thống này có thể định tuyến lại xung quanh các phân đoạn bị hư hỏng vào liên kết dự phòng

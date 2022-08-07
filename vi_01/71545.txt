@@ -1,0 +1,1 @@
+chính vì lý do này mà mạng chuyển mạch thông báo còn có thể được gọi là mạng lưu và chuyển tiếp (store and forward network)

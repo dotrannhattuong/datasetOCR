@@ -1,0 +1,1 @@
+có khả năng quản lý tối đa 1MB bộ nhớ vật lý

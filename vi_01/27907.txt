@@ -1,0 +1,1 @@
+các quyền của mỗi nhánh sẽ được cân bằng và kiểm soát bởi các quyền của hai nhánh kia

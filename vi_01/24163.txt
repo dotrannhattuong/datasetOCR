@@ -1,0 +1,1 @@
+các nhánh với mức hỗ trợ tự khởi động thấp hơn 50% bị bỏ qua

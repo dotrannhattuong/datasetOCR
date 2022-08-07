@@ -1,0 +1,1 @@
+Cac trinh bo sung cung cap quyen truy cap vao mo hinh doi tuong Visual Studio va co the tuong tac voi cac cong cu IDE

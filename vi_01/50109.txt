@@ -1,0 +1,1 @@
+Cấu Trúc Của Tinh Thể Là Trạng Thái Ổn Định Nhất Trong Nhiều Trạng Thái Rắn Mà Nguyên Tử Có Thể Được Sắp Xếp Tại Nhiệt Độ Và Áp Suất Thông Thường

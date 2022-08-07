@@ -1,0 +1,1 @@
+cho phép tra cứu TLB của MMU để tiến hành song song với dữ liệu ở RAM của bộ nhớ Cache

@@ -1,0 +1,1 @@
+"chúng sẽ đánh dấu ""khối hư hỏng"" vào đó nhằm tránh sự ghi dữ liệu tiếp theo vào vị trí này"

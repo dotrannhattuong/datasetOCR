@@ -1,0 +1,1 @@
+Các ký tự có giá trị nhỏ hơn 0x800

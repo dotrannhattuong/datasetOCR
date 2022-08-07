@@ -1,0 +1,1 @@
+chuong trinh ket noi phan cung nhu noi tiep RS-232 va song song Centronics va giao dien IEEE 1284 (va Ethernet o tren) noi cac thiet bi dien hinh

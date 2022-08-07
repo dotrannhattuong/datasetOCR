@@ -1,0 +1,1 @@
+Cell_DCH là trạng thái được sử dụng khi bắt đầu truyền dữ liệu từ (hoặc đến) đầu cuối trên DCH hay HSDPA/HSUPA

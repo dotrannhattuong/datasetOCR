@@ -1,0 +1,1 @@
+Cac nhan vat duoc tao nen bang cong nghe CGI trong khau hau ky nhu Tho trang

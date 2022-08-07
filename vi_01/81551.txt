@@ -1,0 +1,1 @@
+chúng có riêng 1 MB không gian nhớ và cho phép các 8086 này chạy chương trình riêng của nó

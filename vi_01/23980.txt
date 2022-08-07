@@ -1,0 +1,1 @@
+các nhà nghiên cứu của IBM (và cả một số dự án khác) đã chứng minh rằng phần lớn các phương pháp đánh địa chỉ trực giao thường bị các chương trình bỏ qua

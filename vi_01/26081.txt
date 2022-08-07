@@ -1,0 +1,1 @@
+Các phần mềm máy ảo mô phỏng một máy tính riêng biệt mà trên đó các hệ thống Linux được cài đặt

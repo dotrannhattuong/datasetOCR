@@ -1,0 +1,1 @@
+"chiều dài trung bình của năm trong lịch gregory (hiện đại) là 365,2425 ngày (có tính đến các quy tắc năm nhuận cho 1 thiên niên kỷ)"

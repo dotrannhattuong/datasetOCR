@@ -1,0 +1,1 @@
+các hàm số dùng trong mật mã học phải có khả năng đảo ngược (reversible)

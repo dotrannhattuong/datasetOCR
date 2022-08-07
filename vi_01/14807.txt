@@ -1,0 +1,1 @@
+Cache Performance for SPEC CPU2000 Benchmarks — Hill and Cantin — 2003 — This reference paper has been updated several times

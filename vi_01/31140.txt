@@ -1,0 +1,1 @@
+Các thiết bị bus có thể liên lạc với nhau mà không sự can thiệp của CPU

@@ -1,0 +1,1 @@
+cấu hình electron của magiê (z  12): [ne] 3s2 thì được hiểu 1s2 2s2 2p6 3s2

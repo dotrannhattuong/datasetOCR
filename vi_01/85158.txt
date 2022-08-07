@@ -1,0 +1,1 @@
+Chương trình này kêu gọi giảm giờ làm từ 9 giờ xuống còn 8 giờ và nâng lương tối thiểu trên ngày từ $2.34 lên $5 cho các công nhân lành nghề

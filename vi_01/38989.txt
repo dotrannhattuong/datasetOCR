@@ -1,0 +1,1 @@
+cải tiến độ tương thích với phần mềm theo GPL

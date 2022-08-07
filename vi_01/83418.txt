@@ -1,0 +1,1 @@
+chúng ta chỉ mới biết rằng Unicode là một cách để đánh số duy nhất cho tất cả các ký tự được dùng bởi con người trong ngôn ngữ viết

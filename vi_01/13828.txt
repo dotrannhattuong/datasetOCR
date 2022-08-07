@@ -1,0 +1,1 @@
+các giá trị p-value là mức ý nghĩa nhỏ nhất cho phép thử nghiệm để bác bỏ giả thuyết

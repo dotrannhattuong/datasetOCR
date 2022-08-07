@@ -1,0 +1,1 @@
+các chương trình ứng dụng được áp dụng DT_GNU_HASH;

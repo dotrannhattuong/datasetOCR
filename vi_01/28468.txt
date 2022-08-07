@@ -1,0 +1,1 @@
+các sản phẩm phiên bản visual studio express được cài đặt với appids riêng nhưng với các sản phẩm standard

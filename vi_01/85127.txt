@@ -1,0 +1,1 @@
+chương trình myesch gốc phải hủy bỏ và một mảng ăng-ten thay thế ít năng lực hơn đã được lựa chọn

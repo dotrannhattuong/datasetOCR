@@ -1,0 +1,1 @@
+Các thiết bị USB Mass Storage có thể được đính kèm không cần phải cài thêm trình điều khiển

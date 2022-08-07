@@ -1,0 +1,1 @@
+chuyên về phát triển bộ xử lý đồ họa (gpu) và công nghệ chipset cho các máy trạm

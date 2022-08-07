@@ -1,0 +1,1 @@
+Các hệ thống nhận tín hiệu analog truyền trong quang phổ C-band từ loại vệ tinh FSS

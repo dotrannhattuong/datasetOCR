@@ -1,0 +1,1 @@
+CHỈ CÒN NHỮNG BÍT Ở DÃY ĐẦU VÀO CÓ THỂ KHÔNG LÀ 0 TRỞ THÀNH N BIT CUỐI BÊN PHẢI CỦA DÃY SỐ

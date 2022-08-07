@@ -1,0 +1,1 @@
+"chiều cao tối thiểu của số ở sau lưng là 0,20m và ở đằng trước là 0,10m"

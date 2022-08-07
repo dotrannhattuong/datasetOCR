@@ -1,0 +1,1 @@
+chuyển mạch thông báo không thiết lập liên kết dành riêng giữa hai trạm giao tiếp mà thay vào đó mỗi thông báo được xem như một khối độc lập bao gồm cả địa chỉ nguồn và địa chỉ đích

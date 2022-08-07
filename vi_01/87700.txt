@@ -1,0 +1,1 @@
+"chữ ""x"" trong tiền tố ""0x"" có thể được viết hoa (0x) hoặc viết thường (0x)"

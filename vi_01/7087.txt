@@ -1,0 +1,1 @@
+các chip exynos 4210 hỗ trợ công nghệ simd arm (còn được biết đến như là media processing engine hoặc tập lệnh 'neon')

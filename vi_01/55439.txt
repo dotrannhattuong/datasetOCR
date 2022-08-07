@@ -1,0 +1,1 @@
+Chất Lượng Lưu Trữ Của Dịch Vụ (Qos) Để Giám Sát Trực Thuộc Trung Ương Thực Hiện Lưu Trữ End-To-End Và Tạo Ra Các Chính Sách Sử Dụng Hyper-V Và Scale-Out Máy Chủ Tập Tin

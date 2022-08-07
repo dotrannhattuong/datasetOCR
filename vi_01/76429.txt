@@ -1,0 +1,1 @@
+cho phép một số đối tượng chuyển ngân ở giá thấp hay giá cao tùy thuộc vào diện ưu tiên

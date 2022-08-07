@@ -1,0 +1,1 @@
+cho phép màn hình lcd thích ứng với ánh sáng xung quanh để thay đổi màu sắc và cường độ của nó trong các môi trường khác nhau

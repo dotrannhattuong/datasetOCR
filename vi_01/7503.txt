@@ -1,0 +1,1 @@
+các chương trình đa luồng cao cấp cũng được hỗ trợ

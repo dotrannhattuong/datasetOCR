@@ -1,0 +1,1 @@
+cầu thủ không được đánh mạnh (hit) vào bóng (thay vào đó sử dụng cú đẩy để đánh bóng)

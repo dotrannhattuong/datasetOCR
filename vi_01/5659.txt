@@ -1,0 +1,1 @@
+các bộ vi xử lý qualcomm cho phép sử dụng mạng tốc độ cao 42 mbit/s hspa + với tốc độ tải nhanh trong khi các mẫu sử dụng vi xử lý samsung exynos không thể

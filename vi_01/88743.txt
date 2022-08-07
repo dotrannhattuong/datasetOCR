@@ -1,0 +1,1 @@
+Chuyển vùng cell thực chất chỉ là một phần của quá trình di động HS-PDSCH

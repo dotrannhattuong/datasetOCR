@@ -1,0 +1,1 @@
+"Codd viet ve cac he thong co so du lieu lien ket goi la ""A Relational Model of Data for Large Shared Data Banks"""

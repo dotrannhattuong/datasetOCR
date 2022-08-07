@@ -1,0 +1,1 @@
+các tìm kiếm khoảng không thể được thực hiện một cách hiệu quả trên bảng băm

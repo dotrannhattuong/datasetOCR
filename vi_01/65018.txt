@@ -1,0 +1,1 @@
+chỉ ibm t221-dg5 và idtech md22292b5 hỗ trợ việc sử dụng các cổng dvi dual-link thông qua một hộp chuyển đổi bên ngoài

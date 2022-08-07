@@ -1,0 +1,1 @@
+Các gen mới có thể sinh ra từ một gen gốc khi bản sao lặp bị đột biến và tìm lấy một chức năng mới

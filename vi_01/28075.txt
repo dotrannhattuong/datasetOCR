@@ -1,0 +1,1 @@
+Các Quy Trình Trao Đổi Giữa Các Cache Manager Để Thống Nhất Dữ Liệu Thì Được Gọi Là Cache Coherence Protocols

@@ -1,0 +1,1 @@
+Các bộ chuyển đổi cổng: USB thành RS-232;

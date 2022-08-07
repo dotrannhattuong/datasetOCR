@@ -1,0 +1,1 @@
+"các phông chữ (các phần được dùng bởi các thành phần của Main) không được phép sửa đổi nếu không có sự cho phép của tác giả"" khi việc phân phối lại chúng không bị gây trở ngại."")"

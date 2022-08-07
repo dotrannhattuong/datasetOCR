@@ -1,0 +1,1 @@
+Các hệ thống điều khiển còn sử dụng SRAM như làm một thiết bị lưu trữ thứ cấp (secondary storage)

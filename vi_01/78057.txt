@@ -1,0 +1,1 @@
+chứa 40.760 transistor và nhanh gấp 3 lần risc-i

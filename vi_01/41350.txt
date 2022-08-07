@@ -1,0 +1,1 @@
+Cần chú ý rằng lớp trên lớp MAC (cụ thể là lớp RLC) phần lớn vẫn không thay đổi ngoại trừ một vài sự tối ưu hóa cho các dịch vụ thời gian thực như VoIP

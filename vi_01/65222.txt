@@ -1,0 +1,1 @@
+chỉ làm ra UNIX theo tiêu chuẩn OSF/1 của OSF

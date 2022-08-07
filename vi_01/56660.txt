@@ -1,0 +1,1 @@
+Chạy Thinstall và quét cấu hình hệ thống (Pre-install scan)

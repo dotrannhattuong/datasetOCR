@@ -1,0 +1,1 @@
+cho phép tính toán chính xác tỷ lệ một chùm laser mở rộng theo khoảng cách

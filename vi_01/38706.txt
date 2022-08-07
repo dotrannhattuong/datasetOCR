@@ -1,0 +1,1 @@
+Cải Tạo Theo Cấu Trúc 2 Lớp Chạy Xung Quanh Sân (Lớp Phía Trong Đường Chạy Vòng Và Lớp Dọc Dải Phân Cách Giữa Khu Khán Giả Và Đường Chạy) Với Tổng Chiều Dài 760M

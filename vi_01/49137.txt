@@ -1,0 +1,1 @@
+cấu tạo cơ bản của máy gồm một ống kính gắn trên bệ có khả năng quay tự do trên hai mặt phẳng vuông góc với nhau: mặt phẳng nằm ngang và một mặt phẳng bất kì vuông góc với nó

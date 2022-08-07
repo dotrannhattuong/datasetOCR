@@ -1,0 +1,1 @@
+các tín hiệu được tách ra bằng cách sử dụng một mã giả nhiễu (pn code) riêng đối với mỗi phone

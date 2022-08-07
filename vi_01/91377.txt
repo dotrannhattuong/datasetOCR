@@ -1,0 +1,1 @@
+Co 2 cach pho bien ma hoa ket noi HTTP la HTTP secure (viet tat HTTPS  HTTP + SSL) hoac ket hop HTTP va Transport Layer Securerity (TLS)

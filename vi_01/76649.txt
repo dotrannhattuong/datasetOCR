@@ -1,0 +1,1 @@
+cho phép ứng dụng có thể truy cập không giới hạn vào nội dung thẻ sd

@@ -1,0 +1,1 @@
+chu vi hình chữ nhật bằng hai lần tổng chiều dài và chiều rộng của nó:

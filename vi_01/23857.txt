@@ -1,0 +1,1 @@
+"các nhà lập trình phải làm cho phần mềm của họ có thể được chuyển khỏi máy tính một cách ""sạch sẽ"""

@@ -1,0 +1,1 @@
+các hệ điều hành được sử dụng ngày nay trên các máy tính đa chức năng (như máy tính cá nhân) chủ yếu gồm hai chủng loại: hệ điều hành họ unix và hệ điều hành họ microsoft windows

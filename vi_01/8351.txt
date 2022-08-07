@@ -1,0 +1,1 @@
+Các công ty có thể tích hợp Live Communication Server và Active Directory với mạng nhờ vào chương trình trên máy

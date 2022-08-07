@@ -1,0 +1,1 @@
+các trang được định vị bằng cách thức của một url (bộ định vị tài nguyên chung) (rfc 1738)

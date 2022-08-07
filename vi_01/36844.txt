@@ -1,0 +1,1 @@
+các yêu cầu sử dụng get nên chỉ nhận dữ liệu và nên không có ảnh hưởng gì tới dữ liệu

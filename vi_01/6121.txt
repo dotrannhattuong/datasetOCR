@@ -1,0 +1,1 @@
+các cặp đấu hai lượt có tổng tỉ số bằng nhau thì hai đội sẽ bước vào hiệp phụ (bàn thắng sân khách không được tính);

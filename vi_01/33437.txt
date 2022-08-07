@@ -1,0 +1,1 @@
+Các Trạm Trung Gian Phải Có Dung Lượng Bộ Nhớ Rất Lớn Để Lưu Giữ Các Thông Báo Trước Khi Chuyển Tiếp Nó Tới Một Trạm Trung Gian Khác (Kích Thước Của Các Thông Báo Không Bị Hạn Chế)

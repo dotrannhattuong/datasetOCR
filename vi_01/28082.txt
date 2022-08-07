@@ -1,0 +1,1 @@
+các RAM được thiết kế thành các module như SIMM

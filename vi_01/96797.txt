@@ -1,0 +1,1 @@
+Cỡ khối được dùng thường là các khối 64 bit

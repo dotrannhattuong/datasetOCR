@@ -1,0 +1,1 @@
+CHUỖI 6 BYTE SẼ LƯU TRỮ ĐƯỢC MÃ KÝ TỰ CHỨA ĐẾN 31 BIT: BYTE THỨ NHẤT CÓ GIÁ TRỊ 0XFC CỘNG VỚI BIT THỨ 31

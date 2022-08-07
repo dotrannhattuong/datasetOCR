@@ -1,0 +1,1 @@
+chẳng hạn cả hai số 0x2bad và 2bad16 đều cùng đại diện cho số thập phân 11181 (hoặc 1118110)

@@ -1,0 +1,1 @@
+chỉ trừ một số lượng nhỏ ký tự điều khiển và dãy chưa được gán D800-DFFF và FFFE-FFFF

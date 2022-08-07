@@ -1,0 +1,1 @@
+Các modem USB GPRS sử dụng giao diện tương tự như thiết bị đầu cuối USB 2.0 về sau

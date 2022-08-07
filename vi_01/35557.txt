@@ -1,0 +1,1 @@
+các véctơ sẽ chỉ cắt vòng tròn này tại hai điểm a và b

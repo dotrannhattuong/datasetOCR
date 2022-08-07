@@ -1,0 +1,1 @@
+Chuỗi các nucleotide dọc theo một phân tử ADN riêng rẽ đặc trưng cho thông tin di truyền

@@ -1,0 +1,1 @@
+cần thêm một điều kiện nữa là tổng mô men lực cũng phải bằng 0

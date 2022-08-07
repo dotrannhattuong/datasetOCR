@@ -1,0 +1,1 @@
+Các tính năng mới được thêm vào cho phép người dùng lưu và truy xuất các nội dung đăng trong các mẫu bình luận mà đến nay vẫn không được sử dụng

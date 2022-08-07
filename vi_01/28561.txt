@@ -1,0 +1,1 @@
+Các sector là phần nhỏ cuối cùng được chia ra để chứa dữ liệu

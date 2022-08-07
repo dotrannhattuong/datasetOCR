@@ -1,0 +1,1 @@
+các tập tin dùng trong các ứng dụng hay các phần mềm khác nhau cũng sẽ khác nhau và sự khác nhau này tùy thuộc vào kiến trúc của các ứng dụng sử dụng các tập tin đó

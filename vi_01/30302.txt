@@ -1,0 +1,1 @@
+các thành phần có tần số cao hơn sẽ di chuyển nhanh hơn thành phần có tần số thấp hơn

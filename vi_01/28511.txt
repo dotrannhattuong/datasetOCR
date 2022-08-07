@@ -1,0 +1,1 @@
+các sản phẩm tùy chọn có giá trị tức thời ngay từ đầu bởi vì chúng cung cấp bảo vệ cụ thể (giá trị nội tại) trong một thời gian nhất định (giá trị thời gian)

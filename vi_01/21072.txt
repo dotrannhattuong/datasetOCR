@@ -1,0 +1,1 @@
+các máy không dùng chẵn-lẻ thường thiết lập bit thứ tám là zero

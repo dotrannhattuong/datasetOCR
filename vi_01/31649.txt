@@ -1,0 +1,1 @@
+các thuật toán tìm xâu ký tự (string searching algorithm) tìm kiếm các mẫu trong các xâu ký tự;

@@ -1,0 +1,1 @@
+cairo là một thư viện đồ họa véc tơ dựa trên nền tảng chéo có thể trả về nội dung văn bản

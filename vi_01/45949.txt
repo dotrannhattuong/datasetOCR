@@ -1,0 +1,1 @@
+Cap USB gom hai soi nguon (+5V va day chung GND) cung mot cap gom hai soi day xoan de mang du lieu

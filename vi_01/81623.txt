@@ -1,0 +1,1 @@
+"chúng có thể nhanh chóng ""nhảy"" từ chỉ thị này tới chỉ thị khác dựa trên kết quả của một điều kiện như đã được định nghĩa sẵn trong chương trình"

@@ -1,0 +1,1 @@
+cách khác nữa là kết hợp vừa thay kính lọc vừa dịch bộ cảm biến (không có bộ lọc màu bayer)

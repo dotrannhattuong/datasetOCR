@@ -1,0 +1,1 @@
+Các Trình Sinh Tạo Chìa Khóa Giả Ngẫu Nhiên (Pseudorandom Key Generators) Thường Được Sử Dụng Để Sinh Tạo Các Chìa Khóa Dùng Trong Phiên Giao Dịch Sử Dụng Mật Mã Đối Xứng

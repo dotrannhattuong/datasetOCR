@@ -1,0 +1,1 @@
+cache sẽ kiểm tra nội dung của vị trí dữ liệu yêu cầu trong bất cứ cache line nào có thể có địa chỉ

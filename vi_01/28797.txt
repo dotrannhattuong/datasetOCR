@@ -1,0 +1,1 @@
+các số liệu thống kê chi bình phương và giá trị t-value của phân phối Student

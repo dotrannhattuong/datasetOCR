@@ -1,0 +1,1 @@
+Các thông số quan trong của lưới là độ mịn của lưới (ký hiệu N(chỉ số) hay T(chỉ số)) và tỷ lệ đường kính sợi lưới và chiều rộng mắt lưới

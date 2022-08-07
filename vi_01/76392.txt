@@ -1,0 +1,1 @@
+cho phép khách hàng truy nhập tài khoản tiền gửi của họ 24/24 giờ;

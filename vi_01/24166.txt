@@ -1,0 +1,1 @@
+Các Nhân Kiểu Nguyên Khối (Monolithic Kernel) Thực Hiện Các Nhiệm Vụ Của Mình Bằng Cách Thực Thi Toàn Bộ Mã Hệ Điều Hành Trong Cùng Một Địa Chỉ Bộ Nhớ Để Tăng Hiệu Năng Hệ Thống

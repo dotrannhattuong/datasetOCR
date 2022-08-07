@@ -1,0 +1,1 @@
+chu kỳ bộ nhớ: thời gian giữa hai lần liên tiếp thâm nhập bộ nhớ

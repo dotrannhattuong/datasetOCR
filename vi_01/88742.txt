@@ -1,0 +1,1 @@
+Chuyen vung cell (te bao) cho phep UE ket noi den cell tot nhat co san kha dung de phuc vu cho viec downlink (duong huong xuong)

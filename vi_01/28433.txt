@@ -1,0 +1,1 @@
+Cac san pham nay co mot diem chung la cac ung dung va Windows Store co cau truc duoc phat trien tren nen tang Windows Runtime se giong nhu Windows 8

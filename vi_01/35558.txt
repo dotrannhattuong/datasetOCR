@@ -1,0 +1,1 @@
+"các véc-tơ thành phần của vận tốc với độ chính xác 15 cm/s (độ tin cậy 99,7%)"

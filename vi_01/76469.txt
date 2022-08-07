@@ -1,0 +1,1 @@
+cho phép người dùng windows cài đặt debian mà không cần  cd

@@ -1,0 +1,1 @@
+By 2004 AGP was outgrown again by high-end video cards and other peripherals and has been replaced by the new bus PCI Express

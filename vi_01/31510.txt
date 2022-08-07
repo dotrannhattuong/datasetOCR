@@ -1,0 +1,1 @@
+Các thông báo có thể được đồng bộ giữa các thiết bị;

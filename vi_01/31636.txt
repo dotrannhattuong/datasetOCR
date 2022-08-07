@@ -1,0 +1,1 @@
+Các thuật toán đối xứng nói chung đòi hỏi công suất tính toán ít hơn các thuật toán khóa bất đối xứng (asymmetric key algorithms)

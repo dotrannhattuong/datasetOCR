@@ -1,0 +1,1 @@
+Các số liệu ở từng cột chỉ số nội dung thi đấu của mỗi môn tại kỳ Thế vận hội tương ứng (cột đỏ chỉ những lần môn đó được tổ chức tại Thế vận hội mùa hè);

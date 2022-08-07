@@ -1,0 +1,1 @@
+chiều dài mã máy cố định là 32 bit để dễ giải mã và thực hiện pipeline

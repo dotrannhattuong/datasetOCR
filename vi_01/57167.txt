@@ -1,0 +1,1 @@
+Chế độ không có báo nhận: không truyền lại lớp RLC

@@ -1,0 +1,1 @@
+cho phép các ứng dụng Android chạy trong một môi trường ảo nhưng không cần thay đổi nhiều

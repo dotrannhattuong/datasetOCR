@@ -1,0 +1,1 @@
+chạy 1 vòng quanh 3 gôn và về đến gôn 1 (home)

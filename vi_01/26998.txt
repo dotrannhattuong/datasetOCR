@@ -1,0 +1,1 @@
+Các Plugin Thường Cần Được Chạy Với Mức Độ Bảo Mật Bằng Hoặc Cao Hơn Mức Bảo Mật Của Trình Duyệt

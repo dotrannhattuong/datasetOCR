@@ -1,0 +1,1 @@
+Các interface mở rộng trình duyệt có thể dùng để nhúng các thành phần dùng để thêm các mục trình đơn

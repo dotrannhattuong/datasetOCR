@@ -1,0 +1,1 @@
+cho phép màn hình đạt thời gian đáp ứng 150ms và độ tương phản 50:1

@@ -1,0 +1,1 @@
+Các Kỹ Thuật Thiết Kế Cũ Được Gọi Là Cisc (Complex Instruction Set Computer – Máy Tính Với Tập Lệnh Phức Tạp)

@@ -1,0 +1,1 @@
+có 2 kiểu mã hoá là bán tốc (haft rate -5.6 kbps)và toàn tốc (Full Rate -13 kbit/s))

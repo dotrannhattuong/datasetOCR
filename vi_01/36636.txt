@@ -1,0 +1,1 @@
+các VXL được thêm những lệnh có thể biểu diễn trực tiếp những cấu trúc của ngôn ngữ lập trình cấp cao

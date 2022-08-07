@@ -1,0 +1,1 @@
+Cần có một sự đồng bộ giữa thời gian đáp ứng của mạng cho việc gói đầu tiên được truyền sau một thời gian rỗi và bộ đếm bắt đầu hoạt động

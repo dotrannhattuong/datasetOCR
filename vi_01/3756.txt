@@ -1,0 +1,1 @@
+"Cả 3 robot đều có độ chính xác 0,1mm"

@@ -1,0 +1,1 @@
+CNR của Linspire (ban đầu là Click'N'Run) là một dịch vụ phân phối phần mềm dựa trên APT của Debian

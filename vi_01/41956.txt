@@ -1,0 +1,1 @@
+cần giới hạn miền của hàm

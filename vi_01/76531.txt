@@ -1,0 +1,1 @@
+cho phép phân bố lực lên các cột đều hơn

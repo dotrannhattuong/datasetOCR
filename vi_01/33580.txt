@@ -1,0 +1,1 @@
+Cac trang khong muon chuyen doi giao dien theo IE8 co the tat su thay doi nay bang cach them mot the vao phan HEAD cua trang web

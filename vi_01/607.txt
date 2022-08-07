@@ -1,0 +1,1 @@
+BSD UNIX và AT&T UNIX là hai dòng chính của UNIX

@@ -1,0 +1,1 @@
+Các Cổng Xuất/Nhập (I/O Ports) (Mức Logic Thường Từ 0V Đến 5.5V

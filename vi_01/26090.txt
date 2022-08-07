@@ -1,0 +1,1 @@
+Các phần mềm xử lý đồ họa véc tơ như Adobe Illustrator hay Corel Draw đều hỗ trợ xuất và nhập dưới định dạng SVG

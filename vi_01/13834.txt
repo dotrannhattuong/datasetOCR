@@ -1,0 +1,1 @@
+các giá trị từng tháng là trung bình trên giá trị của từng ngày trong tháng đó

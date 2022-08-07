@@ -1,0 +1,1 @@
+cho phép một số người dùng truy nhập vào cùng một kênh tần số mà không bị kẹt bằng cách định vị những rãnh thời gian duy nhất cho mỗi người dùng trong mỗi kênh

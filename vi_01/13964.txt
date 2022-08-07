@@ -1,0 +1,1 @@
+các gói tin debian tuân theo chuẩn nén ar của unix bao gồm 2 file nén tar

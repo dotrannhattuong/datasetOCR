@@ -1,0 +1,1 @@
+Các nền tảng được hỗ trợ hiện tại bao gồm các máy tính chạy Linux (bất cứ máy để bàn hiện đại nào chạy các bản phân phối Linux)

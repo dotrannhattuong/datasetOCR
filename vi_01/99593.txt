@@ -1,0 +1,1 @@
+COMPSTAT được William Bratton thiết kế dựa trên đơn vị CompStat của N.Y.P.D vào năm 1994

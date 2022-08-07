@@ -1,0 +1,1 @@
+chức năng mới là hàng đợi truyền đi MAC-es có chức năng chính là đảm bảo cho các lớp trên gói tin được phân phối đúng thứ tự truyền từ đầu cuối

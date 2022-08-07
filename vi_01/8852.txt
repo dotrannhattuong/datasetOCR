@@ -1,0 +1,1 @@
+các cơ sở dữ liệu dpkg nằm trong /var/lib/dpkg;

@@ -1,0 +1,1 @@
+cho phép người dùng lưu trạng thái hiện tại và các ứng dụng đang mở để cho phép người dùng khác đăng nhập mà không làm mất thông tin

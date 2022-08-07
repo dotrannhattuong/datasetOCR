@@ -1,0 +1,1 @@
+Các Thuật Toán Khóa Đối Xứng Không Thể Dùng Cho Mục Đích Xác Thực (Authentication) Hay Mục Đích Chống Thoái Thác (Non-Repudiation) Được

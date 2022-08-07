@@ -1,0 +1,1 @@
+các định lý về tính không đầy đủ (incompleteness theorems) của Gödel đưa ra gợi ý rằng toán học không thể bị quy giảm về logic mà thôi

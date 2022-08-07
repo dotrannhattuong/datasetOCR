@@ -1,0 +1,1 @@
+CHUỖI 5 BYTE SẼ LƯU TRỮ ĐƯỢC MÃ KÝ TỰ CHỨA ĐẾN 26 BIT: BYTE THỨ NHẤT CÓ GIÁ TRỊ 0XF8 CỘNG VỚI 2 BIT THỨ 25 VÀ 26

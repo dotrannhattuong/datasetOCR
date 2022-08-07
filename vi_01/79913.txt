@@ -1,0 +1,1 @@
+chức năng của bsc: - điều khiển một số trạm bts xử lý các bản tin báo hiệu - khởi tạo kết nối

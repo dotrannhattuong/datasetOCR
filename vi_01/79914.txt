@@ -1,0 +1,1 @@
+Chức năng của BTS: - Thu phát vô tuyến - Ánh xạ kênh logic vào kênh vật lý - Mã hóa và giải mã - Mật mã / giải mật mã - Điều chế / giải điều chế

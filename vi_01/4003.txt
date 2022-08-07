@@ -1,0 +1,1 @@
+Cac ActiveX control duoc danh cho cac bo xu ly noi dung trinh bay noi dung duoc nhung trong trang HTML (nhu Adobe Flash hay Microsoft Silverlight)

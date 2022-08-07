@@ -1,0 +1,1 @@
+có lẽ các giải thuật tìm kiếm trên danh sách là loại giải thuật tìm kiếm cơ bản nhất

@@ -1,0 +1,1 @@
+chiếm ít không gian trên các bảng mạch vi xử lý hoặc trên chip vi xử lý

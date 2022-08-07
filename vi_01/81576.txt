@@ -1,0 +1,1 @@
+chúng có thể có bộ nhớ ram riêng hoặc sử dụng một phần ram của hệ thống

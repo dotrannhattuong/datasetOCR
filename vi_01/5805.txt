@@ -1,0 +1,1 @@
+các bus như wishbone (bus máy tính) được phát triển bởi các phần cứng mã mở nhằm nỗ lực loại bỏ các hạn chế về mặt pháp lý cũng như các bằng sáng chế từ việc chế tạo máy tính

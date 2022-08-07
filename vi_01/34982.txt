@@ -1,0 +1,1 @@
+Các ứng dụng Mac được thiết kế với mục đích portable sẽ lưu trữ cấu hình tại ổ đĩa mà ứng dụng được chạy

@@ -1,0 +1,1 @@
+chức năng tạo tiền được thực thi trên cơ sở hai chức năng khác của nhtm là chức năng tín dụng và chức năng thanh toán

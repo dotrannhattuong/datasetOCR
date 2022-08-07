@@ -1,0 +1,1 @@
+Các tính năng lớn mới của ReFS bao gồm:

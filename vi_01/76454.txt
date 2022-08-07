@@ -1,0 +1,1 @@
+cho phép người dùng có thể ẩn ứng dụng hoặc tập tin mà không thể đăng nhập nếu thiếu xác nhận

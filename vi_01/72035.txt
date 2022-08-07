@@ -1,0 +1,1 @@
+Chipset cầu bắc là thiết bị mà bất kỳ bo mạch chủ nào cũng phải tản nhiệt cho nó bởi sự phát nhiệt lớn tỏa ra bởi chúng là cầu nối quan trọng của hệ thống và làm việc liên tục

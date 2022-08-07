@@ -1,0 +1,1 @@
+chiều dương của dòng điện là chiều ngược với hướng chuyển động của các electron trong mạch

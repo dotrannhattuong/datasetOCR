@@ -1,0 +1,1 @@
+cho phép một thread khác sử dụng lõi CPU trong khi thread đầu tiên đợi tài nguyên của CPU sẵn sàng

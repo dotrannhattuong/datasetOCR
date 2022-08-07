@@ -1,0 +1,1 @@
+chạy tập tin này sẽ chuyển người dùng về giao diện cũ của ie6

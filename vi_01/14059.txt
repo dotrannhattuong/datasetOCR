@@ -1,0 +1,1 @@
+Các hàm nghịch đảo có thể được ký hiệu là sin−1 hay cos−1 thay cho arcsin và arccos

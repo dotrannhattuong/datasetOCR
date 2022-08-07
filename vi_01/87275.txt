@@ -1,0 +1,1 @@
+chu trình di chuyển của cần đọc/ghi (load/unload cycle) được tính bằng số lần chúng khởi động từ vị trí an toàn đến vùng làm việc của bề mặt đĩa cứng và ngược lại

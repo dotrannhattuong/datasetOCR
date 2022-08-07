@@ -1,0 +1,1 @@
+"các giao tử có thể có hình dạng và chức năng đồng nhất (được biết với tên gọi ""đồng giao tử"")"

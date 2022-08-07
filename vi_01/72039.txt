@@ -1,0 +1,1 @@
+chip set là TI OMAP4430 lõi kép 1.0 GHz

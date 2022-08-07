@@ -1,0 +1,1 @@
+cho phép người dùng xem xét phần cứng của họ có tương thích với hệ điều hành hay không trước khi cài đặt lên đĩa cứng bằng phần mềm Ubiquity

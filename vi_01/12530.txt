@@ -1,0 +1,1 @@
+Các đồng vị có số khối chẵn không có nuclear spin trong khi các đồng vị có số khối lẻ có một spin +1/2

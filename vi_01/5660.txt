@@ -1,0 +1,1 @@
+các bộ xử lý bị ảnh hưởng chủ yếu là dòng socket 754 và socket 939 athlon64 từ 2004 và 2005;

@@ -1,0 +1,1 @@
+các nhà phát triển phải cung cấp hỗ trợ độ phân giải cụ thể ở cấp phần mềm như không có phần cứng hỗ trợ upscaling

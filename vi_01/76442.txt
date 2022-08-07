@@ -1,0 +1,1 @@
+cho phép nghiên cứu những bài toán không thể giải được bằng máy Turing

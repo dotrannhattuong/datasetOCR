@@ -1,0 +1,1 @@
+byte thứ hai có giá trị 0x80 cộng với các bit từ thứ 1 tới thứ 6 (1st-6th least significant bits)

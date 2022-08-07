@@ -1,0 +1,1 @@
+cho phép thực hiện so sánh có ý nghĩa kích cỡ của các tập hợp lớn vô hạn

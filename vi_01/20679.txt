@@ -1,0 +1,1 @@
+các mạch ic dùng các tính chất của kết nối si-sige có thể nhanh hơn nhiều so với các mạch chỉ dùng silic

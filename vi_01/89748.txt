@@ -1,0 +1,1 @@
+chú ý rằng ở giữa mốc 64kb và 1mb có 1 sự khác biệt rất lớn về cache cấu trúc ánh xạ trực tiếp và cache cấu trúc liên kết đầy đủ

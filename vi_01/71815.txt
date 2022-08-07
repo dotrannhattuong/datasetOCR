@@ -1,0 +1,1 @@
+chip A8 và Camera có khả năng quay video Slowmotion 240 khung hình 1 giây

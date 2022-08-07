@@ -1,0 +1,1 @@
+các nguyên tử này dùng 4 electron tạo liên kết và một electron lớp ngoài liên kết lỏng lẻo với nhân

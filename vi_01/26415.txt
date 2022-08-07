@@ -1,0 +1,1 @@
+Cac phien ban san pham khac nhau cua Visual Studio duoc tao ra bang cach su dung AppIds khac nhau

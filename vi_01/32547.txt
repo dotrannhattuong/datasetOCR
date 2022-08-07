@@ -1,0 +1,1 @@
+các tín hiệu được nhận thông qua một ăng-ten parabol ngoài trời thường được gọi là chảo thu truyền hình vệ tinh và một khối downconverter độ nhiễu thấp (lnb)

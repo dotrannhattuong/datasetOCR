@@ -1,0 +1,1 @@
+chúng xóa bit trong những thanh ghi cờ để chỉ ra số nào lớn hơn số nào

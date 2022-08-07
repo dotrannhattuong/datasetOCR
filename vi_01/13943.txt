@@ -1,0 +1,1 @@
+Các Gói Của Ubuntu Nói Chung Dựa Trên Các Gói Từ Nhánh Không Ổn Định Của Debian: Cả 2 Bản Phân Phối Đều Dùng Gói Có Định Dạng Deb Của Debian Và Apt/Synaptic Để Quản Lý Các Gói Đã Cài

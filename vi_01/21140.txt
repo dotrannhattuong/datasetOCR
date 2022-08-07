@@ -1,0 +1,1 @@
+Các Máy Tính Trạm (Client Computers): Các Máy Tính Trạm Chạy Một Hệ Điều Hành Dùng Cho Máy Trạm Của Người Dùng Và Cho Phép Người Dùng Truy Cập Tới Nguồn Tài Nguyên Trong Domain

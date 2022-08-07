@@ -1,0 +1,1 @@
+các tính năng bao gồm cải thiện giao diện và quản lý bộ nhớ.windows 2.0 cho phép các cửa sổ xếp chồng lên nhau

@@ -1,0 +1,1 @@
+cho phép các ứng dụng android chạy trong một môi trường giả lập với ít thay đổi

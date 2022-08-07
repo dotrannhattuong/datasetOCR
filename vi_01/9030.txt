@@ -1,0 +1,1 @@
+"Cac cua so popup se ""nam trong tab ma tu do no den"" va se khong hien thi ra ngoai tab ngoai tru khi nguoi dung re no ra ngoai"

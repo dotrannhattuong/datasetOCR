@@ -1,0 +1,1 @@
+Chu tich IOC (duoc chon tu cac thanh vien cua IOC) duoc cong tac boi mot ban lanh dao

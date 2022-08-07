@@ -1,0 +1,1 @@
+"Cac phien ban quoc te cua S III su dung he thong Exynos Quad 4 cua Samsung tren mot (SoC) co vi xu ly loi tu ARM Cortex-A9 1,4 GHz va GPU ARM Mali-400 MP"

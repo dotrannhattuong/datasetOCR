@@ -1,0 +1,1 @@
+"Các vùng khác nhau trên bảng tuần hoàn đôi khi được xem là ""khối"" (tiếng Anh: ""block"") theo cách mà các vỏ electron của các nguyên tố được lấp đầy"

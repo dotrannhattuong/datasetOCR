@@ -1,0 +1,1 @@
+cần thiết phải thay thế suất điện trở bằng một đại lượng phức gọi là trở kháng suất hay suất trở kháng (khái niệm tương tự áp dụng cho trở kháng)

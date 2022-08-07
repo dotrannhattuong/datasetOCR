@@ -1,0 +1,1 @@
+Các BHO được dùng để mở rộng bộ tính năng của trình duyệt

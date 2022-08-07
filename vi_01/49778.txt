@@ -1,0 +1,1 @@
+cầu thủ không được đánh bóng thẳng về phía trong vòng tròn nếu ở trong khu vực tấn công 23 mét

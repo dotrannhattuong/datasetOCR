@@ -1,0 +1,1 @@
+Các giao diện người dùng được liên kết với mã sử dụng một mô hình lập trình hướng sự kiện

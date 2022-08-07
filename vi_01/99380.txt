@@ -1,0 +1,1 @@
+Có Một Thuật Toán Nhanh Để Tìm Gcd Mà Không Yêu Cầu Phần Tích Ra Thừa Số Nguyên Tố

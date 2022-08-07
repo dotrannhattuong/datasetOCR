@@ -1,0 +1,1 @@
+Cache L3 (L3 chỉ có ở một số CPU) có tốc độ truy xuất gần bằng tốc độ truyền dữ liệu trong CPU;

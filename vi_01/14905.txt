@@ -1,0 +1,1 @@
+Các hệ thống phân loại thông thường được dựa trên vai trò của bus sơ cấp

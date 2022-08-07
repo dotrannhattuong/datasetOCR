@@ -1,0 +1,1 @@
+có ba loại kênh mới trong quy trình hoạt động hsdpa: kênh vận chuyển hs-dsch cho hướng xuống downlink được chia ra bởi một vài user

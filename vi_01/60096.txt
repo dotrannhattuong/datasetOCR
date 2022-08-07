@@ -1,0 +1,1 @@
+chỉ có webcore và javascriptcore là nguồn mở) và cho phép truy cập vào cây cvs của webkit và công cụ bugzilla

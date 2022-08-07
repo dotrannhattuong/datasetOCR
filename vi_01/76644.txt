@@ -1,0 +1,1 @@
+cho phép truyền phát mà không có màn hình hiển thị hay phím điều khiểu

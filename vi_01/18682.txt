@@ -1,0 +1,1 @@
+Các Ký Tự Trong Bmp Được Diễn Tả Bằng Cách Dùng Giá Trị 16-Bit Của Code Point Trong Unicode Ccs

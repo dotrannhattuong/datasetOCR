@@ -1,0 +1,1 @@
+chữ F hoa có giá trị 70 và chữ f thường có giá trị 102

@@ -1,0 +1,1 @@
+các quy trình nội bộ của microsoft yêu cầu số lỗi của vista giảm xuống 500 hoặc ít hơn trước khi sản phẩm có thể đi vào quỹ cho rtm

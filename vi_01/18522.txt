@@ -1,0 +1,1 @@
+Các kí tự này luôn tuân theo thứ tự phụ âm (từ đây viết tắt là C (consonant) - âm tiết đầu) với nguyên âm (từ đây viết tắt là V (vowel) - âm tiết trung tâm)

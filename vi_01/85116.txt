@@ -1,0 +1,1 @@
+Chương trình máy tính đơn giản chỉ là một danh sách các chỉ thị để máy tính thực thi

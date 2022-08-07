@@ -1,0 +1,1 @@
+chuẩn vga phát triển cho chiếc máy ps/2 (ibm personal system/2) mới của ibm vào năm 1987 cho phép pc có khả năng hiển thị 256 màu

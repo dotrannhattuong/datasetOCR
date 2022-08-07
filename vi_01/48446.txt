@@ -1,0 +1,1 @@
+Cấu hình electron của các nguyên tố thường được viết dưới dạng kèm theo cấu hình electron của các khí hiếm có số thứ tự nhỏ hơn đứng gần nó cộng với các lớp còn lại

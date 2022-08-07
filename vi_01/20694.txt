@@ -1,0 +1,1 @@
+các mã đối xứng thường rất dễ bị ảnh hưởng bởi các loại tấn công gọi là tấn công với văn bản thuần túy biết trước (known-plaintext attacks)

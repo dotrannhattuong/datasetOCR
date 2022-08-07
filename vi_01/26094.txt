@@ -1,0 +1,1 @@
+Các phần mở rộng được hỗ trợ trong phiên bản Standard và cao hơn của phiên bản Visual Studio 2005

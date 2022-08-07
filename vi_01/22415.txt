@@ -1,0 +1,1 @@
+các nghiệm của phương trình bậc hai ax2 + bx + c  0 tương ứng là các nghiệm của hàm số f(x)  ax2 + bx + c bởi chúng là những giá trị của x để cho f(x)  0

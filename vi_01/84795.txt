@@ -1,0 +1,1 @@
+Chương Trình Cần Lưu Các Cấu Hình Trong Một Tập Tin Ini File (Hoặc Các File Cấu Hình Tương Tự) Thay Vì Registry

@@ -1,0 +1,1 @@
+cấu hình electron của một số nguyên tố

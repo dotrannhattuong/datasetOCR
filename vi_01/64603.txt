@@ -1,0 +1,1 @@
+chiều sâu: chiều sâu danh mục sản phẩm thể hiện có bao nhiêu phương án (dạng) của mỗi sản phẩm trong loại;

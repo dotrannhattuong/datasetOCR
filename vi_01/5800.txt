@@ -1,0 +1,1 @@
+Các bus kết nối CPU và bộ nhớ là một trong những đặc điểm xác định của hệ thống

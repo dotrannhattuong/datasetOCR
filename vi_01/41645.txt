@@ -1,0 +1,1 @@
+cần di chuyển đầu đọc sẽ di chuyển đến các vị trí trên các bề mặt chứa phủ vật liệu từ theo phương bán kính của đĩa

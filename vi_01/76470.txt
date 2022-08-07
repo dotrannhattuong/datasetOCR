@@ -1,0 +1,1 @@
+cho phép người dùng windows và linux thực hiện tạo cài đặt mà không cần cd cho một loạt các bản phân phối linux và cung cấp thêm hỗ trợ tạo usb live

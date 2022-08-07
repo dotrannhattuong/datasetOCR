@@ -1,0 +1,1 @@
+chúng được phát triển có chọn lọc trên nền các chuẩn cũ (baby-at và lpx) với sự thay đổi của thiết kế và liên quan nhiều đến việc thay đổi đầu nối nguồn với nguồn máy tính

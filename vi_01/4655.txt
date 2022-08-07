@@ -1,0 +1,1 @@
+Các Bản Phân Phối Linux Sau Đó Có Thể Được Cài Đặt Trên Phân Vùng Riêng Của Mình Mà Không Ảnh Hưởng Đến Dữ Liệu Đã Lưu Trước Đó

@@ -1,0 +1,1 @@
+các đtdd đời mới sử dụng các cell vì tần số sóng radio là nguồn hạn chế và bị chia sẻ

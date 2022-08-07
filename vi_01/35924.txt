@@ -1,0 +1,1 @@
+các vị trí của chúng phải được mô tả là phân phối xác suất là tình trạng giảm dần khi ra xa hạt nhân

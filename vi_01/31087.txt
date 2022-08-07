@@ -1,0 +1,1 @@
+các thẻ (tab bar) hiển thị dưới thanh tiêu đề của cửa sổ

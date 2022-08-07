@@ -1,0 +1,1 @@
+Các transistor trường cho phần điều chế nguồn của bo mạch chủ và CPU: Nhiều bo mạch chủ thiết kế áp mặt lưng của các transistor này xuống trực tiếp bo mạch để tản nhiệt ra bo mạch

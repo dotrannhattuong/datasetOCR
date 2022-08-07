@@ -1,0 +1,1 @@
+các ứng dụng được tạo ra cho Windows 8.1 có thể được chuyển đổi sang Windows Phone 8.1 và Xbox One trong khi vẫn có cùng mã nguồn chung với phiên bản PC

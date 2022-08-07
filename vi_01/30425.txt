@@ -1,0 +1,1 @@
+các thành phố được liệt kê bằng chữ đậm có dân số hơn 100.000 người:

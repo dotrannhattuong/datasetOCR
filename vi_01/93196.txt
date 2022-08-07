@@ -1,0 +1,1 @@
+Cơ chế hoạt động của Switch rất giống Hub bởi vì là thiết bị tập trung các kết nối mạng lại trên nó

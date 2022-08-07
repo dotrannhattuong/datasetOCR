@@ -1,0 +1,1 @@
+Cấu Hình Tối Thiểu Cho Việc Cài Đặt Phiên Bản Server Là Máy Có Bộ Vi Xử Lý 300 Mhz X86

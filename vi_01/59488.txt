@@ -1,0 +1,1 @@
+chỉ có duy nhất chip HuC6270 xử lý các tác vụ đồ họa là chip 16-bit thực sự

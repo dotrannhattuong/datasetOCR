@@ -1,0 +1,1 @@
+các thuật toán thông thường dành cho tìm kiếm trên cây rất không hiệu quả

@@ -1,0 +1,1 @@
+các thẻ (elements) tương đương với các lớp (classes) và thuộc tính của thẻ (attributes) là thuộc tính của lớp (properties)

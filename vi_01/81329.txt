@@ -1,0 +1,1 @@
+chúng biến đổi tuần tự theo một chu trình xác định và quay vòng một cách có hệ thống tạo nên vòng tuần hoàn khép kín

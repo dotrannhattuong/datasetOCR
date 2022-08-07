@@ -1,0 +1,1 @@
+các phản ứng bắt electron sẽ tạo thành các đồng vị của nguyên tố 22 (titan)

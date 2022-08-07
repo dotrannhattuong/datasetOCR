@@ -1,0 +1,1 @@
+BSD giúp cho UNIX trở nên phổ biến và có nhiều đóng góp về mặt kỹ thuật như: csh

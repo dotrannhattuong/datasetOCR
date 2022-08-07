@@ -1,0 +1,1 @@
+canonical có thể tận dụng tài năng của những nhà phát triển ở bên ngoài trong các thành phần cấu tạo của ubuntu mà không cần phải tự mình phát triển

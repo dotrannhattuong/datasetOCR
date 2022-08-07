@@ -1,0 +1,1 @@
+cách tiếp cận mô-đun để thư viện jquery cho phép tạo ra các công cụ mạnh mẽ và năng động web và các ứng dụng web

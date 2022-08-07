@@ -1,0 +1,1 @@
+các máy tính được nhúng bên trong các thiết bị khác thông thường được gọi là vi điều khiển (microcontroller) hay máy tính nhúng (embedded computer)

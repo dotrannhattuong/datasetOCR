@@ -1,0 +1,1 @@
+Các tuyến đường sắt được chia thành các khu vực và các vùng nhỏ để điều tiết sao cho đảm bảo chỉ có một đoàn tàu trên một đường ray tại mỗi thời điểm

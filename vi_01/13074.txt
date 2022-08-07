@@ -1,0 +1,1 @@
+các dữ liệu metadata và dữ liệu tập tin được sắp xếp vào các bảng tương tự như một cơ sở dữ liệu quan hệ

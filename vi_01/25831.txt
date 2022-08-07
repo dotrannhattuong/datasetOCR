@@ -1,0 +1,1 @@
+Các ổ đĩa IDE chậm hơn do không có bộ nhớ đệm lớn như các ổ đĩa SCSI và không có khả năng ghi trực tiếp lên RAM

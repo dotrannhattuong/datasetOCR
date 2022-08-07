@@ -1,0 +1,1 @@
+chương trình sử dụng không gian bộ nhớ ảo trong đó sử dụng địa chỉ ảo mà địa chỉ không gian đó không tồn tạitrong bộ nhớ vật lý

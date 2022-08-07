@@ -1,0 +1,1 @@
+cac hien thuc tu ben thu ba nhu ScreamingMonkey (de ho tro ECMAScript 4) cung co the dung duoc

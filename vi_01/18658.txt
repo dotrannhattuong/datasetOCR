@@ -1,0 +1,1 @@
+các ký tự 2 byte ra đời (như JIS X 0208) để viết chữ Hiragana

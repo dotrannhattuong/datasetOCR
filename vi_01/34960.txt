@@ -1,0 +1,1 @@
+các ứng dụng cũng có thể khởi động các ứng dụng khác ở chế độ snap để hiển thị nội dung;

@@ -1,0 +1,1 @@
+Chuẩn MIME yêu cầu mọi thư điện tử phải được gửi dưới dạng ASCII cho nên các thư điện tử nào sử dụng mã hóa Unicode được coi là không hợp lệ

@@ -1,0 +1,1 @@
+Cac may chu khong ho tro phien ban giao thuc HTTP duoc su dung trong yeu cau

@@ -1,0 +1,1 @@
+các mã xaml được liên kết với mã đang sử dụng một mô hình code-behind

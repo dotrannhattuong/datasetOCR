@@ -1,0 +1,1 @@
+chậm thay đổi và chậm phục hồi khi bị phá vỡ

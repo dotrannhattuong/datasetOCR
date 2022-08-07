@@ -1,0 +1,1 @@
+Các macro đại diện cho các nhiệm vụ lặp đi lặp lại và hành động mà các nhà phát triển có thể ghi lại theo chương trình để tiết kiệm

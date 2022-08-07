@@ -1,0 +1,1 @@
+Chuyển Điện Tích Từ Tế Bào Lưu Trữ Tới Dòng Nối Liên Kết Hoặc Từ Dòng Nối Lien Kết Tới Tế Bào Lưu Trữ (Nếu Giá Trị Lưu Trữ Là 0)

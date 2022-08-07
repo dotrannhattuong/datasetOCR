@@ -1,0 +1,1 @@
+co kha nang tuong thich 32 bit va cung cap giao dien Win32 API tuong tu NT

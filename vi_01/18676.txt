@@ -1,0 +1,1 @@
+Các ký tự này biểu thị hoặc là các byte nếu bộ mã có định nghĩa hoặc là chuỗi số của Unicode nếu bộ mã không định nghĩa

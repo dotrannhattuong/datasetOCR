@@ -1,0 +1,1 @@
+CÁC TÁC GIẢ GÓI TẠO CÁC HÀNH ĐỘNG TUỲ CHỈNH ĐỂ THAY ĐỔI HỆ THỐNG MỤC TIÊU CŨNG NÊN TẠO CÁC HÀNH ĐỘNG TRẢ VỀ TƯƠNG ỨNG (CŨNG NHƯ CÁC HÀNH ĐỘNG GỠ BỎ VÀ GỠ BỎ CÀI ĐẶT-ROLLBACK)

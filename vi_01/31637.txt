@@ -1,0 +1,1 @@
+Các thuật toán đối xứng thường không được sử dụng độc lập

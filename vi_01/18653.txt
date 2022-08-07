@@ -1,0 +1,1 @@
+các kỹ thuật trước đây chỉ sử dụng hình ảnh từ các camera để tính toán vị trí 3d

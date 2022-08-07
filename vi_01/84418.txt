@@ -1,0 +1,1 @@
+chuỗi những tham chiếu bộ nhớ được thực hiện bởi các chương trình tiêu chuẩn được gọi là address traces

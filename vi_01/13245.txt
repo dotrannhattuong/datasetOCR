@@ -1,0 +1,1 @@
+Các electron sẽ điền theo thứ tự vào các lớp có năng lượng từ thấp đến cao

@@ -1,0 +1,1 @@
+Các hộp thư nhận sẽ đọc được các địa chỉ người gửi và các địa chỉ gửi kèm này

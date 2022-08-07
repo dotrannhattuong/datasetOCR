@@ -1,0 +1,1 @@
+Bus điều khiển nhận dữ liệu từ một bên CPU và chuyển đến bên kia nơi chứa các thiết bị ngoại vi

@@ -1,0 +1,1 @@
+các proxy mở này sẽ nối máy khách vào một máy chủ bất kì mà không cần kiểm lại chủ quyền sử dụng và cũng không giới hạn các quyền hạn truy cập khác

@@ -1,0 +1,1 @@
+"chúng thường được ""nén"" nghĩa là có tồn tại một ma trận gốc được sử dụng làm khuôn để ghi thông tin và chúng không thể ghi đi ghi lại được"

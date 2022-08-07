@@ -1,0 +1,1 @@
+Cac BHO khong chi duoc truy cap khong gioi han vao DOM va mo hinh su kien cua Internet Explorer

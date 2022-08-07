@@ -1,0 +1,1 @@
+cấu tạo và kích thước lớp đệm: lớp đệm nằm ngay dưới các cấu kiện của lớp phủ

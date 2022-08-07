@@ -1,0 +1,1 @@
+các phiên bản mới nhất nay đã hỗ trợ x86 (cụ thể hơn là ia-32 và x64) và arm

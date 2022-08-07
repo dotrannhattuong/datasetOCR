@@ -1,0 +1,1 @@
+Các máy tính hiện đại ghép chung ALU và đơn vị kiểm soát vào trong một IC gọi là đơn vị xử lý trung tâm hay CPU

@@ -1,0 +1,1 @@
+Các đơn vị đo lường phi SI có thể chuyển đổi sang đơn vị đo lường của SI (hoặc ngược lại) phù hợp với các hệ số chuyển đổi đơn vị đo lường

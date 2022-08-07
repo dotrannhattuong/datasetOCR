@@ -1,0 +1,1 @@
+có hai loại chính: kiểu xử lý tuần tự (batch processing) và kiểu xử lý tương tác (interactive rocessing)

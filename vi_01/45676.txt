@@ -1,0 +1,1 @@
+Cập Nhật Ipsec Simple Policy Để Đơn Giản Hóa Việc Khởi Tạo Và Bảo Trì Các Bộ Lọc Ipsec

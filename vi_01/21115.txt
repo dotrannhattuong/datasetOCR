@@ -1,0 +1,1 @@
+Các máy tính có mục đích không nhất định còn được gọi là các máy loại Turing hoàn tất và điều này được sử dụng như khả năng ngưỡng để định nghĩa các máy tính hiện nay

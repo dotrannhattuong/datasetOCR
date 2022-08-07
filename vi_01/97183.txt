@@ -1,0 +1,1 @@
+Có lẽ đã đến lúc CPU cần thêm nhiều thanh ghi (sau này gọi là cache) để có thể hoạt động ở tốc độ cao hơn

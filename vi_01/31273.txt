@@ -1,0 +1,1 @@
+Các thiết kế SoC thường tiêu tốn ít năng lượng và có giá thành thấp hơn các hệ thống đa chip nếu so sánh cùng một thiết kế

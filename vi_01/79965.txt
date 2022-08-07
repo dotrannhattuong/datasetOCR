@@ -1,0 +1,1 @@
+chức năng ghi lại những đoạn macro có thể tạo ra những đoạn mã vba cho những hành động có tính chất lặp lại của người sử dụng

@@ -1,0 +1,1 @@
+cho phép người dùng truy nhập cùng một thông tin trên PDA cũng như trên máy tính cá nhân
