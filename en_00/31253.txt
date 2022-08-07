@@ -1,0 +1,1 @@
+a less common variant of omaha hi-lo uses a qualifying low hand of 9-high or lower (9-8-7-6-5 or lower)

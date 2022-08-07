@@ -1,0 +1,1 @@
+"Accesses to the ""inverted page table"" (a hash table that functions as a TLB with off-chip storage) are always done in big-endian mode"

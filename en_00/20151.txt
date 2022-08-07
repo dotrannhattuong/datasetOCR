@@ -1,0 +1,1 @@
+a driver must at some point end cooperation in order to win the race

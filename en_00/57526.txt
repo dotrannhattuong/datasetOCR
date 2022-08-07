@@ -1,0 +1,1 @@
+and many hardware players are unable to play video with an instantaneous bitrate lower than 300 to 600 kilobits per second

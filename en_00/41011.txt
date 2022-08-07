@@ -1,0 +1,1 @@
+amigados provides the disk operating system portion of the amigaos

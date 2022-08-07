@@ -1,0 +1,1 @@
+A simple parity argument shows that half of the starting positions for the n-puzzle are impossible to resolve

@@ -1,0 +1,1 @@
+and the magnetic heading is derived from the flux on a plane perpendicular to gravity

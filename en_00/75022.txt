@@ -1,0 +1,1 @@
+Another way to determine whether x is triangular is:

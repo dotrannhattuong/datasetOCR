@@ -1,0 +1,1 @@
+Another benefit of Replay Gain scanning is that the peak information can also be used to prevent loud songs from clipping

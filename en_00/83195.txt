@@ -1,0 +1,1 @@
+A Scene-Graph Can Easily Be Adapted To Include/Become A Bvh - If Each Node Has A Volume Associated Or There'S Purpose Built 'Bound Node' Added In At Convenient Location In The Hierarchy

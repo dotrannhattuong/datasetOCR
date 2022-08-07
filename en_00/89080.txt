@@ -1,0 +1,1 @@
+as the encryption function is additively homomorphic

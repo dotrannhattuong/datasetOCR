@@ -1,0 +1,1 @@
+and has to perform access control in a client- and application-specific fashion

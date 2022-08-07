@@ -1,0 +1,1 @@
+Additional screen grids in RF valves reduce the unwanted capacitance between the anode and the first grid

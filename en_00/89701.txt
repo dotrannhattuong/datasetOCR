@@ -1,0 +1,1 @@
+As the solver can infer from these that certain numbers are in a certain row or column

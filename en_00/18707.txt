@@ -1,0 +1,1 @@
+A DAC usually only deals with pulse-code modulation (PCM)-encoded signals

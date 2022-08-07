@@ -1,0 +1,1 @@
+and compilers would use hardware based memory locations for a stack pointer

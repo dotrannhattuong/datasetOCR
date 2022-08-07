@@ -1,0 +1,1 @@
+aiming and firing being done in real time with the keyboard and mouse

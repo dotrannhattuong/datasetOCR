@@ -1,0 +1,1 @@
+a time series is an associative array of numbers indexed by a datetime or a datetime range

@@ -1,0 +1,1 @@
+as a stepfile (according to iso 10303-21)

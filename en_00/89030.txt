@@ -1,0 +1,1 @@
+as the depth buffer is often referred to as the z-buffer

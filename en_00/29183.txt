@@ -1,0 +1,1 @@
+A handful of decorators are still employed at the factory and the Museum is still open

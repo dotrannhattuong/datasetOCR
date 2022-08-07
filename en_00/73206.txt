@@ -1,0 +1,1 @@
+an lto-3 drive will not erase or overwrite data on a worm cartridge

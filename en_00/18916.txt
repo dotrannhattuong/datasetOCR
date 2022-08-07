@@ -1,0 +1,1 @@
+a database security program should include the regular review of permissions granted to individually owned accounts and accounts used by automated processes

@@ -1,0 +1,1 @@
+and so each eigenspace is contained in the associated generalized eigenspace

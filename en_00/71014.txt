@@ -1,0 +1,1 @@
+and yielding the extension (referent or truth-value) as a value

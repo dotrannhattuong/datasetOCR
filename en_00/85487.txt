@@ -1,0 +1,1 @@
+a single address space operating system (or SASOS) is a type of operating system with simple memory management which uses only one globally shared virtual address space

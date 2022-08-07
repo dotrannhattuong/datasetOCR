@@ -1,0 +1,1 @@
+a similar analysis can be performed for general case of multi-variate regression for a bayesian estimation of covariance matrices

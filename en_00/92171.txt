@@ -1,0 +1,1 @@
+asynchronous multi-master replication commits data changes to a deferred transaction queue which is periodically processed on all databases in the cluster

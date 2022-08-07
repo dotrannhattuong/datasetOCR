@@ -1,0 +1,1 @@
+a vehicle with a roll couple percentage of 70% will transfer 70% of its sprung weight transfer at the front of the vehicle during cornering

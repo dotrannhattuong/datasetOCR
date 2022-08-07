@@ -1,0 +1,1 @@
+a stepper motor might turn exactly one complete revolution each second

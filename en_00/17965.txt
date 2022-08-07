@@ -1,0 +1,1 @@
+A convex cone is said to be flat if it contains some nonzero vector x and its opposite -x

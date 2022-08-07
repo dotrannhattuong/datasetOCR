@@ -1,0 +1,1 @@
+and a variable's value is simply that of the top binding on the stack

@@ -1,0 +1,1 @@
+Arc-chord ratio equals 1 for a straight line and is infinite for a circle

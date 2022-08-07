@@ -1,0 +1,1 @@
+and the heap organizes the elements added to it in such a way that either the largest value (in a max-heap) or the smallest value (in a min-heap) can be quickly extracted

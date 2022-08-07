@@ -1,0 +1,1 @@
+a continuous function is in all cases both upper and lower hemicontinuous

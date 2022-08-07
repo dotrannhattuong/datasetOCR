@@ -1,0 +1,1 @@
+an eventual send sends the message while producing a placeholder for the result called a promise

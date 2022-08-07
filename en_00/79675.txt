@@ -1,0 +1,1 @@
+a representation that satisfies the conditions of Zeckendorf's theorem can be found by using a greedy algorithm

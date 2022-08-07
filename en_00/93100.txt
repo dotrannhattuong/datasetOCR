@@ -1,0 +1,1 @@
+A tessellation of the plane is a partition of the plane into smaller regions called tiles

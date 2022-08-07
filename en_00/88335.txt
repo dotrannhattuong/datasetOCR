@@ -1,0 +1,1 @@
+assists start by providing a uniform method of accessing information on the web in real time

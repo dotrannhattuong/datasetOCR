@@ -1,0 +1,1 @@
+another route request may not be sent until twice as much time has passed as the timeout of the previous route request

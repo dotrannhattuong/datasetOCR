@@ -1,0 +1,1 @@
+a control grid is typically introduced between the TWT's electron gun and slow-wave structure to allow pulsed operation

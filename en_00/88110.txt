@@ -1,0 +1,1 @@
+assembly can sometimes be portable across different operating systems on the same type of CPU

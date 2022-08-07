@@ -1,0 +1,1 @@
+and production begins declining until it approximates an exponential decline

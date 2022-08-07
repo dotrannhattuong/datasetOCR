@@ -1,0 +1,1 @@
+a soft error may be corrected by rewriting correct data in place of erroneous data

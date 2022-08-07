@@ -1,0 +1,1 @@
+A synthesized shock pulse is a short duration high level vibration calculated as a sum of many half-sine waves covering a range of frequencies

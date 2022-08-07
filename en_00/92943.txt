@@ -1,0 +1,1 @@
+"At Each State Change Either The Code Point Denoted By ""N"" Is Inserted Or It Is Not Inserted"

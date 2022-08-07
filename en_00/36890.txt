@@ -1,0 +1,1 @@
+although arbiter circuits never grant more than one request at a time

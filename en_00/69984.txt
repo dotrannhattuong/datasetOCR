@@ -1,0 +1,1 @@
+and we can simply assign it a color that none of its neighbors is using

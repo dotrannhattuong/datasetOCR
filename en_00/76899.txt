@@ -1,0 +1,1 @@
+a piece of vulnerable PHP code would look like this:

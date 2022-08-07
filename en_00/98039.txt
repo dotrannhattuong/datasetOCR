@@ -1,0 +1,1 @@
+authorization holds only last for a fixed maximum period of time

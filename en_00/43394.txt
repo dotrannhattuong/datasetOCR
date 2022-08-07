@@ -1,0 +1,1 @@
+An Association Role Type Describes The Role Type Of An Instance Of A Class When The Instance Participates In An Association

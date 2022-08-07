@@ -1,0 +1,1 @@
+A Zero-Knowledge Proof Or Zero-Knowledge Protocol Is An Interactive Method For One Party To Prove To Another That A (Usually Mathematical) Statement Is True

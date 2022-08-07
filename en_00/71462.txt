@@ -1,0 +1,1 @@
+An environment that is fully deterministic is one in which the subsequent state of the environment is wholly dependent on the preceding state and the actions of the agent

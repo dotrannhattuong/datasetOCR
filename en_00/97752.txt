@@ -1,0 +1,1 @@
+a user uploading an image can set privacy controls that determine who can view the image

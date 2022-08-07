@@ -1,0 +1,1 @@
+a bank of capacitors releases a pulse of electric current lasting 10 microseconds into the coil

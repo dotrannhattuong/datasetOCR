@@ -1,0 +1,1 @@
+any metric can locally be put into this form by a coordinate transformation

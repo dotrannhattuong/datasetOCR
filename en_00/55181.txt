@@ -1,0 +1,1 @@
+and is capable of rendering precision forces and torques in 6 degrees of freedom

@@ -1,0 +1,1 @@
+Automata theory is closely related to formal language theory as the automata are often classified by the class of formal languages they are able to recognize

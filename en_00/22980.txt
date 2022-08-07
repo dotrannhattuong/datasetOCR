@@ -1,0 +1,1 @@
+after choosing the number of players and the voltage (low or high)

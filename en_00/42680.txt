@@ -1,0 +1,1 @@
+an agent coordinating the plans (plan merging) or planning of others

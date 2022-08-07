@@ -1,0 +1,1 @@
+an integrated 32-channel 350 MIPS playback-only soundcard

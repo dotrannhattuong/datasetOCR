@@ -1,0 +1,1 @@
+A closed system is defined to be one which does not communicate with the outside

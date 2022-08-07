@@ -1,0 +1,1 @@
+Autoconf Is Used To Attempt To Work Around The Quirks Found In Various Unix-Like Operating Systems

@@ -1,0 +1,1 @@
+a light pen is fairly simple to implement

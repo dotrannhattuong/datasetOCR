@@ -1,0 +1,1 @@
+as well as Intel 64 (Intel's implementation of x86-64) and SSSE3

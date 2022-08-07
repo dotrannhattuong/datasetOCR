@@ -1,0 +1,1 @@
+As it also does not create Attribute Nodes for default values specified in the DTD

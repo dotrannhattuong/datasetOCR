@@ -1,0 +1,1 @@
+as well as letting the user define his or her own variables

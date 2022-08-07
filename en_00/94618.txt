@@ -1,0 +1,1 @@
+a trouble code can be decoded from each pair of data bytes

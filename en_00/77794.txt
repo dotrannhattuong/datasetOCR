@@ -1,0 +1,1 @@
+applications that have their own game engine code use the shark 3d renderer only

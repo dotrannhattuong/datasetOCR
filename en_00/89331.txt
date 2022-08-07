@@ -1,0 +1,1 @@
+as the memory controller is integrated onto the cpu die

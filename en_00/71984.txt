@@ -1,0 +1,1 @@
+An Example Could Be Anti-Virus Software Installed On Individual Workstations When There Is Already Virus Protection On The Firewalls And Servers Within The Same Environment

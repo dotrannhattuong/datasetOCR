@@ -1,0 +1,1 @@
+any possible one-dimensional object embedded in the two-dimensional plane is homeomorphic to a subset of the sierpinski carpet

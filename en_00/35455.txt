@@ -1,0 +1,1 @@
+Alphabetical word ordering in dictionaries ignores the existence of glottals

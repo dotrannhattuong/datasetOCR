@@ -1,0 +1,1 @@
+a projectile launched with specific initial conditions in a uniform gravity field will have a predictable range

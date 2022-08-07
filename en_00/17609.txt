@@ -1,0 +1,1 @@
+A common source of such sensitivity to initial conditions is that the map represents a repeated folding and stretching of the space on which it is defined

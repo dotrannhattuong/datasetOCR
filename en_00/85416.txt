@@ -1,0 +1,1 @@
+A simple polygon is (vertical) monotone if it is formed by two monotone chains

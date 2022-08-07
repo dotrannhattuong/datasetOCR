@@ -1,0 +1,1 @@
+and instead has contracts to use the existing network(s) of other providers

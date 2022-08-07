@@ -1,0 +1,1 @@
+an articulator which attempts to reproduce normal mandibular movements during mastication

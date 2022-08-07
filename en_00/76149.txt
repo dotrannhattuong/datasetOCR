@@ -1,0 +1,1 @@
+any overbid or underbid loses the number of points their bid was off (a player bidding 3 tricks that wins only 2 would lose a point

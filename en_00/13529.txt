@@ -1,0 +1,1 @@
+ABAQUS was initially designed to address non-linear physical behavior

@@ -1,0 +1,1 @@
+And A Typical Core Loading Is On The Order Of 4500-6500 Bundles

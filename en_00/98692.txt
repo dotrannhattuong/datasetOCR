@@ -1,0 +1,1 @@
+AVL devices may be simple stand-alone modems or may include operating systems with application space for the system integrator

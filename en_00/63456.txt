@@ -1,0 +1,1 @@
+and supports RS-MMC cards for further expansion

@@ -1,0 +1,1 @@
+A large number of weak keys is a serious flaw in any cipher design

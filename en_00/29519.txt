@@ -1,0 +1,1 @@
+a horn clause is a clause with at most one positive literal

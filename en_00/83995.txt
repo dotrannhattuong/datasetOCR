@@ -1,0 +1,1 @@
+a serial channel is slower than a parallel channel

@@ -1,0 +1,1 @@
+and the metro nodes are the first location where IP traffic is routed

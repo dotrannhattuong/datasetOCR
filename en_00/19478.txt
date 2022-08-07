@@ -1,0 +1,1 @@
+a detailed description of how to build a short range GPS L1 C/A jammer was published in Phrack issue 60 [13] by an anonymous author

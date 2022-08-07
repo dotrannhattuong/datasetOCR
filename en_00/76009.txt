@@ -1,0 +1,1 @@
+any discrete probability distribution is determined by the probabilities it assigns to what may be called elementary events

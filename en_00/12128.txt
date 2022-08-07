@@ -1,0 +1,1 @@
+810-based boards include an AMR expansion slot

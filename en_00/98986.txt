@@ -1,0 +1,1 @@
+A Well Defined Entry Point Is Used To Determine The First Instructions

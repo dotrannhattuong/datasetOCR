@@ -1,0 +1,1 @@
+another symptom is that changes in one part of the code affect lots of other parts

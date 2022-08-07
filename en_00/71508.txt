@@ -1,0 +1,1 @@
+an erasure code is used to encode data so that the original message can be decoded without receiving all the encoded data

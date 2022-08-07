@@ -1,0 +1,1 @@
+A Term Is In Beta Normal Form If No Beta Reduction Is Possible

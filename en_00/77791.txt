@@ -1,0 +1,1 @@
+applications may request specific memory addresses

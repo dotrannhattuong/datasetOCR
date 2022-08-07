@@ -1,0 +1,1 @@
+axial-mode helical antennas can have either a clockwise (right-handed) or counter-clockwise (left-handed) polarisation

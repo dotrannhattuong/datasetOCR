@@ -1,0 +1,1 @@
+alternative methods of controlling overfitting include cross validation

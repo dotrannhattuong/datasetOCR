@@ -1,0 +1,1 @@
+A typical codec extracts sinusoid information from the samples by applying a Short-time Fourier transform to the samples and using that to find the important harmonic content of a single frame

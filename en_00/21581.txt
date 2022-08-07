@@ -1,0 +1,1 @@
+a framework in which the solution of a problem can be described by finding a sequence of actions that lead to a desirable goal

@@ -1,0 +1,1 @@
+an intermediate condition between regular and locked is the latched state: when a modifier is latched it remains active

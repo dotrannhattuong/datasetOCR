@@ -1,0 +1,1 @@
+A process that has only one thread is referred to as a single-threaded process

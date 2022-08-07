@@ -1,0 +1,1 @@
+Another approach to the problem is to combine real-time derived information

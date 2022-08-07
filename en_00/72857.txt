@@ -1,0 +1,1 @@
+an inductive problem specifies a range of epistemically possible worlds over which to succeed and determines what sort of output would be correct

@@ -1,0 +1,1 @@
+Although a truncated block cipher represents an unusual choice for such a primitive

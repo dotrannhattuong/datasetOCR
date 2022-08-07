@@ -1,0 +1,1 @@
+Applying certain boundary conditions will allow this equation to simplify

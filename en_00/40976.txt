@@ -1,0 +1,1 @@
+A microphone is constructed with a diaphragm whose mechanical movement is converted to electrical signals (via a magnetic coil

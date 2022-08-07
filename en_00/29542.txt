@@ -1,0 +1,1 @@
+A Host Application Tipically Sets Up An Environment Before Running A Workflow

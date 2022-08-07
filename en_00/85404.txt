@@ -1,0 +1,1 @@
+a simple graphic/image placement setup

@@ -1,0 +1,1 @@
+A naive implementation of a HTC would have it spending 99

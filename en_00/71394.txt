@@ -1,0 +1,1 @@
+an engines' cyclic nature makes fft analysis and the noise canceling easier to apply

@@ -1,0 +1,1 @@
+a blocked pitot tube is a pitot-static problem that will only affect airspeed indicators

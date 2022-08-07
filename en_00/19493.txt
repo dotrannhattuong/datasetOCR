@@ -1,0 +1,1 @@
+A developer specifies one or more tracing macros that WPP should handle

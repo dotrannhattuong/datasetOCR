@@ -1,0 +1,1 @@
+A proof of concept may involve a small number of users acting in a business (non-IT) role using the system to establish that it satisfies some aspect of the requirements for the complete solution

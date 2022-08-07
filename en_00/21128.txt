@@ -1,0 +1,1 @@
+a file system journal is used in order to guarantee the integrity of the file system itself (but not of each individual file)

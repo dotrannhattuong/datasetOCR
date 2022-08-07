@@ -1,0 +1,1 @@
+a graded Lie algebra is a Lie algebra which is also a nonassociative graded algebra under the bracket operation

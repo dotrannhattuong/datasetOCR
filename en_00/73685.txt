@@ -1,0 +1,1 @@
+"an onscreen clock displays the time as ""7:00PM"""

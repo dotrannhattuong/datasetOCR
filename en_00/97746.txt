@@ -1,0 +1,1 @@
+"a ""user environment"" should be able to support three types of applications: - browser-based applications (zero client footprint) - thin-client applications (e"

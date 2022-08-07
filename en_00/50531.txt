@@ -1,0 +1,1 @@
+And Features Just-In-Time Compilation To Bytecode As Well As Native Code For The X86 Architecture

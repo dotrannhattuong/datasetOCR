@@ -1,0 +1,1 @@
+As the collectors of T1 and T2 are connected to pin 2 of NAND gate N1 of the oscillator

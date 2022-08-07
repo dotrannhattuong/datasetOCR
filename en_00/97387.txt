@@ -1,0 +1,1 @@
+a typical session consists of powering up the modem (often inside the computer itself) which automatically assumes command mode

@@ -1,0 +1,1 @@
+"as it turns out vint is a ""cold fish"" and bubba is a ""red hot romeo"""

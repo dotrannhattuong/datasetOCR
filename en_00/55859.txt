@@ -1,0 +1,1 @@
+And It Is Not Backward-Compatible At All With The Original Game Boy Or The Game Boy Color Due To The Lack Of A Z80 Processor

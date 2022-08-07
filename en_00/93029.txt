@@ -1,0 +1,1 @@
+a Telnet-based medium in which a text-based virtual world is created

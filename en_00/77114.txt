@@ -1,0 +1,1 @@
+A pointer to void can store an address to any data type

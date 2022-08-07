@@ -1,0 +1,1 @@
+A Transil is an electronic component similar to a Zener diode that is designed especially to protect electronic circuits against overvoltage peaks

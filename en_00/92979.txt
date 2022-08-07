@@ -1,0 +1,1 @@
+A technical strategy does exist for achieving application portability within Windows

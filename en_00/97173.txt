@@ -1,0 +1,1 @@
+at various times programs may violate the expectation that a minimized window will go to the end of the list

@@ -1,0 +1,1 @@
+a comma followed by a return and an ellipsis on the following line was omitted

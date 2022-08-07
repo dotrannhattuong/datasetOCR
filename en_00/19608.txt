@@ -1,0 +1,1 @@
+a digit's value is the digit multiplied by the value of its place

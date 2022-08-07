@@ -1,0 +1,1 @@
+"Additional weight was saved by removing some of the internal ""stringers"" in the hydrogen tank that proved unnecessary"

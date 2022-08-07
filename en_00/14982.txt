@@ -1,0 +1,1 @@
+a bus arbitration protocol would then select the next device to be given mastership of the bus

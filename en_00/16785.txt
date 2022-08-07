@@ -1,0 +1,1 @@
+Accurate representation of each direction by the sampling core requires that the N vectors should be uniformly spaced over the unit sphere

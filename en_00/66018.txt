@@ -1,0 +1,1 @@
+and the output is only available for discrete points in space (horizontal as well as vertical) and time

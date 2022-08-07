@@ -1,0 +1,1 @@
+"Another Type Of Functional Composition Known As ""Parallel Composition"" (Pierce And Turner Pg 2) (Abadi And Lamport Pg 96)"

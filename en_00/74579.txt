@@ -1,0 +1,1 @@
+Another option is to disable the integral function until the measured variable has entered the proportional band

@@ -1,0 +1,1 @@
+a binary search is an example of a divide and conquer algorithm (more specifically a decrease and conquer algorithm) and a dichotomic search (more at search algorithm)

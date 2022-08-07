@@ -1,0 +1,1 @@
+"a multipart mime message using the digest subtype would have its content-type set as ""multipart/digest"""

@@ -1,0 +1,1 @@
+All four colors are used directly with no interpolation to form a 4-entry lookup table

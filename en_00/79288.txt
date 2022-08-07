@@ -1,0 +1,1 @@
+A recording format is a format for encoding data for storage on a storage medium

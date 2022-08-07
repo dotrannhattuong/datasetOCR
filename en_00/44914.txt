@@ -1,0 +1,1 @@
+and allowed them to be viewed through php webpages

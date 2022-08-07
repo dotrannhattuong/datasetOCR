@@ -1,0 +1,1 @@
+Although MSAA and UIA are not fully compatible

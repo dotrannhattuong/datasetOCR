@@ -1,0 +1,1 @@
+and after more than 40 years still forms the basis for most efficient complete SAT solvers

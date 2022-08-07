@@ -1,0 +1,1 @@
+All added operations (a) evaluate to 0 if any argument is 0

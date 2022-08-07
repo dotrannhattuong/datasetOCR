@@ -1,0 +1,1 @@
+000 meters so that no point within the zone has a negative northing value

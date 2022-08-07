@@ -1,0 +1,1 @@
+A device that supplies TERMPOWER must be able to provide up to 900 mA (single-ended SCSI) or 600 mA (differential SCSI)

@@ -1,0 +1,1 @@
+An MIT order-to-buy becomes a market order if and when the commodity trades

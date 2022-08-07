@@ -1,0 +1,1 @@
+A Sequent Is Said To Be An Intuitionistic Sequent If There Is At Most One Formula In The Succedent

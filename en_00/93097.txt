@@ -1,0 +1,1 @@
+a terrain awareness and warning system (taws) was created which alerts the pilot when he is flying too low

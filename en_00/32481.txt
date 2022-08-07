@@ -1,0 +1,1 @@
+All extended RAM was allocated to NetWare 286

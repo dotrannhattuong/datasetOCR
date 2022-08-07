@@ -1,0 +1,1 @@
+a pair of projections one of which is the initial projection of a partial isometry and the other a final projection of the same isometry are said to be equivalent

@@ -1,0 +1,1 @@
+and the Nortel DMS-100 did not handle common channel signalling such as ISDN on the same line card that terminated the T1 circuit

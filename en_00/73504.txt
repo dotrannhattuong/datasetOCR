@@ -1,0 +1,1 @@
+an observer is any system which receives information from an object

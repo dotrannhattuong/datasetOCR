@@ -1,0 +1,1 @@
+An articulated figure consists of a set of rigid segments connected with joints

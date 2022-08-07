@@ -1,0 +1,1 @@
+"as ""today is opposite day"" is always a false statement (assuming the speaker's participation is required)"

@@ -1,0 +1,1 @@
+An 'optimisation' of the NewBrain was that BASIC was stored twice - once as a token scheme

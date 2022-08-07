@@ -1,0 +1,1 @@
+an equivalent EPIRB working via Cospas-Sarsat satellites

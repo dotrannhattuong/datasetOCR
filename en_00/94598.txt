@@ -1,0 +1,1 @@
+A trivial example of this is harmonic oscillator

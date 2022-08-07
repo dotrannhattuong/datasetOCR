@@ -1,0 +1,1 @@
+A simple belt system served as a kind of single-speed transmission

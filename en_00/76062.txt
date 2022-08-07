@@ -1,0 +1,1 @@
+any logic gate can be made from combinations of only nand gates or only nor gates

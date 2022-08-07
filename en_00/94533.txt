@@ -1,0 +1,1 @@
+a tree view editor used to write dialogs which occur between a player and either an npc or a placeable/item

@@ -1,0 +1,1 @@
+amiga research operating system (aros) is a free software/open source implementation of the amigaos 3

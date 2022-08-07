@@ -1,0 +1,1 @@
+and the polynomial in various derivatives of g is the polynomial that expresses the moments as functions of the cumulants

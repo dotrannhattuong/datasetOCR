@@ -1,0 +1,1 @@
+algol 60 allowed for two evaluation strategies for parameter passing: the common call-by-value

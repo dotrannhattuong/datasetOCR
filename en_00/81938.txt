@@ -1,0 +1,1 @@
+as a help for PHP programmers to parse and generate documentation base on PHPDoc comments

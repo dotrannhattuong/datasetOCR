@@ -1,0 +1,1 @@
+adding conservation of mass and appropriate boundary conditions to the system of equations produces a solvable set of equations

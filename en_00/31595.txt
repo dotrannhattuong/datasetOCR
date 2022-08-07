@@ -1,0 +1,1 @@
+algorithm detail: [2] the disadvantage of this algorithm is that the number of tests for intersection is o(e2)

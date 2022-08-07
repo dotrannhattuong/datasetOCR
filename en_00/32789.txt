@@ -1,0 +1,1 @@
+All locally convex topologies with their continuous dual are trivially a dual pair and the locally convex topology is a dual topology

@@ -1,0 +1,1 @@
+All area (or space) within the lattice will be filled by this type of primitive cell and will leave no gaps

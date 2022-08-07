@@ -1,0 +1,1 @@
+a system designer writes mediator code to define the query rewriting

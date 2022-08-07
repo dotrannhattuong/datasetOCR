@@ -1,0 +1,1 @@
+An Activity That Has A Total Float Equal To Zero Is Said To Be A 'Critical Activity'

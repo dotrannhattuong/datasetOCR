@@ -1,0 +1,1 @@
+A flexagon whose hexagonal faces are each divided into twelve right triangles as opposed to six equilateral triangles

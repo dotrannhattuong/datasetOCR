@@ -1,0 +1,1 @@
+A piece may never move onto a square that is already occupied unless such a move is a legal capture

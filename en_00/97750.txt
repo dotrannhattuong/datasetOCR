@@ -1,0 +1,1 @@
+A User Thread Either Runs At User-Kernel Priority (When It Is Actually Running In The Kernel

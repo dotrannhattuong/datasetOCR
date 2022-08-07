@@ -1,0 +1,1 @@
+adleman's proof is perhaps the deepest result in malware computability theory to date and it relies on cantor's diagonal argument as well as the halting problem

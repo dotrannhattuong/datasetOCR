@@ -1,0 +1,1 @@
+A sentence is determined to be grammatically correct if a final state is reached by the last word in the sentence

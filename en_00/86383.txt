@@ -1,0 +1,1 @@
+a small computer kit based on the 6502

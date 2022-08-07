@@ -1,0 +1,1 @@
+26-28) shows how to go from the social ordering R for a given set of orderings to a particular 'social choice' by specifying:

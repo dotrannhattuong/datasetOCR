@@ -1,0 +1,1 @@
+Although Redcode Is Meant To Resemble An Ordinary Cisc Assembly Language

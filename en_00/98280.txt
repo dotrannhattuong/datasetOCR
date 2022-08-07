@@ -1,0 +1,1 @@
+"A Variation Of Example 3 Allows ""Dynamic Sql"" To Be Created In The Source Code"

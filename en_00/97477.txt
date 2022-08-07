@@ -1,0 +1,1 @@
+AudioDesk is only available as a bundled application with MOTU audio interfaces

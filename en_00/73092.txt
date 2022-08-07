@@ -1,0 +1,1 @@
+an invariant metric is simply one that is invariant under rotations of the circle

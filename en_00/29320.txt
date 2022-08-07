@@ -1,0 +1,1 @@
+a hex editor is one of the most fundamental tools in any rom hacker's repertoire

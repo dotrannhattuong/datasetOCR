@@ -1,0 +1,1 @@
+A more featureful event handler is a POE::Session subclass called POE::NFA - an event-driven Nondeterministic Finite Automaton (a smarter finite state machine)

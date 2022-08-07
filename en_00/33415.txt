@@ -1,0 +1,1 @@
+allow views of controls to be shown and hidden to preserve space

@@ -1,0 +1,1 @@
+a condition which is potentially destructive to engines

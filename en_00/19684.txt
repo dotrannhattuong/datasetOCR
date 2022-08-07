@@ -1,0 +1,1 @@
+a distance-regular graph with diameter 2 is strongly regular

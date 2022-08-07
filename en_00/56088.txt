@@ -1,0 +1,1 @@
+and it usually is more convenient to express DOF in terms of image magnification

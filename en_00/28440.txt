@@ -1,0 +1,1 @@
+a generator is an object with persistent state

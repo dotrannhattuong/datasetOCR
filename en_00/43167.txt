@@ -1,0 +1,1 @@
+An Applications Programmer Should Not Also Be The Server Administrator Or The Database Administrator - These Roles And Responsibilities Must Be Separated From One Another

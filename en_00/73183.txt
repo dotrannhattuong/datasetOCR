@@ -1,0 +1,1 @@
+an iterator object encapsulates the internal structure of how the iteration occurs

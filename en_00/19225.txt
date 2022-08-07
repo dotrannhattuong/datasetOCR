@@ -1,0 +1,1 @@
+Addressing Of 24-Bit Pixels Requires Multiplication By 3

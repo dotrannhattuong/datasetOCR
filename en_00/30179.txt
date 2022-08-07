@@ -1,0 +1,1 @@
+A kerb-side detector will cancel the pedestrian demand should the pedestrian move away from the kerb side

@@ -1,0 +1,1 @@
+attribute data is also entered into a GIS

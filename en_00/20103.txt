@@ -1,0 +1,1 @@
+a drawback of dna and protein arrays is that they are neither reconfigurable nor scalable after manufacture

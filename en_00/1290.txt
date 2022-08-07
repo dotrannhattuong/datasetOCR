@@ -1,0 +1,1 @@
+024 processors and 4TB of memory running a single copy of Linux

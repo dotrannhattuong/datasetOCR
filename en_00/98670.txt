@@ -1,0 +1,1 @@
+a visitor inputs a ZIP code and the locator returns all locations in a database within a specified radius

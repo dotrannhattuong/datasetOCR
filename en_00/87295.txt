@@ -1,0 +1,1 @@
+As only the rendering engine (Gecko) was changed

@@ -1,0 +1,1 @@
+A Buffer Manager Is Capable Of Allocating More Memory

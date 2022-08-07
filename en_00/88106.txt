@@ -1,0 +1,1 @@
+Assemblies can consist of both parts and other assemblies

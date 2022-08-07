@@ -1,0 +1,1 @@
+and thus interpret any given MIDI message the same way

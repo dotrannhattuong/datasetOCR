@@ -1,0 +1,1 @@
+and use satellite photos instead of census blocks to determine the boundaries of the urban area

@@ -1,0 +1,1 @@
+A clock in the upper left corner of the screen shows how much time is left until the next speed-up

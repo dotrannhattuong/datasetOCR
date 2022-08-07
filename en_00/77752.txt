@@ -1,0 +1,1 @@
+applescript initially supported the idea of multiple dialects: different syntactic representations of the same script

@@ -1,0 +1,1 @@
+any gas atoms remaining will be ionized at operating voltages

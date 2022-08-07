@@ -1,0 +1,1 @@
+and allows separation of document content from scripting

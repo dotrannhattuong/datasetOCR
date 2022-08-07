@@ -1,0 +1,1 @@
+And Therefore Compiled Code Is Not Portable Between Different P-Machine Versions

@@ -1,0 +1,1 @@
+An Outcome A Is (Strictly) Dominated If It Is (Strictly) Dominated By Some Other Outcome

@@ -1,0 +1,1 @@
+Any moving objects in the shot will appear to jump to a new position

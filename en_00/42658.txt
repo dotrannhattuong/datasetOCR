@@ -1,0 +1,1 @@
+An Affine Space A For A Vector Space V Is Just Such A Principal Homogeneous Space

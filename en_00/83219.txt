@@ -1,0 +1,1 @@
+A schedule of reinforcement is the protocol for determining which responses (i

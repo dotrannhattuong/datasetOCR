@@ -1,0 +1,1 @@
+a homography is defined in 2 dimensional space as a mapping between a point on a ground plane as seen from one camera

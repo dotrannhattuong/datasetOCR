@@ -1,0 +1,1 @@
+Another viewpoint at voltmeter design is to think of this circuit as a voltage divider [3]

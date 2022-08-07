@@ -1,0 +1,1 @@
+a rootkit hides it even from alternate data streams scanners and actively stops popular rootkit scanners from running

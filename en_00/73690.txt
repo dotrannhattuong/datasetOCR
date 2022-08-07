@@ -1,0 +1,1 @@
+An ontology takes the existing knowledge organization systems such as AGROVOC one step further by structuring the terms more formally

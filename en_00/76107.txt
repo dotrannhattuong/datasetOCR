@@ -1,0 +1,1 @@
+any one dimensional data structure can be used such as binary search trees

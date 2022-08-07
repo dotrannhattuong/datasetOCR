@@ -1,0 +1,1 @@
+a causal loop diagram is a visual representation of the feedback loops in a system

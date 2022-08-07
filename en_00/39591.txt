@@ -1,0 +1,1 @@
+Although triangular T-functions are naturally vulnerable to guess-and-determine attacks

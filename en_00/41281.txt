@@ -1,0 +1,1 @@
+a monad consists of a single note or pitch

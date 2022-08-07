@@ -1,0 +1,1 @@
+Attempts to make use of the trust management and network economics to implement the heterogeneous resource sharing

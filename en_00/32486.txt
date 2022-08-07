@@ -1,0 +1,1 @@
+all faces of any embedding of the graph are triangles

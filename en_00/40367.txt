@@ -1,0 +1,1 @@
+a maximum sized control part of 16 bits and a maximum sized frame check sequence of 16 bits

@@ -1,0 +1,1 @@
+arithmetical reducibility is an intermediate notion between turing reducibility and hyperarithmetic reducibility

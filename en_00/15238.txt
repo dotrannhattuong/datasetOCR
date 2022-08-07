@@ -1,0 +1,1 @@
+a cartouche is a scrolling frame device

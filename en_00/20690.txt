@@ -1,0 +1,1 @@
+a feature of yast is that it contains both gui and ncurses frontends

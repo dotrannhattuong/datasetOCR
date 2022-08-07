@@ -1,0 +1,1 @@
+Applications written for the 24-bit-addressing/32-bit-data System/360 can still run

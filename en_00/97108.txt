@@ -1,0 +1,1 @@
+Attributes are placed in square brackets ( []) after a statement and before the semicolon

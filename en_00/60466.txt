@@ -1,0 +1,1 @@
+and provides a well-defined service to the upper layer protocols based on using services from some lower layers

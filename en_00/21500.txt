@@ -1,0 +1,1 @@
+A Forth Program Is Saved As The Memory Image Of The Compiled Program With A Single Command (E

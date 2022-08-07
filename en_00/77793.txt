@@ -1,0 +1,1 @@
+applications requiring later versions of carbonlib will not run on mac os 8

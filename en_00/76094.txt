@@ -1,0 +1,1 @@
+Any object entering the maw (including many explorers) is consumed without altering the mass of the phage

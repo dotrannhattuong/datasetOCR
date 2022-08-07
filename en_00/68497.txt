@@ -1,0 +1,1 @@
+"and undefined variables evaluate to ""false"" when used in a Boolean context"

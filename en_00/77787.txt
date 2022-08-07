@@ -1,0 +1,1 @@
+applications do not save their data and settings during their life

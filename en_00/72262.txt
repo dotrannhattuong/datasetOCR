@@ -1,0 +1,1 @@
+"an ""extreme"" example of a hal can be found in the system/38 and as/400 architecture"

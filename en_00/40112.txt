@@ -1,0 +1,1 @@
+A Malleable Encryption Algorithm Allows Transformations On The Ciphertext To Produce Meaningful Changes In The Plaintext

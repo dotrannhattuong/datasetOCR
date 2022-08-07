@@ -1,0 +1,1 @@
+"Archer: The archer moves or ""shoots"" up to 3 spaces"

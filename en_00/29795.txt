@@ -1,0 +1,1 @@
+Airbus Developed Ecam Such That It Not Only Provided The Features Of Eicas But Also Displayed Corrective Action To Be Taken By The Pilot As Well As System Limitations After The Failures

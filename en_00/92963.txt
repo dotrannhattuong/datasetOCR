@@ -1,0 +1,1 @@
+A team registers as an advanced team if at least one of its team members has completed at least one year of computer science classes

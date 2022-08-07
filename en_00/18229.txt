@@ -1,0 +1,1 @@
+a critical issue in the analysis of power grids is the large size of the network (typically millions of nodes in a state-of-the-art microprocessor)

@@ -1,0 +1,1 @@
+and the length of the direct sum equals the sum of the lengths of M1 and M2

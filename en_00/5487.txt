@@ -1,0 +1,1 @@
+[1] as long as the whole domain name does not exceed a total length of 255 characters

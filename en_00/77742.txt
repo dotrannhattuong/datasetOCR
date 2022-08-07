@@ -1,0 +1,1 @@
+Apple Loops Utility can read both AIFF and WAV file formats

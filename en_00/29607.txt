@@ -1,0 +1,1 @@
+A humanly perceived color may be modeled as three numbers: the extents to which each of the 3 types of cones is stimulated

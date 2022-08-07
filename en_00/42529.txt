@@ -1,0 +1,1 @@
+an active camouflage item is available to the player and can be set as standard for certain matches

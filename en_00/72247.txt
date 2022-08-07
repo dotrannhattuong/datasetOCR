@@ -1,0 +1,1 @@
+An external binary operation is a binary function from K and S to S

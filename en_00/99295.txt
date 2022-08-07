@@ -1,0 +1,1 @@
+axial-flow compressors use a series of fan-like rotating rotor blades to progressively compress the gasflow

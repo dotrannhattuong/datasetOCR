@@ -1,0 +1,1 @@
+A nominal scale classifies data into distinct categories where ordering is not explicit or implicit

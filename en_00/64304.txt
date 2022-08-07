@@ -1,0 +1,1 @@
+and the category can be decreased by one if the number of movements is lower than the standard describes

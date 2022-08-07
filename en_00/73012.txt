@@ -1,0 +1,1 @@
+An interesting theorem states the following: If a nonsingular matrix and its inverse are both nonnegative matrices (i

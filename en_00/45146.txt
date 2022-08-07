@@ -1,0 +1,1 @@
+and also the core has a clean and solid architecture to allow full extensibility

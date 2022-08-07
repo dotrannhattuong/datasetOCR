@@ -1,0 +1,1 @@
+A quadiary cluster represents two related pairs of floater and inverse-floater tranches that are derived from a fixed-rate tranche

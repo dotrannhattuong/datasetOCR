@@ -1,0 +1,1 @@
+A label on which ToASCII fails cannot be used in an internationalized domain name

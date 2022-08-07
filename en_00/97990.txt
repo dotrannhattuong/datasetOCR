@@ -1,0 +1,1 @@
+A usual side effect is that the interfaces between blocks become simple and generic

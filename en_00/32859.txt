@@ -1,0 +1,1 @@
+All multi-tenors based on the four-drum configuration are called quads despite the fact that there may be a total of five or six drums counting the shot drums

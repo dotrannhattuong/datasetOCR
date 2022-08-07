@@ -1,0 +1,1 @@
+A random effects meta-analysis model involves an assumption that the effects being estimated in the different studies are not identical

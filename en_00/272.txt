@@ -1,0 +1,1 @@
+000 different levels stored in only 48 or 64 kilobytes

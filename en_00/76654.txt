@@ -1,0 +1,1 @@
+A PCI bus is used for add-in cards such as Gigabit Ethernet

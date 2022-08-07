@@ -1,0 +1,1 @@
+[3] [4] [5] which predicts that the transporter exposes a single substrate binding site toward either the outside or the inside of the cell

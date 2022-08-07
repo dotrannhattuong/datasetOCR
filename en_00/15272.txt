@@ -1,0 +1,1 @@
+A category of sheaves on a site is called a topos or a Grothendieck topos

@@ -1,0 +1,1 @@
+Although JSAPI defines an interface only there are several implementations created third parties

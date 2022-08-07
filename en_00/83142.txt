@@ -1,0 +1,1 @@
+A scale is octave-repeating when every pitch in the scale appears in every possible octave

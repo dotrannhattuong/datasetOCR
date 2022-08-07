@@ -1,0 +1,1 @@
+An Entropy Measure From Atkinson Can Be Computed From The Theil Index (Example Without Using Varepsilon)

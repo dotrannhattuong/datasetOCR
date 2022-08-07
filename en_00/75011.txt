@@ -1,0 +1,1 @@
+Another way is to use inline comments added after the closing brace:

@@ -1,0 +1,1 @@
+Agent-based modeling uses software entities (agents) that have purposeful behavior (goals) and can react

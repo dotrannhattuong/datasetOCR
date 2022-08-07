@@ -1,0 +1,1 @@
+a rigid body is called chiral if its mirror image is different in that sense

@@ -1,0 +1,1 @@
+A sample room number would be 212A in which the first digit corresponds to the floor number

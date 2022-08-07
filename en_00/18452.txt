@@ -1,0 +1,1 @@
+active camouflage mimics nearby objects as well as objects as distant as the horizon

@@ -1,0 +1,1 @@
+and that the message must be padded to a multiple of the cipher block size

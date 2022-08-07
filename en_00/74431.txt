@@ -1,0 +1,1 @@
+Another (less common) approach is to use Macromedia Flash or Java applets to provide some or all of the user interface

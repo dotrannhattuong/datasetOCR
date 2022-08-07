@@ -1,0 +1,1 @@
+A character that is moving backward (Holding 4) makes horizontal attack animations that also have different effects

@@ -1,0 +1,1 @@
+An index is any data structure which improves the performance of lookup

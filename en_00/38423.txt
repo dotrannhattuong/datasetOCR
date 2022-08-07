@@ -1,0 +1,1 @@
+Although remote sources for urpmi are not added on the installation of Mandriva Linux

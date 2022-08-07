@@ -1,0 +1,1 @@
+A player level with the second to last opponent is not in an offside position

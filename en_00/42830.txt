@@ -1,0 +1,1 @@
+"An alternate scheme with only one lamp uses ""on"" as a standby cue and ""off"" as the cue"

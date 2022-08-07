@@ -1,0 +1,1 @@
+a graph is vertex-transitive if its automorphism group acts transitively upon its vertices

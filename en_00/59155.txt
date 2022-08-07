@@ -1,0 +1,1 @@
+and only bringing down javascript calls and the actual data

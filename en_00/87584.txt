@@ -1,0 +1,1 @@
+As Parts Of The Image That Are Not Visible Should Not Be Drawn

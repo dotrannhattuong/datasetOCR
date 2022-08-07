@@ -1,0 +1,1 @@
+Artisoft originally produced the networking product LANtastic until Microsoft drove them out of the market by offering TCP/IP networking in the Windows platform

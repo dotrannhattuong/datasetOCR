@@ -1,0 +1,1 @@
+As Long As That Weight Is Lower Than All Other Path Weights Present In The Graph

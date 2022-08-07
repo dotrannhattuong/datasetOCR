@@ -1,0 +1,1 @@
+a chess table is a table built with features to make it useful for playing the game of chess

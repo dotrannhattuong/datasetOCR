@@ -1,0 +1,1 @@
+Adaptive algorithms such as VEGAS and MISER use importance sampling and stratified sampling techniques to get a better result

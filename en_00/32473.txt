@@ -1,0 +1,1 @@
+All events requiring revocation or replacement of a public key can take a long time to take full effect with all who must be informed (i

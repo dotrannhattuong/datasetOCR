@@ -1,0 +1,1 @@
+a set of open-source operating system extensions that enable mobile applications to adapt to variation in critical resources such as network bandwidth and energy

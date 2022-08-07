@@ -1,0 +1,1 @@
+and include two separate sets of characters - a vowel set and a consonant set

@@ -1,0 +1,1 @@
+A Peer I Would Ask Other Peers It Knows To Report The Trust Value Of A Peer K And Weigh Responses Of These Peers By The Trust Peer I Places In Them

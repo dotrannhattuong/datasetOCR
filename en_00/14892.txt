@@ -1,0 +1,1 @@
+abstracting means that you don't exactly specify how the user interface is going to look

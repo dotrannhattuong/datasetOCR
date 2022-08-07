@@ -1,0 +1,1 @@
+arcgis server is available on solaris and linux as well as windows and will eventually phase out arcims

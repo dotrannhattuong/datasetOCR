@@ -1,0 +1,1 @@
+A mainline meter throttles traffic flow from one segment of a highway to the next by directly metering the highway's traffic

@@ -1,0 +1,1 @@
+A Complete Boolean Algebra Is Called Completely Distributive When Arbitrary Conjunctions Distribute Over Arbitrary Disjunctions And Vice Versa

@@ -1,0 +1,1 @@
+A number of these WordNet-based word similarity algorithms are implemented in a Perl package called WordNet::Similarity

@@ -1,0 +1,1 @@
+and selects a threshold to maximize the between-class variance

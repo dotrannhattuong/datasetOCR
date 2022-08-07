@@ -1,0 +1,1 @@
+an alternative is to use a 3-axis fluxgate magnetometer to provide a 3d flux vector

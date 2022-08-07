@@ -1,0 +1,1 @@
+A typographic grid is a two-dimensional structure made up of a series of intersecting vertical and horizontal axis used to structure content

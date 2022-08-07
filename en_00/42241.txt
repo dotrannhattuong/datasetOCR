@@ -1,0 +1,1 @@
+A Multilayer Switch (MLS) can prioritize packets by the 6 bits in IP DSCP (differentiated services CodePoint)

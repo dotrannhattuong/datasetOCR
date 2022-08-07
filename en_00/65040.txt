@@ -1,0 +1,1 @@
+and the integration of the query and navigational interfaces

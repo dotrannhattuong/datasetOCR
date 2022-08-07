@@ -1,0 +1,1 @@
+All of Atari's external peripherals used the proprietary SIO port

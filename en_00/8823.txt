@@ -1,0 +1,1 @@
+3M/S Increase In Sink Rate Only Results In A 10% Loss In Climb Rate If The Glider Flies In A Thermal That Rises By A Speed Of 3M/S (Which Is Common)

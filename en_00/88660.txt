@@ -1,0 +1,1 @@
+A standard library for Cecil is also available and includes various collection

@@ -1,0 +1,1 @@
+All Filters In Filter Forge Are Generated Procedurally And Don'T Depend On External Bitmaps

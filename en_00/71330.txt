@@ -1,0 +1,1 @@
+An e-mail whitelist is a list of contacts that the user deems are acceptable to receive email from and should not be sent to the trash folder

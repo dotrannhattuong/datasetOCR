@@ -1,0 +1,1 @@
+An important exploitation of lexicographical ordering is expressed in the ISO 8601 date formatting scheme

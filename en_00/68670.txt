@@ -1,0 +1,1 @@
+and use the node responsible for the key as a new peer

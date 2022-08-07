@@ -1,0 +1,1 @@
+"and mapping the encoded bits into a two dimensional ""eye pattern"""

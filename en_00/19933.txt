@@ -1,0 +1,1 @@
+adobe bridge is extensively customizable using javascript

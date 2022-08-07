@@ -1,0 +1,1 @@
+"A Single Master Clock Or ""Sync Generator"" Provides The Reference For All Of The Device'S Clocks To Lock To"

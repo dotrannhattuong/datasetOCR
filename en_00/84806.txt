@@ -1,0 +1,1 @@
+A ship can be chosen to suffer damage more than once

@@ -1,0 +1,1 @@
+a naming convention is an attempt to systematize names in a field so they unambiguously convey similar information in a similar manner

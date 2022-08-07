@@ -1,0 +1,1 @@
+and simplifies the output filter for increased performance

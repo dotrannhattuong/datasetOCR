@@ -1,0 +1,1 @@
+a subkey is derived from the main key using Rijndael's key schedule

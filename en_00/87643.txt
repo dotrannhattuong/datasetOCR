@@ -1,0 +1,1 @@
+a special memory cell (a register) that keeps track of which location in memory the next instruction is to be read from

@@ -1,0 +1,1 @@
+a space is topologically complete if it is homeomorphic to a complete metric space

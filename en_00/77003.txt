@@ -1,0 +1,1 @@
+a player can have no more than five cards in his hand at any one time

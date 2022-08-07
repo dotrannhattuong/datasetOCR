@@ -1,0 +1,1 @@
+a terminal value also refers to a symbol of a grammar definition from bakus-naur form

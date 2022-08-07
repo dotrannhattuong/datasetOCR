@@ -1,0 +1,1 @@
+an Interface Control Document (ICD) is a document that describes the interface(s) to a system or subsystem

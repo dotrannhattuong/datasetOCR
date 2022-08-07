@@ -1,0 +1,1 @@
+A multilayer switch (MLS) is a computer networking device that switches on OSI layer 2 like an ordinary network switch and provides extra functions on higher OSI layers

@@ -1,0 +1,1 @@
+0 and Windows Vista's URL APIs provide native support for IDN

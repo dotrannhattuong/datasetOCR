@@ -1,0 +1,1 @@
+and red indicates that the next train is in the very next block

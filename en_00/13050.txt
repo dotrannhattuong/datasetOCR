@@ -1,0 +1,1 @@
+a 100x100-pixel image that is printed in a 1-inch square could be said to have 100 pixels per inch

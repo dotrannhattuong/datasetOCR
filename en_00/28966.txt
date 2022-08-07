@@ -1,0 +1,1 @@
+A Grothendieck topology encodes the information about covering without any reference to the space itself

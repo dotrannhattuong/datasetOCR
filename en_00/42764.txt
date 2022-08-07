@@ -1,0 +1,1 @@
+An algebraic structure or algebra is a set together with an indexed family of operations thereon

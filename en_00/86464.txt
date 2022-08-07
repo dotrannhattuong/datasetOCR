@@ -1,0 +1,1 @@
+a small numbers of errors can be accepted without causing too many problems

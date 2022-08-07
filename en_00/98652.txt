@@ -1,0 +1,1 @@
+A Virtual Teds Extends The Standardized Teds To Legacy Sensors And Applications Where The Embedded Memory Is Not Available

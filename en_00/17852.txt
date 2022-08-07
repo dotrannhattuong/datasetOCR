@@ -1,0 +1,1 @@
+a consequence of that policy was that some members of the freeglut team forked the code to make openglut which had been planned to have many significant extensions

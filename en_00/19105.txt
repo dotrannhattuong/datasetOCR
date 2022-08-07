@@ -1,0 +1,1 @@
+Additional fields in the headers of an email message include brief signatures of each mail server that handled the message

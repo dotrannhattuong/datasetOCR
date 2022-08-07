@@ -1,0 +1,1 @@
+a state change either increments i or if i is at its maximum resets i to zero and increments n

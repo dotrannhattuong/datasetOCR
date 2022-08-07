@@ -1,0 +1,1 @@
+although (for a lossless line) the vswr will be the same at any point along the line

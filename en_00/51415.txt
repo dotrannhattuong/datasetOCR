@@ -1,0 +1,1 @@
+and generally required a fairly powerful and expensive microcontroller to handle the modulation

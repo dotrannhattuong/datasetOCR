@@ -1,0 +1,1 @@
+Arms Law adds additional Attack and Critical tables

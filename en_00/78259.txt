@@ -1,0 +1,1 @@
+a production that uses a bare stage and uses general lighting may not require sections devoted to scenery and lighting

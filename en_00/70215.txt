@@ -1,0 +1,1 @@
+and when an attack succeeds hit points are deducted from the target's remaining supply

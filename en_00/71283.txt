@@ -1,0 +1,1 @@
+an ejb platform vendor generally provides their own tools that will read this deployment descriptor

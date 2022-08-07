@@ -1,0 +1,1 @@
+A Reverse Proxy Is A Proxy Server That Is Installed Within The Neighborhood Of One Or More Servers

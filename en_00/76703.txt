@@ -1,0 +1,1 @@
+A Peptide Sequence Tag Is A Piece Of Information About A Peptide Obtained By Tandem Mass Spectrometry That Can Be Used To Identify This Peptide In A Protein Database

@@ -1,0 +1,1 @@
+A Single Thread Is Always Used To Execute The Methods Of The Object

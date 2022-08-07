@@ -1,0 +1,1 @@
+a common way of achieving this today is via Distributed Denial of Service

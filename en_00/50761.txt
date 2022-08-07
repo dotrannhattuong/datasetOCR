@@ -1,0 +1,1 @@
+and flash player doesn't allow you to choose the codec and you have no way to record audio stream in other codecs

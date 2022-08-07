@@ -1,0 +1,1 @@
+a series of projected cash flows is divided by the discount rate to derive the present value of the discounted cash flows

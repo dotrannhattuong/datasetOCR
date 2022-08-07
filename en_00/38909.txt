@@ -1,0 +1,1 @@
+although the gap between YAWL and BPEL in this respect may be reduced by new constructs that are included in BPEL version 2

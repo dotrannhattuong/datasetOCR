@@ -1,0 +1,1 @@
+And Given Time Periodically And Co-Operatively As A Result Of The Host Application Calling Systemtask() Within Its Main Loop

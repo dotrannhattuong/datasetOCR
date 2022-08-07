@@ -1,0 +1,1 @@
+Affinity Laws allow the output of a turbine to be predicted based on model tests

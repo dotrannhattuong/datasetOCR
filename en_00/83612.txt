@@ -1,0 +1,1 @@
+As each mirror in a large field will have an individual orientation these are controlled programmatically through a central computer system

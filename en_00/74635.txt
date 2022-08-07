@@ -1,0 +1,1 @@
+Another popular form of channel takeover abuses nickname collision protection

@@ -1,0 +1,1 @@
+A scene can refer to multiple actors and thus can be used to block out fairly complicated interactions and dialogue between game characters

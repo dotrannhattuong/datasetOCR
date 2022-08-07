@@ -1,0 +1,1 @@
+"a data structure called the ""sliding window"" is used to hold the last N bytes of data processed"

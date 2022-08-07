@@ -1,0 +1,1 @@
+a sentence is a formula with no free variables

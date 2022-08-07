@@ -1,0 +1,1 @@
+and an umbilical connector that can provide power and data to a payload

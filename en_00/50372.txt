@@ -1,0 +1,1 @@
+and exits as the machine is being turned on by the start-up timer

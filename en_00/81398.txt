@@ -1,0 +1,1 @@
+artificial smoke is deliberately introduced into the system-under-test under slight pressure and any leaks are indicated by the escaping smoke

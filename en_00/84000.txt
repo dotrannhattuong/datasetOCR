@@ -1,0 +1,1 @@
+A serial schedule does not exhibit non-repeatable reads

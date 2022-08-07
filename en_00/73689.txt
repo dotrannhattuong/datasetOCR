@@ -1,0 +1,1 @@
+an onsite archive copy for user access and an offsite copy for disaster recovery)

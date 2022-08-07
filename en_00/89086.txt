@@ -1,0 +1,1 @@
+as the energy use for acceleration is proportional to the vehicle mass

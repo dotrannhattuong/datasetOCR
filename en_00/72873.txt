@@ -1,0 +1,1 @@
+An infinite loop is a sequence of instructions in a computer program which loops endlessly

@@ -1,0 +1,1 @@
+and (b) the number of consecutive zero coefficients that follow it

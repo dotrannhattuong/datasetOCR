@@ -1,0 +1,1 @@
+A core node implementing optical IP switching must be endowed with electrical processing and memory resources (as a standard IP router)

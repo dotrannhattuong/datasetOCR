@@ -1,0 +1,1 @@
+A single-phase motor can drive a three-phase generator

@@ -1,0 +1,1 @@
+and a limit for the trigger time in one day for a one-off exposure

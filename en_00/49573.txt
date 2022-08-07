@@ -1,0 +1,1 @@
+And Each Simulation Can Be Terminated As Soon As A Fault Is Detected

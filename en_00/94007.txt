@@ -1,0 +1,1 @@
+atmospheric models such as general circulation models (GCMs) usually predict the nondimensional logarithm of surface pressure

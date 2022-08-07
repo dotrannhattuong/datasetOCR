@@ -1,0 +1,1 @@
+"all ""counts"" on a geiger counter are the same size and it can give no indication as to the particle energy of the radiation"

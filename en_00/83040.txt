@@ -1,0 +1,1 @@
+a say program in utilities and a basic demo was also included with amigabasic programming examples

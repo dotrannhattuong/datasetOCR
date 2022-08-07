@@ -1,0 +1,1 @@
+A user can view Le Select data through a standard Web-browser

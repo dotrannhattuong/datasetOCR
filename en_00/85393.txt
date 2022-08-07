@@ -1,0 +1,1 @@
+a simple black contour line can be drawn around the figure enclosing it and thus differentiating it from the ground (dent

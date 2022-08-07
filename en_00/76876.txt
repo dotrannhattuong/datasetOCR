@@ -1,0 +1,1 @@
+A picture assigns a color value to each of a set of points

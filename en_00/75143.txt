@@ -1,0 +1,1 @@
+An RJE workstation operator has complete console control of the job flow between the workstation and mainframe

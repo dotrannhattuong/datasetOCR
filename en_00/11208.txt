@@ -1,0 +1,1 @@
+6 kernels on x86 hardware and also on AMD64 processors

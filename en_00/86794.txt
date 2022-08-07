@@ -1,0 +1,1 @@
+A SNOBOL pattern can be very simple or extremely complex

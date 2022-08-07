@@ -1,0 +1,1 @@
+a hardware modification is available which directly combines the two alternate screen areas into the video signal

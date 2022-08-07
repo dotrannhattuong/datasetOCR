@@ -1,0 +1,1 @@
+an endec is a device which both encodes and decodes

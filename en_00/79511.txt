@@ -1,0 +1,1 @@
+A Relative Record Data Set (Rrds) Is A Type Of Data Set Used By The Vsam Computer Data Storage System

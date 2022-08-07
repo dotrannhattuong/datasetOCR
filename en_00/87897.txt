@@ -1,0 +1,1 @@
+A SquashFS filesystem takes a regular filesystem tree and compresses it

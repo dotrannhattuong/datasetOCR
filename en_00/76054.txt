@@ -1,0 +1,1 @@
+Any Integer Is Either Even Or Odd According To The Following Rules: If It Is A Multiple Of Two

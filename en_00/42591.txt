@@ -1,0 +1,1 @@
+an additional possibility is to use an array of characters where the array indexes are the code-points associated with each character

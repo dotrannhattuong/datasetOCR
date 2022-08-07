@@ -1,0 +1,1 @@
+As Disk Mirroring Is Closely Tied To The Hardware Via The Microcode

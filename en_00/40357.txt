@@ -1,0 +1,1 @@
+A matrix representation is a method used by a computer language to store matrices of more than one dimension in memory

@@ -1,0 +1,1 @@
+a moving framework which protected workers from tunnel collapses when working in water-bearing ground

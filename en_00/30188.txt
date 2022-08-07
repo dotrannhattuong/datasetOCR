@@ -1,0 +1,1 @@
+A Keyboard May Have A Special Key To Tell The Os That The Last Kana Entered Should Not Be Converted To Kanji

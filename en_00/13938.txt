@@ -1,0 +1,1 @@
+A biquad filter is a type of active filter consisting of a two-integrator feedback loop with an inverter

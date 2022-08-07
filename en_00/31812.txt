@@ -1,0 +1,1 @@
+"A linear ""order"" is imposed on the set of types"

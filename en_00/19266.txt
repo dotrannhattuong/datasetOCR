@@ -1,0 +1,1 @@
+A de Branges space with such a scalar product can be proven to be a Hilbert space

@@ -1,0 +1,1 @@
+Ajax web pages can appear to load relatively quickly since the payload coming down is much smaller in size

@@ -1,0 +1,1 @@
+and any two k-frames are related by some orthogonal transformation

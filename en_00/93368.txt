@@ -1,0 +1,1 @@
+a thin client could download just the visible part(s) of the drawing at the beginning and send each change back to the server to update the drawing

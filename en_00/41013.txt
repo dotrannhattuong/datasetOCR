@@ -1,0 +1,1 @@
+"amigaos versions 2 and up have ""system"" and ""work"" partitions on hard disks by default"

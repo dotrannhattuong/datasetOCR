@@ -1,0 +1,1 @@
+a dictionary-based predictive system is based on hope that the desired word is in the dictionary

@@ -1,0 +1,1 @@
+an estimate of an upper bound for the entropy of english

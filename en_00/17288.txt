@@ -1,0 +1,1 @@
+a clist can also be run as a batch program (by running jcl which executes the tso control program (ikjeft01))

@@ -1,0 +1,1 @@
+all exit control locks in the area switch to the locked state

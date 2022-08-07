@@ -1,0 +1,1 @@
+A Sentence Is Either True Or False In A Given Structure

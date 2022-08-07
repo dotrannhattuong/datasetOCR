@@ -1,0 +1,1 @@
+8088 and 80286) for faster performance

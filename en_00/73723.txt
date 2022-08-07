@@ -1,0 +1,1 @@
+an operation document can be fed into designer and run through the driver's configuration to see what will come out after the processing takes place

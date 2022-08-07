@@ -1,0 +1,1 @@
+a pulse whose amplitude is smaller than the minimum level specified for correct operation

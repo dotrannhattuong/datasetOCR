@@ -1,0 +1,1 @@
+After the Run button is clicked the program will simulate what will happen next and can also graph the movement and force on any element in the project

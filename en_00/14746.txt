@@ -1,0 +1,1 @@
+A bridge card was available for the IIsi to convert the Processor Direct slot to a standard internal NuBus card slot

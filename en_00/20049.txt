@@ -1,0 +1,1 @@
+A dotted horizontal line links each peak (except the highest) to its key col

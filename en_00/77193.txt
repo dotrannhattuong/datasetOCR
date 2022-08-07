@@ -1,0 +1,1 @@
+a polymorphic function definition can replace several type-specific ones

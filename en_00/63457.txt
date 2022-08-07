@@ -1,0 +1,1 @@
+and supports statically-typed distributed programming

@@ -1,0 +1,1 @@
+Another Approach Is To Allow Holding Only One Resource Per Process

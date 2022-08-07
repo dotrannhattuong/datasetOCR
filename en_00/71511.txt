@@ -1,0 +1,1 @@
+an error is a bound on the precision and accuracy of the result of a measurement

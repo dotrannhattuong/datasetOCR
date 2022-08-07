@@ -1,0 +1,1 @@
+a soft reboot (also known as a warm reboot) is restarting a computer under software control

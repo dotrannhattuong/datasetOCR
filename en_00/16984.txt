@@ -1,0 +1,1 @@
+A Character Must Start And End Their Movement At Walk Speed

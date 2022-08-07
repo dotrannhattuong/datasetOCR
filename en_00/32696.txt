@@ -1,0 +1,1 @@
+All input and output devices were mapped to addresses in memory

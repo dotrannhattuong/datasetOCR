@@ -1,0 +1,1 @@
+A clock period is recovered by observing transitions in the received sequence

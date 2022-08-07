@@ -1,0 +1,1 @@
+and the unit can be configured to control any plug-in parameter

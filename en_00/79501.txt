@@ -1,0 +1,1 @@
+A relatively compact subspace is one whose closure is compact

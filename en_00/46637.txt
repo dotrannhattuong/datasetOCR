@@ -1,0 +1,1 @@
+and a universal hash function guarantees that these cannot be forced to occur too often

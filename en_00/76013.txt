@@ -1,0 +1,1 @@
+Any Domain Class Can Be Scaffolded By Creating A Scaffolding Controller As Shown Below:

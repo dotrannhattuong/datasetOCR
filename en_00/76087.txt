@@ -1,0 +1,1 @@
+any number of forces and moments (or none at all) can be defined for each of the axes

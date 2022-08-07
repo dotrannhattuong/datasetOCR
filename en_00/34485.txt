@@ -1,0 +1,1 @@
+A Locale Is A Complete Heyting Algebra

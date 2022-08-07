@@ -1,0 +1,1 @@
+As Line Bit Rate Increases The Packet Payload Size Should Increase In Direct Proportion To Maintain Equivalent Timing Parameters

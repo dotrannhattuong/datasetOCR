@@ -1,0 +1,1 @@
+and pancyclic if it contains cycles of every possible length (from 3 to the order of the graph)

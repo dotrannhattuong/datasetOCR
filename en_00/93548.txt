@@ -1,0 +1,1 @@
+a three-dimensional version of Sierpinski's carpet

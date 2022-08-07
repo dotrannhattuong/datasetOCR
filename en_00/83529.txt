@@ -1,0 +1,1 @@
+as digital filters have a finite bandwidth

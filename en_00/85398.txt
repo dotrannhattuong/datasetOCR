@@ -1,0 +1,1 @@
+A simple example is as follows: Consider a Web application that allows a user to edit pages

@@ -1,0 +1,1 @@
+an application that uses middleware to service data requests between a user and a database employs multi-tier architecture

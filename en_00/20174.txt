@@ -1,0 +1,1 @@
+adstar is primarily known for a backup and recovery product named adstar distributed storage manager

@@ -1,0 +1,1 @@
+A prediction rule to identify low-risk patients with community-acquired pneumonia

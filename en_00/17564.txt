@@ -1,0 +1,1 @@
+A common design practice is to create a realizable filter by shortening and/or time-shifting a non-causal impulse response

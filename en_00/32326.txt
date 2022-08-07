@@ -1,0 +1,1 @@
+all dimensions (and the central charge) are rational numbers that can be computed from the consistency conditions of conformal field theory

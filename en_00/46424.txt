@@ -1,0 +1,1 @@
+And A Template Cache Is A Tarball Of A Chroot Environment With Those Packages Installed

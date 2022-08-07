@@ -1,0 +1,1 @@
+Another benefit is that VHDL allows the description of a concurrent system (many parts

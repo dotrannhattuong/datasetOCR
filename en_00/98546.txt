@@ -1,0 +1,1 @@
+"a ""vevent"" component provides a grouping of component properties that describe an event that represents a scheduled amount of time on a calendar"

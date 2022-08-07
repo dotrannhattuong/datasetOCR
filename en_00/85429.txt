@@ -1,0 +1,1 @@
+a simplyfying assumption sometimes made is for the addition of fuel flow to be exactly offset by an overboard compressor bleed

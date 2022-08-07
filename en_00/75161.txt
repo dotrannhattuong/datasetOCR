@@ -1,0 +1,1 @@
+an set of zero or more hosts identified by a single ip destination address

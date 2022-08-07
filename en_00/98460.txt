@@ -1,0 +1,1 @@
+a vertex figure for a polyhedron is a polygon figure

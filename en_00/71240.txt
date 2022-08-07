@@ -1,0 +1,1 @@
+an editor will put a slash through it and write lc or l/c in the margin

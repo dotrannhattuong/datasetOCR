@@ -1,0 +1,1 @@
+as defined by the range of brightness levels in each of the spectral bands of interest

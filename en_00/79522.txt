@@ -1,0 +1,1 @@
+a relief pitcher is credited with a game finished (denoted by gf) if he is the last pitcher to pitch for his team in a game

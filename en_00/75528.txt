@@ -1,0 +1,1 @@
+A number is perfect iff it is 1-hyperperfect

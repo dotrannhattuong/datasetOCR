@@ -1,0 +1,1 @@
+a single-wire debugging interface that allows interactive control over the processor when installed in a target system

@@ -1,0 +1,1 @@
+A Hilbertian Variety V Over K Is One For Which V(K) Is Not Thin

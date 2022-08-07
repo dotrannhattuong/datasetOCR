@@ -1,0 +1,1 @@
+A point-and-click interface is used to interact with the game world

@@ -1,0 +1,1 @@
+another problem with the qwk system was a number of hard-coded limits to various fields

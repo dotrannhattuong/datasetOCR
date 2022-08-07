@@ -1,0 +1,1 @@
+As telephone companies continue to convert their static IP address blocks to the less expensive (for them) dynamic PPPoE addressing

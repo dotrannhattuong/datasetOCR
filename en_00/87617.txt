@@ -1,0 +1,1 @@
+A Special Definition Was Required In Order To Group Nulls Together When Performing Certain Operations

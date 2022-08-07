@@ -1,0 +1,1 @@
+a collection c of elements of a star-algebra is self-adjoint if it is closed under the involution operation

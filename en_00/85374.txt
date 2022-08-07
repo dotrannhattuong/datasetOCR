@@ -1,0 +1,1 @@
+A similar technique used for database design is Entity-Relationship Modeling (ER Modeling)

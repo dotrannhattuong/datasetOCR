@@ -1,0 +1,1 @@
+A project example is given with a single bottlenecked resource on multiple paths

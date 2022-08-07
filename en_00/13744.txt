@@ -1,0 +1,1 @@
+A bead constrained to move on a wire has only one degree of freedom

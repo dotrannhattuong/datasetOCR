@@ -1,0 +1,1 @@
+Algorithmic information theory is the area of computer science that studies Kolmogorov complexity and other complexity measures on strings (or other data structures)

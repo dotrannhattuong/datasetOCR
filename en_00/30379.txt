@@ -1,0 +1,1 @@
+a labeling literal is of the form labeling( [variables])

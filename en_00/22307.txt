@@ -1,0 +1,1 @@
+After an initial data access of 50 nanoseconds

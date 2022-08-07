@@ -1,0 +1,1 @@
+"A video display that is a ""monitor-only"" is useful for security cameras"

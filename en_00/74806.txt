@@ -1,0 +1,1 @@
+Another Situation Where Recovery Is Trivial Is If Traffic-Flow Security Measures Have Each Stations Sending A Continuous Stream Of Cipher Bits

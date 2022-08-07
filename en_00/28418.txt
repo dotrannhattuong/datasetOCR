@@ -1,0 +1,1 @@
+A general development of solutions of Pell's equation in terms of continued fractions can be presented

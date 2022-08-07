@@ -1,0 +1,1 @@
+A Pac File Is A Text File That Defines One Javascript Function Findproxyforurl(Url

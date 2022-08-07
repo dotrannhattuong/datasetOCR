@@ -1,0 +1,1 @@
+A Web Page Which Began With The Following Doctype Would Trigger Standards Mode:

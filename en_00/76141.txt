@@ -1,0 +1,1 @@
+Any OS supporting OpenGL and Java (which includes Windows

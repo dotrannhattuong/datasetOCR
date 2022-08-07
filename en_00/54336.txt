@@ -1,0 +1,1 @@
+and incorporates the LTSP thin client architecture

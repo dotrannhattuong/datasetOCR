@@ -1,0 +1,1 @@
+"a schema defines what the vocabulary for the language may be and what a valid ""sentence"" is"

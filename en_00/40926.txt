@@ -1,0 +1,1 @@
+A message's recipient may insist the sender attach a signature in order to make later repudiation more difficult

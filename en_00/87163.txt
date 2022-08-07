@@ -1,0 +1,1 @@
+a software system may have a public Application Programming Interface that allows its behavior to be extended or modified by people who don't have access to the original source code

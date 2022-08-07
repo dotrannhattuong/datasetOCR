@@ -1,0 +1,1 @@
+All-atom force fields provide parameters for every atom in a system

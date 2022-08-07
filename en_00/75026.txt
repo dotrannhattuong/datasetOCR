@@ -1,0 +1,1 @@
+another way to see that s6 has an outer automorphism is to use the fact that a6 is isomorphic to psl2(9)

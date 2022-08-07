@@ -1,0 +1,1 @@
+A conditioned inhibitor is assumed to have a negative associative value

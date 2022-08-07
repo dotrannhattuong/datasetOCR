@@ -1,0 +1,1 @@
+A bytecode program is normally executed by parsing the instructions one at a time

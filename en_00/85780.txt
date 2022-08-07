@@ -1,0 +1,1 @@
+as it destroys all data stored in the unit

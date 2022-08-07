@@ -1,0 +1,1 @@
+A Newtonian Fluid (Named After Isaac Newton) Is Defined To Be A Fluid Whose Shear Stress Is Linearly Proportional To The Velocity Gradient In The Direction Perpendicular To The Plane Of Shear

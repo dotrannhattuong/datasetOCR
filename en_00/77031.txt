@@ -1,0 +1,1 @@
+A player's heroes can move across up to six contiguous areas each turn

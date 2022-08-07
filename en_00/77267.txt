@@ -1,0 +1,1 @@
+a popular way to make a color space like rgb into an absolute color is to define an icc profile

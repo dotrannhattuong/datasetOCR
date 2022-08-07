@@ -1,0 +1,1 @@
+an aggregation can be named and have the same adornments that an association can

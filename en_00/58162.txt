@@ -1,0 +1,1 @@
+and most provide cursor-sensitive help using the F1

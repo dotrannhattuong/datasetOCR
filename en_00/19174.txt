@@ -1,0 +1,1 @@
+additional restrictions on the guarded commands may be necessary for a guarded-command description to be entirely satisfactory

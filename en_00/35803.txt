@@ -1,0 +1,1 @@
+also compiled to run natively on both powerpc and intel processors as a universal binary

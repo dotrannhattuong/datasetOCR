@@ -1,0 +1,1 @@
+A CPU cache is a cache used by the central processing unit of a computer to reduce the average time to access memory

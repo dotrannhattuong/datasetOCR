@@ -1,0 +1,1 @@
+A further advantage is that the abscissas and weights are relatively easy to compute

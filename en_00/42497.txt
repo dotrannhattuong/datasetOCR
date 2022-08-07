@@ -1,0 +1,1 @@
+an ace cannot be placed on a king and vice versa

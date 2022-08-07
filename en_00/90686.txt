@@ -1,0 +1,1 @@
+A suppressed-carrier amplitude modulation scheme is three times more power-efficient than traditional DSB-AM

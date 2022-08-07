@@ -1,0 +1,1 @@
+A Full Text Search Typically Produces A Retrieval List That Has Low Precision: Most Of The Items Retrieved Are Irrelevant

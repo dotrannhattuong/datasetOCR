@@ -1,0 +1,1 @@
+Alternative technologies for content delivery include peer-to-peer file sharing technologies

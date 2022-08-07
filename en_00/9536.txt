@@ -1,0 +1,1 @@
+4images can be configured by a browser-based password protected administration area

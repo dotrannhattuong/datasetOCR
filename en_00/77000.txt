@@ -1,0 +1,1 @@
+a player attacks monsters and accumulates experience by solving a high number of quests

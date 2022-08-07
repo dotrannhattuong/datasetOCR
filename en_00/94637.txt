@@ -1,0 +1,1 @@
+a true negative is occured when both the prediction outcome and the actual value are n

@@ -1,0 +1,1 @@
+and making the generator's efficiency very sensitive to its load

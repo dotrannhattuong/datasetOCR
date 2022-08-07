@@ -1,0 +1,1 @@
+although the game only installs and launches under windows 95 and higher

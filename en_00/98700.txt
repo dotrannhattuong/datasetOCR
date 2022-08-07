@@ -1,0 +1,1 @@
+a voice frequency primary patch bay (VF) is a patching facility that provides the first appearance of local-user VF circuits in the technical control facility (TCF)

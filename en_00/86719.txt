@@ -1,0 +1,1 @@
+As More Redundant Reference Points Are Added The Position Fix Becomes More Accurate And The Area Of The Resulting Error Ellipse Decreases

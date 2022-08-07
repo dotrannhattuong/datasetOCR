@@ -1,0 +1,1 @@
+Ants release pheromones (chemicals that have different smells) to communicate with each other and the feelers pick these smells as signals

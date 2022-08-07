@@ -1,0 +1,1 @@
+Although the nearly-free electron approximation is able to describe many properties of electron band structures

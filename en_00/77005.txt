@@ -1,0 +1,1 @@
+a player cannot use weapons while holding the flag

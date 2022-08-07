@@ -1,0 +1,1 @@
+an ITM call can be replicated by entering a forward and buying an OTM put (and conversely)

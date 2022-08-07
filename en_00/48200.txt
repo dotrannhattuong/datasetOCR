@@ -1,0 +1,1 @@
+and closures capture it rather than rebinding it

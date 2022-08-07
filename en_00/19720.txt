@@ -1,0 +1,1 @@
+A distribution is considered to be pseudorandom if it cannot be distinguished from the truly (Uniform) random distribution by any efficient (polynomial time) procedure or circuit

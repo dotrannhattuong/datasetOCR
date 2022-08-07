@@ -1,0 +1,1 @@
+"A subsequent ""final"" release [1] provided JNLP 1"

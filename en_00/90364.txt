@@ -1,0 +1,1 @@
+A strong monomorphism satisfies a certain lifting property with respect to commutative squares involving an epimorphism

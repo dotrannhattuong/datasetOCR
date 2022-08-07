@@ -1,0 +1,1 @@
+A Control System Can Use An Actuator To Actively Damp Out The Ringing Of A Load Cell

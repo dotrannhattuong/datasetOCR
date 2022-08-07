@@ -1,0 +1,1 @@
+A peak-to-average ratio meter (Par meter) is a device used to measure the ratio of the peak power level to the time-averaged power level in an electrical circuit

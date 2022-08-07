@@ -1,0 +1,1 @@
+Any two one-point maps to a path connected space are equivalent (move the target point continuously along a path joining the two map's points)

@@ -1,0 +1,1 @@
+"any cell that would complete such a ""short circuit"" must be white instead"

@@ -1,0 +1,1 @@
+a threshold of the participating parties need to cooperate in order to achieve a cryptographic task

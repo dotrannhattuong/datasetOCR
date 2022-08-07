@@ -1,0 +1,1 @@
+a high luminometer number (brightness of flame index) is required to minimize transfer of heat to the burner parts

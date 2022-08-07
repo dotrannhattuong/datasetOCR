@@ -1,0 +1,1 @@
+a new algorithm for constructing large carmichael numbers(pdf)

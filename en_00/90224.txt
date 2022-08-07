@@ -1,0 +1,1 @@
+"a stopping time is a specific type of ""random time"""

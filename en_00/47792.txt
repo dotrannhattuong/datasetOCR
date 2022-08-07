@@ -1,0 +1,1 @@
+and can itself also be used as a login shell

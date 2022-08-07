@@ -1,0 +1,1 @@
+although it was modified so that 16-bit apple iigs software could run on it

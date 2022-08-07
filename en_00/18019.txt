@@ -1,0 +1,1 @@
+A corollary of this theorem is the fact that every class in the ideal class group of a number field K contains an integral ideal of norm not exceeding a certain bound

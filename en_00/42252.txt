@@ -1,0 +1,1 @@
+A Multiple Sequence Alignment Algorithm For Homologous Proteins Using Secondary Structure Information And Optionally Keying Alignments To Functionally Important Sites

@@ -1,0 +1,1 @@
+a stream processor features some clever communication and management circuits but what's interesting is the Stream Register File (SRF)

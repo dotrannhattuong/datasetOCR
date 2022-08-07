@@ -1,0 +1,1 @@
+A simple algorithm for converting integers between positive-integer radices is repeated division by the target radix

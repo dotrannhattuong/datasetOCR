@@ -1,0 +1,1 @@
+A value of function at given node is a sum of the true nodes below it (the node under always

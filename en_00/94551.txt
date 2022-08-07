@@ -1,0 +1,1 @@
+A triangle cuts off a vertex of the tetrahedron while a quad separates pairs of vertices

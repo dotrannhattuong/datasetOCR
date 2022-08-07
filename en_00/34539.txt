@@ -1,0 +1,1 @@
+a logic gate driving a node y in the circuit consists of two guarded commands

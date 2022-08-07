@@ -1,0 +1,1 @@
+any game where all strategies are pareto optimal is called a conflict game) [1]

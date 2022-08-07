@@ -1,0 +1,1 @@
+A sequence is convergent if and only if all of its subsequences converge towards the same limit

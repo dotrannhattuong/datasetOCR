@@ -1,0 +1,1 @@
+A vertex of degree 0 is an isolated vertex

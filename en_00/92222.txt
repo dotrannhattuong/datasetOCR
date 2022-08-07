@@ -1,0 +1,1 @@
+"a system managed by portage can be compiled ""on the fly"""

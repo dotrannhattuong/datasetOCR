@@ -1,0 +1,1 @@
+an mbean can notify the mbeanserver of its internal changes (for the attributes) by implementing the javax

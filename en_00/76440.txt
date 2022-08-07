@@ -1,0 +1,1 @@
+apart from increased efficiency the shrinkage estimate has the additional advantage that it is always positive definite and well conditioned

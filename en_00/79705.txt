@@ -1,0 +1,1 @@
+A request to access consecutive memory locations can keep several modules busy at the same time

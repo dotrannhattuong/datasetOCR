@@ -1,0 +1,1 @@
+[2] In this mode iZ creating a completely new track every time it makes a change and inserts a noise to simulate the tuning of radio stations between the tracks

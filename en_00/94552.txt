@@ -1,0 +1,1 @@
+A triangular matrix with zero entries on the main diagonal is strictly upper or lower triangular

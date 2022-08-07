@@ -1,0 +1,1 @@
+A circuit that converts an AC voltage to another AC voltage at the same frequency is known as an AC/AC chopper

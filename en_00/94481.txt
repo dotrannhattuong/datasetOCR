@@ -1,0 +1,1 @@
+a transformation of a thermodynamic system can be considered isothermal if it is slow enough so that the system's temperature remains constant by heat exchange with the outside

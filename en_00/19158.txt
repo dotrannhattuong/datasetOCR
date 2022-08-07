@@ -1,0 +1,1 @@
+additionally ws-coordination describes a definition of the structure of context and the requirements for propagating context between cooperating services

@@ -1,0 +1,1 @@
+a type-II DCT is usually preferred for such applications

@@ -1,0 +1,1 @@
+A simple graph is called maximal planar if it is planar but adding any edge would destroy that property

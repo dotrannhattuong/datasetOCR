@@ -1,0 +1,1 @@
+A move icon with sharper edges indicates the Critical Hit

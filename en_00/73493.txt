@@ -1,0 +1,1 @@
+An object that might normally be seeable may be classified as invisible if it is:

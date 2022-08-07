@@ -1,0 +1,1 @@
+A visual editor which allows you to create heightmaps for exterior areas or tile-based maps for interior areas of the game world

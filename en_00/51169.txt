@@ -1,0 +1,1 @@
+and F represents an emulator that takes the program as input and then executes it

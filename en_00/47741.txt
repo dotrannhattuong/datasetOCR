@@ -1,0 +1,1 @@
+and can also be used to create code that is more compliant to standards and portable than if they were not used

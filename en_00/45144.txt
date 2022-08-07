@@ -1,0 +1,1 @@
+and also the ability to aggregate data from several files in one transfer operation

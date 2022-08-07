@@ -1,0 +1,1 @@
+and interpreter plugins (see above) have great difficulty in distilling hyperlinks from this kind of menu bar

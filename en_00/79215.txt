@@ -1,0 +1,1 @@
+A receiver on an aircraft uses this information to correct GPS signals

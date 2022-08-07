@@ -1,0 +1,1 @@
+A Weakness Of This Original Specification Was That It Offered So Many Choices That Interoperability Was Sometimes Challenging To Realize

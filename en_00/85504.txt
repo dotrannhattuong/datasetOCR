@@ -1,0 +1,1 @@
+A single movable pulley has a MA of 2 (assuming frictionless bearings in the pulley)

@@ -1,0 +1,1 @@
+After booting the propeller a bytecode interpreter is copied from the built in ROM into the 2K RAM of the primary COG

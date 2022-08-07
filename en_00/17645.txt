@@ -1,0 +1,1 @@
+a commutative ring is a ring in which the multiplication operation obeys the commutative law

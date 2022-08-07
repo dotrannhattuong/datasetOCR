@@ -1,0 +1,1 @@
+About these groupings: Some BASIC dialects group nicely by the platform (operating system and/or computer architecture) they are targeted for

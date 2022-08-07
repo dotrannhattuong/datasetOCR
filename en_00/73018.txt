@@ -1,0 +1,1 @@
+an interface that uses no modes is known as a modeless interface

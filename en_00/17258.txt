@@ -1,0 +1,1 @@
+a class implements this interface to indicate that its non-transient data members can be written to an objectoutputstream

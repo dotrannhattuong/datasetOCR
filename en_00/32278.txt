@@ -1,0 +1,1 @@
+All components can be segregated for recycling

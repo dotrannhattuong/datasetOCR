@@ -1,0 +1,1 @@
+a number of languages have been designed for the purpose of replacing application-specific scripting languages by being embeddable in application programs

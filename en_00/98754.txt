@@ -1,0 +1,1 @@
+"avs"" (just a plain text-file saved with the extension ""avs"") contains the following:"

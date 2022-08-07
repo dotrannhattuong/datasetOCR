@@ -1,0 +1,1 @@
+Alice forwards the key to Bob who can decrypt it with the key he shares with the server

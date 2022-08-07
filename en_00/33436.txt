@@ -1,0 +1,1 @@
+All pitch control is done by varying the player's embouchure

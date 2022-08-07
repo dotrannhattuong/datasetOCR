@@ -1,0 +1,1 @@
+a wien bridge oscillator is a type of electronic oscillator that generates sine waves without having any input source

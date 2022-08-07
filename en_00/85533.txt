@@ -1,0 +1,1 @@
+a single thread is dedicated to drive an object's methods

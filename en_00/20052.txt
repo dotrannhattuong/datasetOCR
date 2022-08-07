@@ -1,0 +1,1 @@
+a double bar can consist of two single barlines drawn close together

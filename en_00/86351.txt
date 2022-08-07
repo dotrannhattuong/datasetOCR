@@ -1,0 +1,1 @@
+A small amount of current will still flow through the device and is sufficient to maintain the temperature of the device and keep it at the high resistance level

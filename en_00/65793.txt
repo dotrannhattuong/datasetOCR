@@ -1,0 +1,1 @@
+And Then Showed That This Filter Could Be Well Approximated By A First-Order Gaussian Derivative Kernel

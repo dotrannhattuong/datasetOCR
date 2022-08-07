@@ -1,0 +1,1 @@
+Although variable-length instruction packets added some complexity to the CPU

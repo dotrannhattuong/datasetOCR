@@ -1,0 +1,1 @@
+and the result of the macro may be used to resolve any of the above contexts in the compiled application

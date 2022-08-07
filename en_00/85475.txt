@@ -1,0 +1,1 @@
+A sine sweep vibration profile typically starts vibrating at low frequency and increases in frequency at a set rate (measured in hertz per minute)

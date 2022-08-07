@@ -1,0 +1,1 @@
+antibody tests may give false negative results during the window period

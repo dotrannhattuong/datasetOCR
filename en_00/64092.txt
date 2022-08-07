@@ -1,0 +1,1 @@
+and the application is allowed to access it

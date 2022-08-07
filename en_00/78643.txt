@@ -1,0 +1,1 @@
+arabic sentences use a svo order or a vso order depending on whether the subject or the verb is more important

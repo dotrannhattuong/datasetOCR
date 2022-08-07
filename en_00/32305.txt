@@ -1,0 +1,1 @@
+All data processing occurs sequentially case-by-case through the file

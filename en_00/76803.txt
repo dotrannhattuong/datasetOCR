@@ -1,0 +1,1 @@
+A Petri Net Is Inherently K-Bounded If In No Reachable State Can At Any Place Contain More Than K Tokens

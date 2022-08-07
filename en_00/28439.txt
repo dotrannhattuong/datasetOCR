@@ -1,0 +1,1 @@
+a generative grammar is defined as one that is fully explicit

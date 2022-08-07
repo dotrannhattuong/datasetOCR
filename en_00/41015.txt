@@ -1,0 +1,1 @@
+Amiga-style 'resident' application support was added which takes a snapshot of a large

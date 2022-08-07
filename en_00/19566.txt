@@ -1,0 +1,1 @@
+A difference in optical path length between two paths is often called the optical path difference (OPD)

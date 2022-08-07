@@ -1,0 +1,1 @@
+a good turntable should have rumble at least 60 db below the specified output level from the pick-up (driscoll 1980)

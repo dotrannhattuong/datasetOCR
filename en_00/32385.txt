@@ -1,0 +1,1 @@
+all elements to be sorted are inserted into a heap

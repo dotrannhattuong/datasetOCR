@@ -1,0 +1,1 @@
+a solid-state h-bridge is typically constructed using reverse polarity devices (i

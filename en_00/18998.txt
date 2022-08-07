@@ -1,0 +1,1 @@
+Adding additional capacitance across a crystal will cause the parallel resonance to shift downward

@@ -1,0 +1,1 @@
+"an interesting (though certainly not unique) aspect of the c standard is that the behavior of certain code is said to be ""undefined"""

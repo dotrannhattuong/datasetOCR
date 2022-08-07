@@ -1,0 +1,1 @@
+a contract is valid with only a vendors' signature

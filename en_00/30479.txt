@@ -1,0 +1,1 @@
+a language's core library is often treated as part of the language by its users

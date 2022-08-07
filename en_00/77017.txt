@@ -1,0 +1,1 @@
+A player may expose a king to check in the course of a turn

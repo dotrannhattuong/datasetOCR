@@ -1,0 +1,1 @@
+allowing up to 48 memory slots

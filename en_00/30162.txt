@@ -1,0 +1,1 @@
+A k-combination (or k-subset) is a subset with k elements

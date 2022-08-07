@@ -1,0 +1,1 @@
+Application programmers using supported languages need not normally be concerned with the file structure itself

@@ -1,0 +1,1 @@
+an ospf network can be broken up into smaller networks

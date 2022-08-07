@@ -1,0 +1,1 @@
+Another alternative would be to use 'setsid' which will run a program in a new session

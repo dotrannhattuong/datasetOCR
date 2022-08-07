@@ -1,0 +1,1 @@
+a sphere is an object (usually idealized for the sake of simplicity) capable of colliding or stacking with other objects which occupy space

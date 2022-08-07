@@ -1,0 +1,1 @@
+Angular resolution at short ranges is better than radar due to the shorter wavelength

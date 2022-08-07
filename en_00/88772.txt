@@ -1,0 +1,1 @@
+a stencil can be used to protect a surface except the specific shape that is to be painted

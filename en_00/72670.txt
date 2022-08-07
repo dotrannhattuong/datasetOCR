@@ -1,0 +1,1 @@
+"""An immutable class with a single attribute 'value'

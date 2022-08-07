@@ -1,0 +1,1 @@
+a common transformation protocol for arabidopsis is the floral-dip method: the flowers are dipped in an agrobacterium culture

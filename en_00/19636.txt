@@ -1,0 +1,1 @@
+A Dirichlet Process Is A Stochastic Process With A Distribution That Is Given By The Dirichlet Distribution

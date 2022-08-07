@@ -1,0 +1,1 @@
+A Default Rule Can Be Applied To A Theory If Its Precondition Is Entailed By The Theory And Its Justifications Are All Consistent With The Theory

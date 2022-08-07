@@ -1,0 +1,1 @@
+A Consequence Of The Ability To Compose Transformations By Multiplying Their Matrices Is That Transformations Can Also Be Inverted By Simply Inverting Their Matrices

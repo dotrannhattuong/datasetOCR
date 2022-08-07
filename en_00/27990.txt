@@ -1,0 +1,1 @@
+a function may set the global error code to indicate the cause of the failure and return an invalid file handle

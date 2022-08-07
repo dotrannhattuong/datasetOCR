@@ -1,0 +1,1 @@
+"automation is considered ""safe"" because no legitimate email messages should be arriving to the spamtrap address"

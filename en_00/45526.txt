@@ -1,0 +1,1 @@
+and a NOR as AND with input bubbles

@@ -1,0 +1,1 @@
+as we are able to derive vgs from iref based on properties of the transistor

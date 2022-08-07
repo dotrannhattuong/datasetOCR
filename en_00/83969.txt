@@ -1,0 +1,1 @@
+a separator dot (tractulus) was introduced to make clear which notes were supposed to form a triplex group together

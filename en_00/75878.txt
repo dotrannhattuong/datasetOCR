@@ -1,0 +1,1 @@
+An unramified covering then is the occurrence of an empty ramification locus

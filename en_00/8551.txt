@@ -1,0 +1,1 @@
+37 will send a fax to an email address by converting the document to a pdf or tiff image

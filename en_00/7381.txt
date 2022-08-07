@@ -1,0 +1,1 @@
+26: Brazilian 8x8 draughts (same as 10x10 rules)

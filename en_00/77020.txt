@@ -1,0 +1,1 @@
+a player may not move a piece off of a stack on which an opponent's piece is on top (unless the player cannot make any other move

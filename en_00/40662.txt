@@ -1,0 +1,1 @@
+A memory management unit (MMU) in the system is helpful

@@ -1,0 +1,1 @@
+although this does not result in a rotation rate that is always exactly proportional to the los-rate (which would require a constant airspeed)

@@ -1,0 +1,1 @@
+all input was done on a single string of text

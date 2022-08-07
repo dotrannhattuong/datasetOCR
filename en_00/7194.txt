@@ -1,0 +1,1 @@
+(2400 dpi diagram) Normal LCDs address groups of 3 locations as pixels

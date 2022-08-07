@@ -1,0 +1,1 @@
+as we can see the geometry of image projection and the mathematics of transformation is a very key element in studying this field

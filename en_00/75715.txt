@@ -1,0 +1,1 @@
+a number of quite simple relationships are able to be derived for several performance measures based on knowing the arrival rate and service rate

@@ -1,0 +1,1 @@
+A Pendulum At Rest Will Be Plotted As A Point

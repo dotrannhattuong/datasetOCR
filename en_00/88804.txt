@@ -1,0 +1,1 @@
+as that 128 kib was intended to be used by the etga hardware only

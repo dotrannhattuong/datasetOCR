@@ -1,0 +1,1 @@
+and executes (actions) contained in an EBIF resource in order to present a multimedia page to an end-user

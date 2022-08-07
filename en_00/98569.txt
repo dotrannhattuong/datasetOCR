@@ -1,0 +1,1 @@
+Avidemux has advanced scripting available for it both in its GUI and command line modes

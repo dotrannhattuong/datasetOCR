@@ -1,0 +1,1 @@
+A Good Example Of A Declarative Language Would Be Prolog

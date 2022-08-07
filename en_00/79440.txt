@@ -1,0 +1,1 @@
+A regular star polygon can also be represented as a sequence of stellations of a convex regular core polygon

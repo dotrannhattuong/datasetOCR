@@ -1,0 +1,1 @@
+a stack might start at a memory location of one thousand

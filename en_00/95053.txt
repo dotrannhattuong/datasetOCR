@@ -1,0 +1,1 @@
+at that point the keystream goes back to normal

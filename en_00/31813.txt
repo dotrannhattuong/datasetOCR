@@ -1,0 +1,1 @@
+A Linear Programming problem is an optimization (mathematics) problem in which we want to maximize or minimize a linear objective function over a set of linear constraints

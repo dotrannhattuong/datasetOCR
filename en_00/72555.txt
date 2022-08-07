@@ -1,0 +1,1 @@
+A NID converts each device protocol into a common transmission protocol

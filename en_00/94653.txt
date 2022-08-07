@@ -1,0 +1,1 @@
+a truth predicate is a predicate on the sentences of a formal language

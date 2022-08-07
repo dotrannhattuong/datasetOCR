@@ -1,0 +1,1 @@
+and an Attack (ATK) and Defense (DEF) Points stat that dictates how much damage is inflicted or which monster destroys which

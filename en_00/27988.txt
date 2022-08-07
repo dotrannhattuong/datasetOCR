@@ -1,0 +1,1 @@
+A function may be considered critical if the implications for stakeholders of damage to the organization resulting are regarded as unacceptable

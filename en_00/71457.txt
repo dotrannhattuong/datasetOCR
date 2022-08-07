@@ -1,0 +1,1 @@
+An Envelope Detector Can Also Be Constructed To Use A Precision Rectifier Feeding Into A Low-Pass Filter

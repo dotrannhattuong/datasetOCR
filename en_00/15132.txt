@@ -1,0 +1,1 @@
+A call option is in-the-money when the strike price is below the current trading price

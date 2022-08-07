@@ -1,0 +1,1 @@
+An estimator or decision rule having nonzero bias is said to be biased

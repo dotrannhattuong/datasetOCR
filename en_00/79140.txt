@@ -1,0 +1,1 @@
+Areal velocity is the rate at which area is swept by the position vector of a point which moves along a curve

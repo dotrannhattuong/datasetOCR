@@ -1,0 +1,1 @@
+An ARCNET would keep on going at normal (or even better) throughput

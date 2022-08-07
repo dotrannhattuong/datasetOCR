@@ -1,0 +1,1 @@
+A word is called oxytone if it is stressed on its last syllable

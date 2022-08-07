@@ -1,0 +1,1 @@
+an acoustic fingerprint is very different from a hash code which is generated from the binary data contained in a file

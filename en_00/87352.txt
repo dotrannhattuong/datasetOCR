@@ -1,0 +1,1 @@
+As opposed to self-balancing binary search trees that attempt to keep their nodes balanced at all times

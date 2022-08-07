@@ -1,0 +1,1 @@
+A container format is a computer file format that can contain various types of data

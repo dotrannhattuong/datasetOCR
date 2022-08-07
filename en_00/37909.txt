@@ -1,0 +1,1 @@
+Although KTouch was designed for the KDE desktop environment

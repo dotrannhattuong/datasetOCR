@@ -1,0 +1,1 @@
+"after opening the components dialog box you will have to choose the component called ""microsoft winsock control 6"
