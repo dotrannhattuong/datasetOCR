@@ -1,0 +1,1 @@
+Bằng cách sử dụng libhybris hệ thống có thể được làm việc với Linux kernel được dùng trong Android

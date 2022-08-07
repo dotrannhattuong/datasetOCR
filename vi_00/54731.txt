@@ -1,0 +1,1 @@
+an open-source utility that emulates the Compose key under MS-Windows

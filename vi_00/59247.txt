@@ -1,0 +1,1 @@
+as well as adding software setup (now standardised as Plug-n-play) to supplant or replace the jumpers

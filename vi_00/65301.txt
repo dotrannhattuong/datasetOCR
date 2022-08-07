@@ -1,0 +1,1 @@
+Bài Toán Ngắt Một Đoạn Văn N Chữ Thành Các Dòng Có Độ Phức Tạp Thực 2^N

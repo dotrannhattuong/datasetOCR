@@ -1,0 +1,1 @@
+ban đầu nó được cài android 4.1.1 (jelly bean) nhưng sau được cập nhật lên 4.1.2

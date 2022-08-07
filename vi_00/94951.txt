@@ -1,0 +1,1 @@
+Bộ mở rộng ký tự Ruby của nó vào HTML cũng được chấp nhận làm một module trong W3C XHTML 1.1

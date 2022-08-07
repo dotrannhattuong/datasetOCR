@@ -1,0 +1,1 @@
+-Aliasing (Khử Răng Cưa): Nhiều Địa Chỉ Ảo Có Thể Ánh Xạ Đến Một Địa Chỉ Vật Lý Duy Nhất

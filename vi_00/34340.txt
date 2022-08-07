@@ -1,0 +1,1 @@
+4 loại bộ nhớ cache (dựa trên mục hoặc thẻ phù hợp với bộ nhớ vật lý hoặc bộ nhớ ảo)

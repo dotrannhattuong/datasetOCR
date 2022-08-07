@@ -1,0 +1,1 @@
+bit chẵn lẻ dùng quy luật chẵn là một trường hợp đặc biệt của kỹ thuật kiểm tra độ dư tuần hoàn (cyclic redundancy check - crc)

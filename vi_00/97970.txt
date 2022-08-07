@@ -1,0 +1,1 @@
+bộ thu nhận tín hiệu hồng ngoại tính toán để xác định vị trí được nhấn và gửi tín hiệu cho bộ xử lý

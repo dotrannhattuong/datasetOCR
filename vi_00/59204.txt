@@ -1,0 +1,1 @@
+a successor to 4680 OS based on Novell's FlexOS 286/FlexOS 386 2.3x

@@ -1,0 +1,1 @@
+bản cài đặt bình thường của kubuntu sử dụng môi trường kde

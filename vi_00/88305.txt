@@ -1,0 +1,1 @@
+Biểu ghi có kiểm soát hay biểu ghi nhất quán (authority record) có thể được kết hợp vào một cơ sở dữ liệu và gọi tên là hồ sơ tiêu đề chuẩn (authority file)

@@ -1,0 +1,1 @@
+4.4 cũng thay đổi đáng kể đến việc lưu trữ thứ cấp trên thiết bị vì lý do bảo mật;

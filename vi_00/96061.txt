@@ -1,0 +1,1 @@
+bộ nhớ nội eeprom - có thể ghi/xoá lên tới 1 triệu lần

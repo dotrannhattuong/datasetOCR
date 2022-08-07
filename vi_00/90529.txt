@@ -1,0 +1,1 @@
+Bit Chẵn Lẻ Dùng Quy Luật Số Lẻ Có Giá Trị Bằng 1(2) Nếu Số Lượng Các Bit 1

@@ -1,0 +1,1 @@
+bộ xử lý được thiết kế riêng với sự chú trọng vào hiệu năng và tiết kiệm năng lượng

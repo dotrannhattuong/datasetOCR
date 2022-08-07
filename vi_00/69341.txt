@@ -1,0 +1,1 @@
+băng tần ấn định cho UMTS là 1885–2025 MHz với đường lên (uplink) và 2110–2200 MHz cho đường xuống (downlink)

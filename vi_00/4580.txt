@@ -1,0 +1,1 @@
+144-pin (64-bit) dùng cho SO-DIMM SDRAM

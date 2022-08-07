@@ -1,0 +1,1 @@
+bộ gen trong rna của virus được chuyển đổi (phiên mã ngược) thành dna mạch kép bởi enzym phiên mã ngược đã được vận chuyển cùng với bộ gen của virus trong các hạt virus

@@ -1,0 +1,1 @@
+"at which point the CPU would move the data by reading the ""memory location"" that corresponded to the disk drive"

@@ -1,0 +1,1 @@
+ban đầu chỉ tính 7 kết quả tốt nhất của mỗi đội

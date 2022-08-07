@@ -1,0 +1,1 @@
+bắt đầu với phương trình bậc hai dạng tổng quát ax2 + bx + c  0

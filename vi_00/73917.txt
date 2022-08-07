@@ -1,0 +1,1 @@
+Bao Gồm Các Thiết Bị Có Tính Năng Nhập/Xuất (I/O) Của Máy Tính Bao Gồm: Các Khe Mở Rộng Bằng Bus Pci

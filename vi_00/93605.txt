@@ -1,0 +1,1 @@
+"bội số chung nhỏ nhất của 2 số a và b được ký hiệu là [a,b]"

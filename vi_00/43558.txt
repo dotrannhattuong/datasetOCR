@@ -1,0 +1,1 @@
+afm cũng có thể tiến hành các thao tác di chuyển và xây dựng ở cấp độ từng nguyên tử

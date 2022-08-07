@@ -1,0 +1,1 @@
+bộ vi xử lý 80386dx là một vi xử lý 32bit hoàn thiện với 32bit bus dữ liệu

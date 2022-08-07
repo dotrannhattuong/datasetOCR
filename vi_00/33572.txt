@@ -1,0 +1,1 @@
+"424m smpte và ebu tech 3299 đòi hỏi ycbcr không gian màu sắc và 4: 2: 2 chroma mẫu phụ để truyền 1080p50 (trên danh nghĩa 2,08 gbit / s) và tín hiệu 1080p60"

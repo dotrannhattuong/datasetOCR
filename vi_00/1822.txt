@@ -1,0 +1,1 @@
+11112 có thể được chuyển thẳng sang F16 mà chỉ cần một phép tính (xem Biểu thị số thập lục phân)

@@ -1,0 +1,1 @@
+Bảng hiển thị có thể được cập nhật với tốc độ từ 0 Hz và 41 Hz (48 Hz cho IBM T221-DG5

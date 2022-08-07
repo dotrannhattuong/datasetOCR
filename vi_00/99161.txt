@@ -1,0 +1,1 @@
+bộ xử lý đọc hoặc viết dữ liệu vào cache line ngay lập tức

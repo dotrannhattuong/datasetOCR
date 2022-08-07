@@ -1,0 +1,1 @@
+bộ nhớ đệm sẽ ở trạng thái cấu trúc “ánh xạ trực tiếp”- direct mapped cache

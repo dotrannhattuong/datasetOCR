@@ -1,0 +1,1 @@
+bao gồm các phần mềm miễn phí phát hành theo Giấy phép công cộng tổng quát GNU (GPL) và được viết bằng Python

@@ -1,0 +1,1 @@
+25fps phát sóng nội dung tại 1080i50 chưa deinterlaced đến nội dung 1080p mà không làm giảm chất lượng hay độ phân giải

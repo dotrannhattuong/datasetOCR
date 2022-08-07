@@ -1,0 +1,1 @@
+bộ nhớ chính dùng để lưu các dữ liệu cần xử lý

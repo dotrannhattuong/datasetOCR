@@ -1,0 +1,1 @@
+"1.2,1.3) đến ngày nay là phiên bản 2.x"

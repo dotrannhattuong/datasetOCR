@@ -1,0 +1,1 @@
+BASIC được thiết kế để cho các thế hệ người sử dụng mới có thể tận dụng hệ thống chia sẻ thời gian để lập trình

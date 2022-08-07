@@ -1,0 +1,1 @@
+Bản phát hành nguyên thủy của Internet Explorer 7 đòi hỏi máy tính phải vượt qua quy trình kiểm tra Windows Genuine Advantage trước khi cài đặt

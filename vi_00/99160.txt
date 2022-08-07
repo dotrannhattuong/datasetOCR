@@ -1,0 +1,1 @@
+bộ xử lý đọc hay viết dữ liệu vào cache ngay lập tức nên sẽ nhanh hơn nhiều so với đọc hay viết vào bộ nhớ chính

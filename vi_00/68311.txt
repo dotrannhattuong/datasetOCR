@@ -1,0 +1,1 @@
+bảng chữ cái chú âm gồm có 37 ký tự và 4 dấu thanh và có thể ký hiệu được toàn bộ các âm quan thoại của chữ hán

@@ -1,0 +1,1 @@
+ASCII quy định mối tương quan giữa kiểu bit số với ký hiệu/biểu tượng trong ngôn ngữ viết

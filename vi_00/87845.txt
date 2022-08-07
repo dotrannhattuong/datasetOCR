@@ -1,0 +1,1 @@
+biến thể của sk telecom (model shw-m250s) sử dụng hệ thống sk-mms thay cho hệ thống oma-mms để gửi tin nhắn đa phương tiện

@@ -1,0 +1,1 @@
+avahi (một thực hiện zeroconf miễn phí) bắt đầu như là một dự án fd.o nhưng đã di chuyển đến nơi khác

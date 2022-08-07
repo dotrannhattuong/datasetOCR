@@ -1,0 +1,1 @@
+ARM2 có 30.000 transistors trong khi ARM6 chỉ tăng lên đến 35.000

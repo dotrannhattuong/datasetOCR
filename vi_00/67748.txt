@@ -1,0 +1,1 @@
+Ban do nhiet va bieu tuong duoc them vao Google Maps API

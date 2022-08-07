@@ -1,0 +1,1 @@
+bậc thang li khai cho phép mỗi nhà phân phối được tuyển tuyến dưới với số lượng tùy thích (cũng giống như mô hình đều tầng)

@@ -1,0 +1,1 @@
+bằng cách sử dụng phép chia lấy số nguyên và số dư trong hệ cơ số nguồn

@@ -1,0 +1,1 @@
+Bản Service Pack Này Mặc Định Hỗ Trợ Sata Và Ổ Cứng Có Dung Lượng Hơn 137Gb (Hỗ Trợ Lba)

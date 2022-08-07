@@ -1,0 +1,1 @@
+any closed subgroup of a lie group is a lie group

@@ -1,0 +1,1 @@
+Adreno 430 GPU with support for Vulkan 1.0

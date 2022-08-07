@@ -1,0 +1,1 @@
+bằng cách gán các thứ tự ưu tiên cho các thông báo và đảm bảo các thông báo có độ ưu tiên cao hơn sẽ được lưu chuyển thay vì bị trễ do quá trình lưu thông trên mạng;

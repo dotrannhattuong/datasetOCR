@@ -1,0 +1,1 @@
+bao gồm tăng danh sách ứng dụng hàng đầu cho các ứng dụng trở lại 1000 thay vì 100 ứng dụng

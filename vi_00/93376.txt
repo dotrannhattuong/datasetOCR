@@ -1,0 +1,1 @@
+bởi khi a  0 thì phương trình bậc hai sẽ chuyển về bậc nhất có một nghiệm

@@ -1,0 +1,1 @@
+bỏ qua giai đoạn dvi và tạo ra sản phẩm với định dạng tài liệu PDF (Portable Document Format) của Adobe Systems

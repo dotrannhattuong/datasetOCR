@@ -1,0 +1,1 @@
+bắt electron là cơ chế phân rã chính đối với các đồng vi nhẹ hơn 51v

@@ -1,0 +1,1 @@
+"backports chứa các phần mềm mới,chủ yếu dàng những hệ điều hành debian ổn định"

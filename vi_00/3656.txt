@@ -1,0 +1,1 @@
+13.1.6 phát cầu không đúng thứ tự trong thi đấu

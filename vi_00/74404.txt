@@ -1,0 +1,1 @@
+bao gồm chương trình quản lý tập tin cũng sử dụng định nghĩa này

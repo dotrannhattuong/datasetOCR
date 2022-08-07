@@ -1,0 +1,1 @@
+bo dieu khien VGA se su dung 1 bit cho moi pixel

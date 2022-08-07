@@ -1,0 +1,1 @@
+1024 byte (210): Định nghĩa này luôn luôn được dùng để chỉ dung lượng chip bộ nhớ

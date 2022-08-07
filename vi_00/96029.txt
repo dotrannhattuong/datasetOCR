@@ -1,0 +1,1 @@
+bộ nhớ đệm với nhiều tính kết hợp sẽ chỉ chịu việc lệch ít hơn (xem phần lệch do mâu thuẫn bên dưới)

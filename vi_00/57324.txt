@@ -1,0 +1,1 @@
+ardenne đã chưa phát triển một ống quét mà chỉ sử dụng màn hình crt như một máy quét bay tại chỗ để quét slide và phim

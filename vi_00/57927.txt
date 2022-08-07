@@ -1,0 +1,1 @@
+arpanet được thiết kế để truyền thông điệp 1822 một cách đáng tin cậy

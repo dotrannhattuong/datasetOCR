@@ -1,0 +1,1 @@
+1xrtt gần như tăng gấp đôi dung lượng so với is-95 bằng cách thêm 64 kênh lưu lượng nữa cho liên kết đường xuống

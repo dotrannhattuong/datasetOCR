@@ -1,0 +1,1 @@
+bạn cần vào windows features và bật hyper-v

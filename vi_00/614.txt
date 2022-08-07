@@ -1,0 +1,1 @@
+100 mhz bus với 1600 mb/s bandwidth

@@ -1,0 +1,1 @@
+biết được lộ trình hiện tại xe đang đi (real time)

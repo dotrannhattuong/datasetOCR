@@ -1,0 +1,1 @@
+204-pin (64-bit) dùng cho SO-DIMM DDR3 SDRAM

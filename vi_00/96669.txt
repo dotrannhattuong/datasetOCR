@@ -1,0 +1,1 @@
+bộ phận điều khiển bộ nhớ phải viết lại nội dung ô nhớ đó

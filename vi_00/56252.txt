@@ -1,0 +1,1 @@
+APM va cong game ho tro EISA (mac du tren cac phien ban tro choi 32-bit ho tro cong co the duoc kich hoat bang cach su dung mot trinh dieu khien cu)

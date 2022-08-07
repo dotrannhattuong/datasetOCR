@@ -1,0 +1,1 @@
+bài toán quyết định-thống kê được tạo ra bằng cách cực tiểu hóa một hàm mục tiêu (objective function)

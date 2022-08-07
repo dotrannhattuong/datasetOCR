@@ -1,0 +1,1 @@
+Bộ tư lệnh chủ lực (major command hay viết tắt là MAJCOM) là cấp bậc tư lệnh tối cao

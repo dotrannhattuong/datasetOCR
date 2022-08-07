@@ -1,0 +1,1 @@
+Biến ngẫu nhiên là một hàm của mẫu ngẫu nhiên và các tham số chưa biết

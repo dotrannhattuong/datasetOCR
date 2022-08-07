@@ -1,0 +1,1 @@
+4096 với quy định giới hạn của từng loại định dạng (FAT/FAT32 hay NTFS)

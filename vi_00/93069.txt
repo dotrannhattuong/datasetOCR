@@ -1,0 +1,1 @@
+bởi bản chất là một hệ bản mẫu không phụ thuộc vào servlet

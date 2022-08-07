@@ -1,0 +1,1 @@
+[10] lưu trữ replica sao chép khối thay vì tập tin;

@@ -1,0 +1,1 @@
+bản phân phối Linux dựa trên Debian với desktop Unity (trước đây là GNOME)

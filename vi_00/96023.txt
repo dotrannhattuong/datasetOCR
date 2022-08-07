@@ -1,0 +1,1 @@
+Bộ Nhớ Đệm (Cache Hoặc Buffer): Là Nơi Tạm Lưu Dữ Liệu Trong Quá Trình Đọc/Ghi Dữ Liệu

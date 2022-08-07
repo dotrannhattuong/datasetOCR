@@ -1,0 +1,1 @@
+Active Directory Federation Services: Co the cau hinh AD FS de xac thuc nguoi dung duoc luu tru trong cac thu muc khong AD

@@ -1,0 +1,1 @@
+400 MHz bus voi 6400 MB/s bandwidth

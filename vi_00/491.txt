@@ -1,0 +1,1 @@
+1.000.000.000 byte hay 109 byte là định nghĩa theo hệ thập phân dùng trong truyền thông (như tốc độ mạng) và phần lớn nhà sản xuất thiết bị lưu trữ (ổ cứng và ổ usb)

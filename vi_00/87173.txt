@@ -1,0 +1,1 @@
+biến đổi tương đồng tạo thành nhóm con với a là giá trị vô hướng nhân với một ma trận trực giao

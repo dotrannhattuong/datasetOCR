@@ -1,0 +1,1 @@
+able to boot and run from 2x00 series tape drives)

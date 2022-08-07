@@ -1,0 +1,1 @@
+A/UX (UNIX System V với phần mở rông BSD)

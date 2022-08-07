@@ -1,0 +1,1 @@
+Android không có sẵn X Window System cũng không hỗ trợ các thư viện GNU chuẩn

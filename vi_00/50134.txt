@@ -1,0 +1,1 @@
+android sử dụng webkit là nền tảng cho trình duyệt web của nó

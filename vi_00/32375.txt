@@ -1,0 +1,1 @@
+3d touch được kết hợp với taptic engine sẽ phản hồi lại người dùng bằng cách rung lên

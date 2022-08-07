@@ -1,0 +1,1 @@
+API (lớp) Java của các gía trị được ẩn trong FreeMarker thông qua kỹ thuật cuộn đối tượng (object wrapping)

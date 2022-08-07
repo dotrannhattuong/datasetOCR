@@ -1,0 +1,1 @@
+200-pin (72-bit) dùng cho so-dimm ddr sdram và so-dimm ddr2 sdram

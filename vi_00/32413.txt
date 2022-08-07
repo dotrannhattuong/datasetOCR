@@ -1,0 +1,1 @@
+3GPP AT command set for user equipment (UE)

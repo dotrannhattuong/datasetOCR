@@ -1,0 +1,1 @@
+3 biến thể cơ bản của phiên bản c đã được lên kế hoạch chế tạo ban đầu

@@ -1,0 +1,1 @@
+bit chẵn lẻ thường được phát sinh và kiểm tra bởi phần cứng giao thức - chẳng hạn như UART - và khi thu nhận

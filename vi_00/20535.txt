@@ -1,0 +1,1 @@
+1 Pixel shaders: Vertex shaders: Texture mapping units: Render output units

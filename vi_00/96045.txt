@@ -1,0 +1,1 @@
+Bộ nhớ: là thiết bị bên trong bo mạch chủ giữ nhiệm vụ trung gian cung cấp các mệnh lệnh cho CPU và các dữ liệu từ các bộ phận như là BIOS

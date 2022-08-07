@@ -1,0 +1,1 @@
+boot loader bắt đầu thực thi nhân hệ điều hành trong supervisor mode

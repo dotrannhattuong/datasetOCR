@@ -1,0 +1,1 @@
+Bộ nhớ đệm CPU hầu như đầu có tất cả các hàng chứa những bản sao của một số hàng trong RAM

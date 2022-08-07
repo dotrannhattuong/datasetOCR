@@ -1,0 +1,1 @@
+bộ vi xử lý 64-bit (armv8-a) đầu tiên được dùng trên điện thoại thông minh

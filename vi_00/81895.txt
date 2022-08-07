@@ -1,0 +1,1 @@
+b của hai đơn vị cơ sở 1 và i sang không gian vectơ n chiều với n hệ số thực x0

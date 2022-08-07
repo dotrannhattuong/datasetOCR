@@ -1,0 +1,1 @@
+bit CRC duoc kien tao bamg cach dung da thuc (polynomial) x+1

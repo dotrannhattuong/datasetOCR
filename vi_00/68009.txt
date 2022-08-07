@@ -1,0 +1,1 @@
+Bảng băm (hash table) cũng được dùng cho tìm kiếm trên danh sách

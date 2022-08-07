@@ -1,0 +1,1 @@
+Bởi trong CPU AMD tích hợp điều khiển bộ nhớ (trình điều khiển bộ nhớ) trong chính CPU

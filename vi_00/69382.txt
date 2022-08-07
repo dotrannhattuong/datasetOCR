@@ -1,0 +1,1 @@
+Băng Thông Hẹp Sẽ Vướng Vào Giới Hạn Nyquist (Nyquist Limit) Khi Trường Biến Đổi Nhanh

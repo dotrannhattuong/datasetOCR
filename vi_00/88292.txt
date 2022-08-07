@@ -1,0 +1,1 @@
+biểu đồ phân rã của dữ liệu được tạo ra bởi một hàm phân phối có thể được chuyển đổi với các công cụ quen thuộc được sử dụng trong thống kê để cho thấy những điều cơ bản

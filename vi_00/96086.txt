@@ -1,0 +1,1 @@
+bộ nhớ trong được hiểu là các loại bộ nhớ nằm nội bộ bên trong thùng máy

@@ -1,0 +1,1 @@
+Bất kỳ lượt giao cầu nào cũng được thực hiện từ ô giao cầu tương ứng với số điểm mà bên giao cầu đó có

@@ -1,0 +1,1 @@
+bộ so sánh điện áp (voltage comparators)

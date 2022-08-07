@@ -1,0 +1,1 @@
+bởi vì cpu chỉ có thể thực thi mã cho một thiết bị ngoại vi tại một thời điểm

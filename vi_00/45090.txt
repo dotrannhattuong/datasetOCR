@@ -1,0 +1,1 @@
+A làm thay đổi động lượng của B bao nhiêu thì động lượng của A cũng bị thay đổi bấy nhiêu theo chiều ngược lại

@@ -1,0 +1,1 @@
+arch-libraryhspa (high speed packet access) truy cập gói tốc độ cao là công nghệ được triển khai trên nền wcdma

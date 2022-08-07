@@ -1,0 +1,1 @@
+"BCNN(A,B) HOẶC LCM(A,B)"

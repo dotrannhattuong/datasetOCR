@@ -1,0 +1,1 @@
+berkeley được quyền sử dụng code của unix để phát triển ra nhãn hiệu unix khác là bsd (berkeley software distribution)

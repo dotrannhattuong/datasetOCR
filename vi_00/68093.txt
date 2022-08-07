@@ -1,0 +1,1 @@
+bằng cách đầu tiên chứng minh rằng bài toán dừng trong máy của Turing là bất khả định;

@@ -1,0 +1,1 @@
+"Bộ vi xử lý PowerPC và Intel được hỗ trợ trong phiên bản 10.4 (Tiger """

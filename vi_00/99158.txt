@@ -1,0 +1,1 @@
+bộ xử lý có thể đọc một lệnh ngay sau khi nó đọc xong lệnh trước đó

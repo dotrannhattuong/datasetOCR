@@ -1,0 +1,1 @@
+Bộ vi xử lý của thiết bị có thể ép xung lên 1.8 GHz với kernel tuỳ chỉnh

@@ -1,0 +1,1 @@
+bridge là thiết bị cho phép nối kết hai nhánh mạng

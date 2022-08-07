@@ -1,0 +1,1 @@
+bạn nên sử dụng một 301 để xác định vị trí mới của tài nguyên

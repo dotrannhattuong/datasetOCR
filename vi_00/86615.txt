@@ -1,0 +1,1 @@
+bị chia tách thành các mảng kiến tạo và di chuyển trên manti trên ở dạng rắn

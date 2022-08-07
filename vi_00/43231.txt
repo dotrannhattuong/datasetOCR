@@ -1,0 +1,1 @@
+ADO.NET Entity Framework sẽ thay thế và cải thiện các công nghệ cũ

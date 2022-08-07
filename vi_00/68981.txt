@@ -1,0 +1,1 @@
+Bảng Mã Ansi Là Mã Windows-1252 Và Bảng Mã Oem Là Bảng Mã 437

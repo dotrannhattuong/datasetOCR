@@ -1,0 +1,1 @@
+"BỘ MÁY IE6 CÓ THỂ ĐƯỢC TÁI KÍCH HOẠT BẰNG CÁCH ĐẶT MỘT TẬP TIN CÓ TÊN ""IEXPLORE.EXE.LOCAL"" VÀO THƯ MỤC IE7"

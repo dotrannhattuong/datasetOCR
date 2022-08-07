@@ -1,0 +1,1 @@
+Bộ chữ Pahawh hiện có mã unicode là U+16B00–U+16B8F 

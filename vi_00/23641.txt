@@ -1,0 +1,1 @@
+20 chỉ thời gian tải nếu nó không nằm trong khoảng 10 - 15 s

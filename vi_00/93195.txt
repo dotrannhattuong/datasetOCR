@@ -1,0 +1,1 @@
+bởi chưa có thuật toán hiệu quả để phân tích số nguyên

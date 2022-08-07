@@ -1,0 +1,1 @@
+Bo mach con danh cho dung hinh 3d nay thuc hien mot phan cua tinh toan can thiet cho nhieu chi tiet do hoa ba chieu (chu yeu la loc ket cau-texture filtering)

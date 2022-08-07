@@ -1,0 +1,1 @@
+Bao gom Cache L1 va Cache L2

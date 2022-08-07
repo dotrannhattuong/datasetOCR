@@ -1,0 +1,1 @@
+Bit Chẵn Lẻ Có Một Ưu Điểm: Nó Là Một Mã Tốt Nhất Chiếm Chỉ Một Bit Và Chỉ Dùng Vài Cồng Xor (Xor Gate) Để Tạo Giá Trị Mà Thôi

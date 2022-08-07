@@ -1,0 +1,1 @@
+$40 Nếu Mệnh Giá Là $2 Hoặc Cao Hơn Nhưng Không Vượt Quá $10;

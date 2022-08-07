@@ -1,0 +1,1 @@
+A Debian Developer gives his summary of problems discussed on the debian-legal mailing list (note that this comments on the outdated 2.0 versions of the licenses)
