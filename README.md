@@ -1,5 +1,5 @@
 # Dataset VietOCR
-[vietocr](https://github.com/pbcquoc/vietocr)
+[VietOCR](https://github.com/pbcquoc/vietocr)
 
 # Description
 ```
